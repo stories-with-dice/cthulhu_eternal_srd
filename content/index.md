@@ -23,17 +23,30 @@ title: Cthulhu Eternal SRD
 
 [[Part 9 - Game Master Resources]]
 
-[[Open Mythos - Rituals]]
+[[Part 10 - Open Mythos - Rituals]]
 
-[[Open Mythos - Creatures]]
+[[Part 11 - Open Mythos - Creatures]]
 
-[[Open Mythos - Cults]]
+[[Part 12 - Open Mythos - Cults]]
 
-[[Open Mythos - Artifacts]]
+[[Part 13 - Open Mythos - Artifacts]]
 
 ---
 
-NOTE: Source etc. TODO
+All this content is released under OGL, via https://cthulhueternal.com/. 
+
+Check out their SRDs on DriveThruRPG:
+
+- [**_Cthulhu Eternal: Medieval_** SRD](https://www.drivethrurpg.com/product/435864/Cthulhu-Eternal--Medieval-SRD)
+- [_**Cthulhu Eternal: Age of Revolutions**_ (1750-1850) SRD](https://www.drivethrurpg.com/product/408170/Cthulhu-Eternal--Age-of-Revolutions-SRD)
+- [**_Cthulhu Eternal: Victorian Era_** SRD](https://www.drivethrurpg.com/product/384108/Cthulhu-Eternal--Victorian-Era-SRD)
+- [**_Cthulhu Eternal: Jazz Age_** SRD](https://www.drivethrurpg.com/product/384109/Cthulhu-Eternal--Jazz-Age-SRD)
+- [**_Cthulhu Eternal: World War II_** SRD](https://www.drivethrurpg.com/product/428151/Cthulhu-Eternal--World-War-II-SRD)
+- [_**Cthulhu Eternal: Cold War**_ SRD](https://www.drivethrurpg.com/product/389792/Cthulhu-Eternal--Cold-War-SRD)
+- [**_Cthulhu Eternal: Modern Age_** SRD](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
+- [**_Cthulhu Eternal: Future_** SRD](https://www.drivethrurpg.com/product/455523/Cthulhu-Eternal--Future-SRD)
+
+TODO expand
 
 ---
 
@@ -46,3 +59,4 @@ TODOs
 - [ ] add pregens
 - [ ] add NPCs
 - [ ] replace all "See" references with links
+- [ ] Open Mythos
