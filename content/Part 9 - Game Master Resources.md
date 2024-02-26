@@ -1,12 +1,12 @@
 This section consists of a series of resources which are designed to help a Game Moderator design exciting and dangerous scenarios to challenge a Protagonist Group.
 
-# **9.0 Maddening Revelations**
+# Maddening Revelations
 
 A common feature of Cthulhu Mythos fiction is the existence of musty old tomes which describe the ‘truth’ about mankind’s perilous place in the universe, and the powers thirsting for cosmic upheaval. In the Modern Age such revelations might be found buried in ancient tomes, journals or even files in an electronic database. Alternatively, the secret knowledge might be passed down from generation-to-generation through spoken tales and mystic traditions.
 
 Revelatory accounts and the secret information they contain can, if you wish, be important parts of your _Cthulhu Eternal_ game. Some of the revelations might describe supernatural powers or “magickal effects” that Protagonists might be able to utilize to fight back the shadows. Often these will require they perform time-consuming rituals drawn from mystical traditions.
 
-## **9.1 Researching the Mythos**
+## Researching the Mythos
 
 If you as Game Moderator want to include a form of revelatory information in your game, there are a few factors to consider:
 
@@ -19,11 +19,11 @@ If you as Game Moderator want to include a form of revelatory information in you
 
 Mythos accounts offer one of the few ways in which Protagonists may increase their rating in the **Unnatural** skill. Each has an associated amount of Unnatural skill gain that it might potentially impart … if only the Protagonist is able to see past its disordered jumble of insane ideas. Simple accounts of the Cthulhu Mythos might impart just a few points (+1 to +3 perhaps) while weighty records (like those immortalized in the infamous _Necronomicon_) might offer the reader thorough and dangerous insight (+15 or more points of increase in **Unnatural**).
 
-### **9.1.1 Finding Information**
+### Finding Information
 
 If the ‘tome’ (or other information source) is hidden away or stored as part of a vast collection, Protagonists may need to exercise a range of skills to track it down. Or maybe interpersonal skills will allow them to get directions to it from people who are knowledgeable about the collection?
 
-### **9.1.2 Accessing and Understanding the Contents**
+### Accessing and Understanding the Contents
 
 If the item is expressed in a language other than the common vernacular, understanding it might require a relevant **Foreign Language** test. This is especially true if the information is expressed in archaic or highly specialized language.
 
@@ -37,7 +37,7 @@ Other possibilities:
 
 - If the information is locked away in some technological recording – on a video camera or busted server – there may be a need for Protagonists to succeed in **Technology Use** tests, or track down replacement parts, or even use **Craft** skills to build apparatus to decode and display the information in a human-readable form.
 
-### **9.1.3 Immersion**
+### Immersion
 
 To the layperson, an account of the Cthulhu Mythos looks like nothing more than a random collection of disjointed thoughts, none of them imparting any real meaning. This is because most people have no prior experience of the Unnatural and thus have no reason to think that the gibbering ravings might be something meaningful.
 
@@ -58,19 +58,19 @@ If this roll fails, the researcher becomes convinced that the account is gibberi
 
 If this roll is a _critical success_, the researcher becomes obsessed with the account – and will want to pursue its analysis at all costs. This might present some difficult situations, but also means the research (see below) will be completed in **half** the normal time.
 
-### **9.1.4 Investing Time**
+### Investing Time
 
 Delving into a weighty account of the Mythos might take months, especially if it is rendered in rambling and confusing language; on the other hand, the information might be presented in a form that only takes a few minutes to comprehend. You as Game Moderator should make a call as to the amount of time that a Protagonist must invest in order to properly appreciate the contents of the knowledge source – in general, the more cryptic and voluminous, the longer it will take. Conceivably, some records featuring elliptical logic might take months to properly understand.
 
 If the Game Moderator determines that some form of skill test is required to comprehend the information (e.g., if it is in a foreign language or recorded in a highly unorthodox way), that roll should only be allowed _after_ the necessary research time has been invested. In general, it isn’t necessary for the research process to be uninterrupted, but a long break might prove a setback which lengthens the overall task.
 
-### **9.1.5 Dangers of Understanding**
+### Dangers of Understanding
 
 Lovecraft famously wrote that the most merciful thing in the world is mankind’s inability to correlate all the pieces of knowledge at its disposal. It’s this “island of ignorance” that saves humanity from going insane from the realization of the true horrors underlying the world. Deliberately diving into the study of the hidden truth is a potentially perilous undertaking.
 
 Revelations about terrible or shocking events or disgusting practices of Cthulhu Mythos entities or their followers, might warrant a **SAN** Loss.
 
-### **9.1.6 Skill Increases**
+### Skill Increases
 
 The main reason to unlock the hidden wisdom of Mythos accounts or other obscure knowledge-sources is to gain information that is relevant to the state of the current world or the scenario/campaign that is being played. In this regard, you as Game Moderator should reward successful research with some helpful details or facts which will aid in solving a problem or remaining alive in the broken world.
 
@@ -105,7 +105,7 @@ Exactly how much time is needed to study a given ritual depends on its complexit
 
 **Simple** rituals take research of the order of _hours or days_ to learn; **Complex** rituals can only be learned through the application of _days or weeks_ of study; and **Elaborate** rituals can take _weeks, months, or years_ to master. The time investment to learn a ritual does not have to be a single continuous block of research but can be split across many shorter periods of intense study.
 
-#### _Rolling to Learn A Ritual_
+#### Rolling to Learn A Ritual
 
 If the Protagonist invests the requisite time, he or she will still need to make a roll at the end of the period to see whether the time invested paid off. The Protagonist must attempt a **SAN** roll – and _fail_ the roll – to learn the ritual.
 
@@ -115,15 +115,15 @@ If, on the other hand, the roll **does** indicate the Protagonist learned the ri
 
 Once a ritual has been successfully learned, the Protagonist may attempt to perform it (see below).
 
-#### _Mythos Accounts With Multiple Rituals_
+#### Mythos Accounts With Multiple Rituals
 
 Some written accounts, in particular so-called ‘grimoires’, contain descriptions of many different supernatural rituals. Learning rituals from such sources requires each effort to be attempted separately, using the method described above.
 
-#### _Keeping Failed Rolls Secret_
+#### Keeping Failed Rolls Secret
 
 The Game Moderator may choose to keep the SAN roll made at the conclusion of a research attempt secret from the player. If the outcome is a clear success or failure the Protagonist should recognize it as such, but if the roll was a marginal success or failure the Game Moderator might choose to tell the player that the Protagonist _believes_ he or she has memorized all the subtleties but is not 100% sure. The only way to know for certain is to attempt the ritual – and if the learning attempt was a failure, such an attempt will never properly succeed. Although it may still generate an unintended supernatural effect.
 
-## **9.2 Performing Rituals**
+## Performing Rituals
 
 The specific actions, chants, and paraphernalia required to successfully perform a ritual are particular to each and should be designed as part of the ritual’s description.
 
@@ -131,7 +131,7 @@ Any attempt to carry out a ritual without the necessary knowledge or components 
 
 In terms of game mechanics, the successful performance of a ritual (once the correct pieces are in place) is achieved via an investment of time/effort, the sacrifice of points in one or more game attribute (usually Willpower Points), and a successful Ritual Activation Test (see below). If all these steps are successfully achieved, the supernatural effects of the ritual will manifest.
 
-### **9.2.1 Time Invested in the Ritual**
+### Time Invested in the Ritual
 
 The amount of time required to perform a ritual depends on its complexity rating – **Simple**, **Complex**, or **Elaborate**.
 
@@ -143,7 +143,7 @@ The amount of time required to perform a ritual depends on its complexity rating
 
 During the time taken to perform a ritual, assume that all participants are completely occupied (chanting, carrying out prescribed actions, using paraphernalia in particular ways). A short interruption might not destroy the momentum of the ritual but a longer break likely will.
 
-### **9.2.2 Powering the Ritual**
+### Powering the Ritual
 
 The description of a ritual should outline the type and number of personal attribute points that must be sacrificed to provide mental energies that fuel the supernatural effect.
 
@@ -157,7 +157,7 @@ Some rituals also call for a sacrifice of Hit Points, either from the participan
 
 Depending on the nature of the specific ritual, it may be possible for several people to cooperate in the performance. For especially large effects this may be the only way to generate enough mental energies. While the leader of the ritual must have learned it in full (using the process described in the previous section), helpers can be instructed through simple notes and rote learning. Each assistant chooses for themselves how many points of attributes they will sacrifice.
 
-### **9.2.3 The Ritual Activation Test**
+### The Ritual Activation Test
 
 If the requisite amount of time has been devoted to the ritual and the necessary number of attribute points sacrificed, the individual leading the performance may make a roll to see if the effort was ultimately successful.
 
@@ -169,7 +169,7 @@ If the roll indicates the ritual did _not_ work, all the chanting and ceremony h
 
 - **Force a connection** to the supernatural: this involves the leader personally sacrificing 1 POW permanently to turn a failed roll to a successful one. The ritual effects happen after all, despite the roll.
 
-### **9.2.4 Sanity Costs to Ritual Participants**
+### Sanity Costs to Ritual Participants
 
 The simple act of being involved in a supernatural ritual performance is damaging to a character’s Sanity, regardless of whether the ritual was successful or not.
 
@@ -177,7 +177,7 @@ If the performance was completed but something went awry (e.g., insufficient men
 
 On the other hand, if the ritual succeeded and the supernatural effect is generated it is quite likely that the experience of witnessing something bizarre created by one’s own actions will damage each participants Sanity. The precise losses should reflect the effect that is created, as described by the spell description. As a guideline, a minor supernatural effect might warrant a SAN loss of 1 point, a substantial one might be worth 1D8, a vast effect might lead to a loss of 1D12, and a truly cosmic manifestation might cause a Sanity loss of anything up to 1D100.
 
-## **9.3 Objects with Unnatural Power**
+## Objects with Unnatural Power
 
 As Game Moderator, you may wish to include in your game items with the power to create supernatural effects reminiscent of those wrought through rituals. Using such an item does not require any special training or learning, and no Ritual Activation Test is needed. The user of an object with supernatural powers may, however, still need to sacrifice attribute points to fuel the effect (as per the GM’s description of the item) and might suffer SAN loss from the experience.
 
@@ -187,7 +187,7 @@ There are lots of weird, supernatural things that can happen in your game of _Ct
 
 The following guidelines may be helpful to Game Moderators inventing custom supernatural powers for their own game.
 
-### **Designing Supernatural Effects: General Principles**
+### Designing Supernatural Effects: General Principles
 
 Supernatural effects in _Cthulhu Eternal_ are unlike the forms of magic that appear in most roleplaying games, especially games set in the fantasy genre. Rather than wielding a flashy fireball into the midst of combat, a ritual magician in _Cthulhu Eternal_ might create a supernatural effect as the result of hours of ritual incantation placing his or her mind into communion with extradimensional horrors.
 
@@ -201,7 +201,7 @@ The following general guidelines will help you in depicting magic in a suitably 
 
 - **Supernatural Effects are the enemy of Sanity:** Connecting with the forces of the Mythos is inherently dangerous to one’s Sanity. In game terms this manifests as a mandatory sacrifice of SAN; but in narrative terms you should play up the highly disturbing experience of touching an unknown and unknowable extra‐dimensional force whose very existence is anathema to everything that the caster has ever known or experienced. Generating supernatural effects should hurt. Every single time.
 
-## **10.1 Calculating the Scope of the Supernatural Effect**
+## Calculating the Scope of the Supernatural Effect
 
 The manifestations associated with a supernatural effect can be virtually anything the Game Moderator can imagine. Where such effects require game mechanics, these can be designed on a case-by-case basis.
 
@@ -233,11 +233,11 @@ One basic factor for consideration is the **range** of the supernatural effect (
 
 Use these base scope ratings as a starting point, adapting them according to the criteria specific to different effect types as shown on the next page. Wherever multiple criteria apply, always pick the greater of the two possible scope ratings (e.g., if one criterion suggests a Significant rating and another a Vast rating, the scope of the effect is actually Vast).
 
-## **10.2 Common Types of Effects**
+## Common Types of Effects
 
 As Game Moderator you’re free to invent any type of supernatural effect that complements your game world. For settings which emulate the styles of otherworldly phenomena found in H.P. Lovecraft’s fiction, a few common categories of effects may prove useful starting points for broader invention.
 
-### **10.2.1 Summoning Supernatural Entities**
+### Summoning Supernatural Entities
 
 In many Lovecraftian settings there exist a family of rituals designed to compel a supernatural being of the Cthulhu Mythos to manifest at the location where the ritual is performed. The specific details of the chants and actions that must be performed to achieve this outcome vary according to the type of creature to be **summoned**.
 
@@ -254,11 +254,11 @@ In determining the Scope rating for this supernatural effect, the most pertinent
 |31—40|Vast|
 |41—60|Sweeping|
 |61—150|Cosmic|
-### **10.2.2 Binding Supernatural Entities**
+### Binding Supernatural Entities
 
 Another category of rituals found in many Lovecraftian settings are those compelling a supernatural creature of the Cthulhu Mythos to obey the will of the ritual leader (at least for a period of time). This control is called **binding**. As with summoning, the Scope of such an effect is governed primarily by the POW of the creature – use the table above. Binding spells which have a long duration (more than a day) may warrant a higher Scope rating than that mentioned on the table.
 
-### **10.2.3 Mental Contact With Alien Gods**
+### Mental Contact With Alien Gods
 
 While the Cthulhu Mythos includes numerous races of supernatural creatures, the major Powers are more properly thought of as individual alien ‘gods’. This includes vastly powerful entities that are trapped in obscure places on our planet (like Cthulhu) through to cosmic forces that define our very reality (like Azathoth).
 
@@ -271,7 +271,7 @@ Certain insane sorcerers have at different points in history devised rituals to 
 |Major (e.g., Dagon)|Vast|
 |Significant (e.g., Cthulhu)|Sweeping|
 |Cosmic (e.g., Azathoth, Yog-Sothoth)|Cosmic|
-### **10.2.4 Opening Physical Conduits to Alien Gods**
+### Opening Physical Conduits to Alien Gods
 
 Some sorcerers are not content with communing with the vast and corrosive intelligences of the Alien Gods, but instead wish to open conduits for their physical avatars to enter our reality.
 
@@ -285,13 +285,13 @@ Again, the primary consideration in determining scope is the potency of the Alie
 |Significant (e.g., Cthulhu)|Cosmic|
 |Cosmic (e.g., Azathoth, Yog-Sothoth)|Cosmic|
 
-### **10.2.5 Dimensional Traversal**
+### Dimensional Traversal
 
 Lovecraftian settings often incorporate the idea of extra-dimensional locales, whether remote parts of our own universe, realms created by the collective human unconscious mind, or entirely different dimensions. Stories set in such worlds may involve a myriad of different supernatural effects that permit mere mortals to cross the barrier between the normal (ravaged) world and one such outside region.
 
 In determining the scope of an effect which allows dimensional traversal, consider the distances involved. Use the range table provided above, re-imagining the range values as referring instead to the distance traversed.
 
-### **10.2.6 Cursing and Damaging**
+### Cursing and Damaging
 
 Although far less common than in traditional tabletop roleplaying games, supernatural effects may exist in Lovecraftian settings which directly inflict physical harm on individuals. The scope for such an effect can be estimated by considering the amount of physical damage which may be potentially inflicted, usually represented by a dice value or Lethality rating.
 
@@ -310,6 +310,6 @@ Although far less common than in traditional tabletop roleplaying games, superna
   
   
 
-### **10.2.7 Warding and Protection**
+### Warding and Protection
 
 As counterpoint to supernatural effects which may cause physical harm, it is equally possible for supernatural effects to exist which protect individuals from such harm. When estimating the scope of such an effect, consider the worst or most-serious type of damage the effect is likely to mitigate and consult the table from the previous section.

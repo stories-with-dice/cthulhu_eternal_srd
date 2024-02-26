@@ -1,14 +1,14 @@
-# **5.0 Equipment**
+# Equipment
 
 Most equipment that your Protagonist will buy, find or use does not require any special rules – if you have the equipment, and it is in working order then you can use it (possibly with a skill or stat test) to do things. Some items that are poorly made or worn-out may incur a penalty (see the box nearby).
 
 Obtaining equipment can be as simple as purchasing it in a store (assuming such commerce exists in the game setting); alternatively, it can involve scrounging around trying to piece together usable items from junk.
 
-## **5.1 Buying Equipment**
+## Buying Equipment
 
 The table below gives some indicative prices for equipment. It also shows the normal range of available financial wealth that is typical for individuals at different strata of society (as defined by the Permanent Resources rating, see **Detailed Description: Resources**, page 18).
 
-### **What does the Resources Rating Mean?**
+### What does the Resources Rating Mean?
 
 #### Medieval Age
 
@@ -47,7 +47,7 @@ Some representative costs:
 #### Future Age
 
 TODO
-## **5.2 Scrounging**
+## Scrounging
 
 Some items that the Protagonists want to obtain might not be easy to obtain – either because they are restricted in some way, especially scarce, or illegal. Alternatively, the items might be available, but priced such that the Protagonist simply can’t afford them. In such situations, the only recourse might be to scrounge around to see if the items can be ‘liberated’ from somewhere. This might involve sifting through discarded items to find pieces that are good enough to function as needed, and perhaps lashing them together to make more complex equipment.
 
@@ -68,7 +68,7 @@ In both cases, the difficulty of the test to locate a usable item depends on the
 
 The results of a test can indicate that an item has been discovered, or describe utter failure of the search/rummaging. However even if the roll is successful there is no guarantee that the resource discovered will be in good condition – the discovered item might be heavily worn or maybe even utter junk (see box nearby).
 
-### **Pre-Loved Items and Spoiled Goods**
+### Pre-Loved Items and Spoiled Goods
 
 | >> Junk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +78,7 @@ The results of a test can indicate that an item has been discovered, or describe
 | >> **Spoiled and Potentially Dangerous Consumables**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | If the Protagonist is searching for a type of consumable resource (e.g., water, food) and gains a less-than-perfect outcome, it is possible that some quantity of the resource has been found but in a spoiled condition that may be potentially dangerous to use/ingest.<br><br>  The Game Moderator will need to interpret what this means in the context of the resource type, and whether the spoiling is obvious or requires a skill test to detect.<br><br>  - Ingesting spoiled food or water is treated as an exposure to poison (see **POISON AND DISEASE** on page 57). The default toxicity is (Speed 1D4 hours; Lethality 2%), but the Game Moderator can vary this to fit the situation.<br><br>- Administering spoiled pharmaceuticals can be considered as per food and water (if the original medicine was something relatively minor), or as per the failure of a Pharmacy roll during administration of a dangerous drug (Poison; Speed 1D6 hours; Lethality 5%).<br><br>- Attempting to use other “spoiled” consumables (e.g., gasoline or weapon ammo) usually results in them being inert and useless, although the Game Moderator might decide they result in dangerous situations for the users (explosions, damage to weapons, vehicles, etc.) |
 
-### **5.2.1 Resource Categories and Scarcity**
+### Resource Categories and Scarcity
 
 As an abstraction, the scarcity of a resource in the game setting can be rated on the following scale (from least to most scarce):
 
@@ -100,7 +100,7 @@ The scarcity rating of a resource affects a Protagonist’s attempt to either sc
 | Impossible to Get | No test required; search automatically fails. | **Resources** tests are made at **quarter** the effective Resources rating.<br><br>  <br><br>Any test that is not a critical success fails to find the item in the Protagonist’s collection in any quantity or quality.<br><br>  <br><br>Critical rolls locate spoiled and potentially dangerous stocks unless the roll was 01, in which case a further **Luck** roll is made: failure indicates a half ‘unit’ of safe resource; success a full ‘unit’ of safe resource. | No test required; search automatically fails. | **Resources** tests are made at **quarter** the effective Resources rating.<br><br>  <br><br>Any test that is not a critical success fails to find the item in the Protagonist’s collection in any form.<br><br>  <br><br>Critical rolls locate junk versions unless the roll was 01, in which case a further **Luck** roll is made: failure indicates heavily worn items; success indicates pristine. |
   
 
-## **5.3 The Fine Art of Jury-Rigging**
+## The Fine Art of Jury-Rigging
 
 Protagonists may often find themselves faced with an inability to track down the exact equipment or devices that they really need to get something done. No amount of scrounging or rummaging through each person’s resources pool will track down the obscure item they need. What can a Protagonist group do in that situation? One option is to devise a plan to hunt down a collection of less-scarce component items and cobble together some kind of hodge-podge out of the parts. This is the fine art of jury-rigging.
 

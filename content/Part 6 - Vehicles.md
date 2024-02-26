@@ -1,4 +1,4 @@
-# **6.0 Vehicles**
+# Vehicles
 
 Depending on the nature of the game setting, different types of simple or sophisticated vehicles might be common items. If the Protagonists or their adversary have access to such vehicles, the following guidelines may assist when dangerous and/or action-oriented scenes involving vehicles arise during play.
 
@@ -7,7 +7,7 @@ Vehicles have three basic statistics:
 - **Hit Points** and **Armor**, in case they’re involved in combat, and
 - **Speed** ratings that affect chases.
 
-## **6.1 Hit Points and Armor**
+## Hit Points and Armor
 
 Each vehicle counts as a Huge target (see **HUGE**, page 54). It takes damage from unarmed attacks and small weapons such as knives and clubs only when the Game Moderator thinks it makes sense.
 
@@ -15,7 +15,7 @@ A vehicle that loses **half** its Hit Points is badly damaged. It can’t be ope
 
 A vehicle that loses _all_ of its Hit Points is demolished. It will never function again.
 
-## **6.2 Speed**
+## Speed
 
 There are two broad categories of vehicle speed: Surface and Air. Any vehicle with an Air Speed rating can automatically outrun a vehicle with a Surface Speed rating (except for Hot Air Balloons, which can’t outrun any vehicle, and Zeppelins which are considered equivalent speed to a Slow Surface vehicle).
 
@@ -60,7 +60,7 @@ TODO
 
 TODO
 
-### **6.2.1 Ramming**
+### Ramming
 
 The Game Moderator decides how deadly a collision ought to be. Here are a few suggestions for a vehicle’s ramming damage.
 

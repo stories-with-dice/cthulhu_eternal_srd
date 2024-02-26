@@ -1,4 +1,4 @@
-# **PART I: RULES OF THE GAME**
+# PART I: RULES OF THE GAME
 
 This section describes the rules that all players will need to know to play a game of _Cthulhu Eternal_. It describes:
 
@@ -8,7 +8,7 @@ This section describes the rules that all players will need to know to play a ga
 - How the fragile **sanity** of each player’s character may become eroded by encounters with horrors, both mundane and unnatural;
 - What player characters can do during the quiet **downtime** between perilous adventures against unnatural entities.
 
-# **1.0 Core Game Concepts**
+# Core Game Concepts
 
 These rules tell you everything you need to know in order to play _Cthulhu Eternal__._
 
@@ -20,11 +20,11 @@ In addition to this book, you also need pencils to record changes to your charac
 
 _Cthulhu Eternal_ uses polyhedral dice common to tabletop role-playing games: four-sided, six-sided, eight-sided, ten-sided, twelve-sided, and twenty-sided. The game plays best when you have a few of each on the table. Or you can find automated dice rollers on the Web and as mobile apps.
 
-## **1.1 Rolling the Dice**
+## Rolling the Dice
 
 When the rules need you to roll dice, they use a particular nomenclature to save time and space: “#D#,” as in “1D8” or “4D6.” The first number is the number of dice. The “D” stands for “dice with the following number of sides.” The second number is the number of faces on the die. “1D8” means roll one eight-sided die. “4D6” means roll four six-sided dice and add the numbers together. Sometimes you add or subtract a number from the roll. If it says “1D6+2,” that means roll one six-sided die and add two to the result.
 
-## **1.2 Percentile Dice (“1D100”)**
+## Percentile Dice (“1D100”)
 
 Actions in _Cthulhu Eternal_ are resolved using **percentile dice.** That means you roll two ten-sided dice to get a number from 1 to 100. To do this, you don’t add the individual die values together but instead treat each number as a digit (0—9). Before you make the roll, designate one die as the tens digit and the other as the ones digit. A zero (0) on the tens die counts as zero except when the ones die is also 0; then the 0 on the tens die counts as 10. For example:
 
@@ -33,11 +33,11 @@ Actions in _Cthulhu Eternal_ are resolved using **percentile dice.** That means 
 - Both dice come up “0”: 100.
 - The tens die comes up “6” and the ones die comes up “2”: 62.
 
-# **2.0 Protagonists**
+# Protagonists
 
 Your Protagonist represents the fictional persona that you will control in the game. You will spend a lot of time navigating your Protagonist through exciting and dangerous situations, so it is worth investing time in creating a character you will enjoy playing.
 
-## **2.1 What Makes a Protagonist**
+## What Makes a Protagonist
 
 All Protagonists are composed of six elements:
 
@@ -53,11 +53,11 @@ All Protagonists are composed of six elements:
 
 **BONDS:** The people and communities your Protagonist fights to protect.
 
-## **2.2 Protagonist Creation**
+## Protagonist Creation
 
 Follow these steps to create a new Protagonist, or see **HOW TO CREATE A PROTAGONIST** on page 7 for a quick reference.
 
-### **2.2.1 STEP 0: Establish Harshness of Protagonist’s Upbringing**
+### STEP 0: Establish Harshness of Protagonist’s Upbringing
 
 Most Protagonist’s upbringings will have been unremarkable – but it’s possible that yours grew up under especially challenging and punishing circumstances. For example, growing up amid a turbulent period of warfare or plague that killed most of those near-and-dear to the Protagonist. If you think that upbringing might have been harsh enough to scar your Protagonist, discuss it with your Game Moderator. Between you, decide whether the upbringing you envisage is best characterized by the descriptor **Normal(-ish)**, **Harsh**, or **Very Harsh**. See page 9 for a few examples of real-world disasters which could have brought tragedy to your Protagonist’s childhood.
 
@@ -69,7 +69,7 @@ Any upbringing that isn’t **Harsh** or **Very Harsh** is considered **Normal(-
 
 A harsher upbringing might make him or her a little stronger or hardier (since only the strong and hardy would have survived), but at the cost of mental scarring from the many horrific sights marring their childhood.
 
-### **2.2.2 STEP 1: Determine Statistics**
+### STEP 1: Determine Statistics
 
 Statistics are Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Power (POW), and Charisma (CHA). They range from 3 (the worst) to 18 (the best), with an average of 10 for an ordinary adult. Statistics represent core capabilities possessed by all Protagonists. All are important. (See **DETAILED DESCRIPTION: STATISTICS** on page 8.)
 
@@ -84,19 +84,19 @@ After the basic values are assigned for each statistic, modify according to the 
 - For Protagonists in **Harsh** settings: add 1 to _either_ STR _or_ CON (player’s choice)
 - For Protagonists in **Very Harsh** settings: add 1 to _both_ STR _and_ CON
 
-### **2.2.3 STEP 2: Calculate Derived Attributes**
+### STEP 2: Calculate Derived Attributes
 
 Hit Points, Willpower Points, Sanity Points, and Breaking Point are derived from stats. They represent physical and mental resilience. When your Protagonist is hurt, exercises mental fortitude, or is traumatized, those scores can drop. If your Protagonist has a STR score that is outside the average range (9—12) he or she also has a modifier to the damage inflicted from hand-to-hand combat. (See **DETAILED DESCRIPTION: DERIVED ATTRIBUTES & DAMAGE BONUS** on page 10.)
 
-### **2.2.4 STEP 3: Select Archetype**
+### STEP 3: Select Archetype
 
 What does your Protagonist do for a living (or just to stay alive)? Archetype dictates what skills your Protagonist has, his or her basic resource level, and the number of Bonds he or she possesses. (See **DETAILED DESCRIPTION: ARCHETYPES** on page 11.)
 
-### **2.2.5 STEP 4: Calculate Resources Rating**
+### STEP 4: Calculate Resources Rating
 
 The Resources rating is a number between 0 and 20 that reflects the Protagonist’s access to valuable or useful equipment. A Protagonist’s base Resources rating is dictated by his or her Archetype, however during later steps, you can sacrifice other potential bonus skills in favor of a higher resources score; conversely, you can agree to drop Resources rating of 0 (entirely without access to resources) and receive additional skills. (See **DETAILED DESCRIPTION: RESOURCES** on page 18.)
 
-### **2.2.6 STEP 5: Define Bonds**
+### STEP 5: Define Bonds
 
 Bonds indicate the strength of relationships with the most important people and communities in your Protagonist’s life — like a spouse, child, a long-time travelling companion, or a local community of people. Bonds help Protagonists resist mental trauma—but as your Protagonist’s life falls apart under the stress of the Mythos-haunted world, Bonds deteriorate.
 
@@ -106,15 +106,15 @@ Each Individual Bond has a value that starts equal to your Protagonist’s Chari
 
 Each Community Bond has a default value equal to half the Protagonist’s Resources rating, however during creation of the Protagonist the player may elect to sacrifice potential skills in favor of a higher value. Conversely, the player may elect to take a Community Bond with a value of 1 (lowest possible social standing) and receive additional skills. (See **DETAILED DESCRIPTION: BONDS** on page 23.)
 
-### **2.2.7 STEP 6: Select Bonus & Adversity Skills**
+### STEP 6: Select Bonus & Adversity Skills
 
 Skills require special training, and come from schooling, experience, or personal interest. Skills are measured from 0% (no training) to 99% (foremost expert in the world). (See **DETAILED DESCRIPTION: SKILLS** on page 27.)
 
-### **2.2.8 STEP 7: Determine Mental Damage from Harsh Environments**
+### STEP 7: Determine Mental Damage from Harsh Environments
 
 Protagonists that have grown up in difficult and brutal conditions are likely to have picked up some mental scarring along the way. This can leave them hardened to certain types of traumatic stimuli, distant from those around them, or afflicted with mental disorders. (see **DETAILED DESCRIPTION: MENTAL DAMAGE FROM HARSH UPBRINGING**, page 36.)
 
-### **2.2.9 STEP 8: Add the Final Details**
+### STEP 8: Add the Final Details
 
 Start filling in the details that make your Protagonist interesting.
 
@@ -128,7 +128,7 @@ And why, despite all the terrifying dangers, does your Protagonist venture out t
 
 [[Part 1 Summary - Creating a Protagonist]]
 
-## **2.3 Detailed Description: Statistics**
+## Detailed Description: Statistics
 
 Every Protagonist has six core capabilities: Strength, Constitution, Dexterity, Intelligence, Power, and Charisma. These are called his or her statistics (or “stats” for short).
 
@@ -152,7 +152,7 @@ During Protagonist creation, you can either roll **STATISTIC** scores (see page 
 
 Each stat has a test score equal to the stat × 5: STR×5, INT×5, POW×5, etc. This means roll five times the stat or less on percentile dice (1D100) to succeed. When your Protagonist attempts a difficult action and no skill covers it, the Game Moderator may ask you to roll a stat test for whatever stat is the closest fit.
 
-### **2.3.1 Stat Adjustments for Harsh Upbringings**
+### Stat Adjustments for Harsh Upbringings
 
 Protagonists who have managed to reach adulthood in a dangerous or deadly environment are likely to be hardier or stronger than average– weaker individuals simply don’t make it through such horrible upbringings. To reflect this, such Protagonists receive a bonus to STR and/or CON as follows:
 
@@ -160,7 +160,7 @@ Protagonists who have managed to reach adulthood in a dangerous or deadly enviro
 - **Harsh** setting: +1 to either STR _or_ CON (pick one)
 - **Very Harsh** setting: +1 to both STR _and_ CON
 
-### **2.3.2 Distinguishing Features**
+### Distinguishing Features
 
 A stat below 9 or above 12 is exceptional. Spare a word or two to describe stats outside the average; see the table nearby for some examples. These descriptors help give your Protagonist personality.
 
@@ -174,7 +174,7 @@ A stat below 9 or above 12 is exceptional. Spare a word or two to describe stats
 | Power | Spineless | Nervous | (Average) | Strong-Willed | Indomitable |
 | Charisma | Unbearable | Awkward | (Average) | Charming | Magnetic |
 
-## **2.4 Detailed Description: Derived Attributes & Damage Bonus**
+## Detailed Description: Derived Attributes & Damage Bonus
 
 The derived attributes — Hit Points, Willpower Points, Sanity Points, and Breaking Point — represent your Protagonist’s physical and mental toughness.
 
@@ -219,7 +219,7 @@ _**If this number would be higher than Max SAN, Recovery SAN equals Max SAN.**_
 | 1—4 | 5—8 | 9—12 | 13—16 | 17—18 |
 | ---- | ---- | ---- | ---- | ---- |
 | -2 | -1 | 0 | +1 | +2 |
-## **2.5 Detailed Description: Archetypes**
+## Detailed Description: Archetypes
 
 Each Protagonist is a representative of a broad category of character types, usually related to the job he or she performs in the game world. Each such category is called an **Archetype**.
 
@@ -236,7 +236,7 @@ An Archetype says a lot about a Protagonist. It grants a “kit” of appropriat
 - a relationship to an individual (Individual Bonds) or
 - standing within a community (Community Bonds).
 
-### **2.5.1 Customizing Your Protagonist With Other Skills**
+### Customizing Your Protagonist With Other Skills
 
 Don’t worry if your Protagonist at this point looks like a generic representative of his or her chosen Archetype. While the Archetype defines a core set of abilities, those skills and ratings don’t represent the full range of everything your Protagonist can do.
 
@@ -245,7 +245,7 @@ Later in the character generation process you will have opportunities to pick ot
 - **Adversity Skill Point Picks** (see page 18) represent abilities your Protagonist has because of the harsh environment that he or she grew up in. These picks can only be used to enhance a few specific skills, and cannot be traded in for other benefits.
 - **Bonus Skill Point Picks** (see page 27) represent hobbies and general experience he or she learned above and beyond the basics associated with the Archetype. You start with ten such bonus picks to use later in the Protagonist generation process. These picks _can_ be traded in for other advantages like increased availability of resources-at-hand or standing in a community.
 
-### 2.5.2 Modern Day: List of Archetypes
+### Modern Day: List of Archetypes
 
 The following Archetypes are appropriate for Modern era games of Lovecraftian investigation. They don’t cover every possible character type but focus on likely protagonists in mystery and investigation tales. The GM is encouraged to develop other archetypes to cover other character types suggested by players. Guidelines for developing new Archetypes may be found on page 92.
 
@@ -293,7 +293,7 @@ Choose any 5 of these that you don't already have:
 
 **BONDS:** 3
 
-#### **Author / Blogger**
+#### Author / Blogger
 
 **RECOMMENDED STATS:** INT, CHA
 
@@ -335,7 +335,7 @@ Choose any 4 of these that you don't already have:
 
 **BONDS:** 4
 
-#### **Conspiracy Theorist / Expert**
+#### Conspiracy Theorist / Expert
 
 **RECOMMENDED STATS:** CHA, POW
 
@@ -382,7 +382,7 @@ Choose any 4 of these that you don't already have:
 **BONDS:** 4
   
 
-#### **Criminal**
+#### Criminal
 
 **RECOMMENDED STATS:** DEX
 
@@ -426,7 +426,7 @@ Choose any 3 of these that you don't already have:
 
 **BONDS:** 4
 
-#### **Doctor / Nurse**
+#### Doctor / Nurse
 
 **RECOMMENDED STATS:** INT
 
@@ -470,7 +470,7 @@ Choose any 2 of these that you don't already have:
 
 **BONDS:** 3
 
-#### **Historian / Genealogist**
+#### Historian / Genealogist
 
 **RECOMMENDED STATS:** INT, CHA
 
@@ -510,7 +510,7 @@ Choose any 3 of these that you don't already have:
 
 **BONDS:** 4
 
-#### **Law Enforcer / Agent**
+#### Law Enforcer / Agent
 
 **RECOMMENDED STATS:** CON, CHA
 
@@ -556,7 +556,7 @@ Choose any 4 of these that you don't already have:
 
 **BONDS:** 3
 
-#### **Librarian / Archivist**
+#### Librarian / Archivist
 
 **RECOMMENDED STATS:** INT
 
@@ -596,7 +596,7 @@ Choose any 5 of these that you don't already have:
 
 **BONDS:** 3
 
-#### **Researcher / Scientist**
+#### Researcher / Scientist
 
 **RECOMMENDED STATS:** INT
 
@@ -640,7 +640,7 @@ Choose any 4 of these that you don't already have:
 
 **BONDS:** 2
 
-#### **Technologist**
+#### Technologist
 
 **RECOMMENDED STATS:** INT, POW
 
@@ -682,7 +682,7 @@ Choose any 4 of these that you don't already have:
 
 **BONDS:** 3
 
-#### **White-Collar Worker**
+#### White-Collar Worker
 
 **RECOMMENDED STATS:** INT, CHA
 
@@ -723,11 +723,11 @@ Choose any 4 of these that you don't already have:
 **BONDS:** 3
 
 
-### 2.5.3 Medieval Age: List of Archetypes
+### Medieval Age: List of Archetypes
 
 TODO
 
-## **2.6 Detailed Description: Adversity Skill Points**
+## Detailed Description: Adversity Skill Points
 
 Depending on the harshness of the environment where your Protagonist grew up, he or she may gain **Adversity Skill Point Picks**. Each such pick provides a 20-point increase in rating for one skill from a pre-defined list.
 
@@ -743,7 +743,7 @@ First Aid, Military Training (type), Regional Lore (type), or Survival (type).
 
 You can pick the same skill more than once.
 
-## **2.7 Detailed Description: Resources**
+## Detailed Description: Resources
 
 Every Protagonist has a Resources rating between 0 and 20. This number is an abstraction that represents the size, value, and utility of the **personal pool of resources** to which he or she has ready access. A Protagonist who is “wealthy” in a material sense will have a high Resources rating, since they have personal ownership – and hence access – to more things. Conversely, someone who is destitute and forced to carry their meagre belongings on their back will probably have a very low Resources rating. The definition of what constitutes “wealth” and “valuable resources” might vary depending on the game setting, but the Resources rating is a handy abstract rating which compares the magnitude of the Protagonist’s material possessions against other people’s.
 
@@ -757,7 +757,7 @@ There are two ways in which Resources ratings can become important during a game
 
 A Protagonist’s Resources rating may change during play as especially significant items are pulled from the “bag of tricks”, items are destroyed, or new equipment caches are picked over for useful additions.
 
-### **2.7.1 Determining the Starting Resources rating**
+### Determining the Starting Resources rating
 
 Your Protagonist’s Archetype determines the starting value for his or her Resources rating; it is a number listed as part of the Archetype description.
 
@@ -785,7 +785,7 @@ Alternatively, if you would prefer to play a Protagonist who is entirely bereft 
 
 If you need to know how your Resources Rating translates to financial wealth, consult the table in the **BUYING EQUIPMENT** section (page 61).
 
-### **2.7.2 Permanent Resources, Resources At-Hand, and Resource Checks**
+### Permanent Resources, Resources At-Hand, and Resource Checks
 
 The full value established above is called the Protagonist’s **Permanent Resources** rating, since it measures the sum total of everything he or she owns – regardless of where it is kept.
 
@@ -797,7 +797,7 @@ The Permanent Resources rating measures both the quantity of items your Protagon
 
 In game terms this is represented by the number of **Resource Check boxes** the Protagonist has available – these are explained further below. The number of check boxes available to your Protagonist is also indicated on the table nearby: record it on the Protagonist Sheet by blacking out but those boxes available to the Protagonist (e.g., for a Protagonist with only one checkbox available, fill in all but one of the available boxes with solid black – use pencil since your Protagonist may open up more boxes later).
 
-### **Resources Breakdown & Check Boxes**
+### Resources Breakdown & Check Boxes
 
 | Permanent Resource Rating | “At Hand” / “Stowed” / “In Storage” | Check Boxes |
 | ---- | ---- | ---- |
@@ -823,7 +823,7 @@ In game terms this is represented by the number of **Resource Check boxes** the 
 | 19 | 6 / 6 / 7 | 3 |
 | 20+ | 6 / 6 / 8+ | 3 |
 
-#### _Pushing the Limits_
+#### Pushing the Limits
 
 As indicated in the table, it is typically only possible for your Protagonist to keep 6 points of Resources on their person (‘at-hand’) and another 6 points ‘stowed’ in a handy vehicle or on a handy animal. These aren’t hard and fast limits, but represent what can comfortably be carried/transported without impacting travel speed and convenience. If situations arise where the Protagonist really needs to carry more (e.g., carry the entire 10 points of Permanent Resources by hand while fleeing a burning building), it is up to the Game Moderator to decide what is possible and what impacts might arise from your Protagonist or vehicle being ‘overloaded’. The Game Moderator might rule this has an impact on the rate of travel, or require some kind of skill test to keep moving forward under excess load.
 
@@ -831,15 +831,15 @@ Generally, stretching the limits beyond 12 points carried ‘at hand’ or 12 po
 
 There is no limit to the amount of Resources rating points that can be ‘in storage’ at a fixed location (e.g., a home base or workshop).
 
-#### _Which Rating for a Test?_
+#### Which Rating for a Test?
 
 Any time your Protagonist’s Resources rating is the subject of a test, the effective rating number that is used should reflect the situation. It should be determined by the amount of Resources available to your Protagonist at that moment. If he or she is at home base, that will probably be the full Permanent Resources amount; if your Protagonist is close to his or her vehicle (or pack animal) that might be the ‘at-hand’ value PLUS the stowed value. If your Protagonist is far away from both home base and vehicle/animal, the number is likely to be just the ‘at-hand’ number.
 
-#### _Which Rating for NPC Reactions?_
+#### Which Rating for NPC Reactions?
 
 When using Resources as a means of determining Non-Player Character reactions, the rating that is used also depends on the situation. Does the NPC in question know all about your Protagonist’s reputation as a ‘wealthy’ sort? If so, maybe the full Permanent Resources score can be used even if only some of that wealth is currently on display. Alternatively, if the NPC is suspicious of your Protagonist, it might be hard to get him or her to believe in the existence of any resources beyond what they can see for themselves.
 
-### **2.7.3 The Bag of Tricks**
+### The Bag of Tricks
 
 The higher your Protagonist’s effective Resources rating, the higher the likelihood that his or her accessible personal cache of items may contain something helpful to a situation or problem.
 
@@ -857,13 +857,13 @@ Rules of Thumb:
 
 - A test that is a standard success, but which is only just under the target number might yield a sub-standard version of the item or resource. A critical success will always yield the best possible quality available.
 
-### **2.7.4 Checkboxes and Per-Adventure Limits**
+### Checkboxes and Per-Adventure Limits
 
 While your Protagonist’s personal Resources can prove helpful during an adventure, there are practical limits to the number of times that items can be pulled from it during a single adventure.
 
 After each Resources test resulting in success, place a check mark in one of the Resource Check boxes on the Protagonist’s character sheet. When all the boxes are full, the Protagonist’s resources pool is temporarily exhausted and can’t contribute anything more until he or she has some downtime to replenish or reorganize it (see **Replenishing Resources, Removing Checkmarks**, page 23).
 
-### **2.7.5 Pooling Resources**
+### Pooling Resources
 
 Sometimes, it may be appropriate for two or more Protagonists to pool their personal caches of items to improve the likelihood of finding a rare but crucial component. Any Protagonist can contribute items to the pool, as long as he or she hasn’t temporarily exhausted their resource pool (by filling all check boxes).
 
@@ -871,7 +871,7 @@ When making a roll to search such a **combined** resource pool, the effective Re
 
 Success on a combined test causes a check mark to be placed on the sheet of the Protagonist whose FULL Resources rating was used. Others who contributed a smaller amount to the total do not receive a check mark.
 
-### **2.7.6 Losing Resources**
+### Losing Resources
 
 A Protagonist’s Resources rating may decrease due to events that occur during play:
 
@@ -885,7 +885,7 @@ A Protagonist’s Resources rating may decrease due to events that occur during 
 
 Whenever Resource rating decreases, the player should recalculate the “at-hand”/stowed/stored breakdown of points as well as the number of check boxes available to the Protagonist.
 
-### **2.7.7 Increasing the Resources Rating During Play**
+### Increasing the Resources Rating During Play
 
 During a _Cthulhu Eternal_ adventure your Protagonist may gain access to a cache of items ripe for the taking. When this occurs, the Game Moderator will decide the number of Resources rating points each Protagonist might potentially plunder. For a small find this might be modest (1 point or 1D2 points), but for a massive discovery it could be a healthy improvement (1D6 or higher).
 
@@ -893,11 +893,11 @@ Increasing your Protagonist’s Permanent Resources rating requires a die roll. 
 
 Whenever Resource rating increases, the player should recalculate the “at-hand”/stowed/stored breakdown of points as well as the number of check boxes available to the Protagonist.
 
-### **2.7.8 Replenishing Resources, Removing Checkmarks**
+### Replenishing Resources, Removing Checkmarks
 
 The Game Moderator will determine when your Protagonist group can take the time to replenish or reorganize their Resources pools. Usually this happens between missions, expeditions, or adventures (see **DOWNTIME**, page 77). Once the Protagonists have invested an appropriate period of downtime all check marks can be erased from the character sheet.
 
-## **2.8 Detailed Description: Bonds**
+## Detailed Description: Bonds
 
 Bonds measure your Protagonist’s relationships with the vital people and societies in his or her life: loved ones, family members, and wider communities. A Bond can protect your Protagonist from SAN loss (see **PROJECTING ONTO A BOND** on page 76) or offer a chance to repress the effects of a disorder or temporary insanity (see **REPRESSING INSANITY** on page 76).
 
@@ -907,7 +907,7 @@ Your Protagonist’s Archetype determines how many Bonds your Protagonist begins
 
 There are two distinct types of Bonds, each handled slightly differently – they are **Individual Bonds** and **Community Bonds.** When creating a Protagonist, you are free to choose which of his or her starting bonds is of each type.
 
-### **2.8.1 Individual Bonds**
+### Individual Bonds
 
 An Individual Bond is an emotional connection to a single person. It could be familial or marital, or it could just be a close friendship or association. To qualify as an Individual Bond the person must be someone the Protagonist believes (hopes?) to be still alive.
 
@@ -922,13 +922,13 @@ Each Individual Bond begins with a score equal to your Protagonist’s CHA. It c
 - Members of the same gang or band (see **BONDS FORMED THROUGH SHARED ADVERSITY**, below)
 - Spiritual counsellor
 
-#### _Changes to Individual Bonds During Play_
+#### Changes to Individual Bonds During Play
 
 Bonds’ scores often deteriorate because of your Protagonist’s experiences of the horrors of the Mythos-haunted world. A Bond increases if it is cultivated between adventures (see **DOWNTIME** on page 77). An Individual Bond can never have a score higher than your Protagonist’s CHA. Any time CHA drops, each Individual Bond drops by the same amount.
 
 Individual Bonds are vulnerable. If the Protagonist learns that the individual has died or gone permanently insane, the Bond is destroyed. The Bond is also permanently broken when its score drops to 0 (see **BROKEN BONDS**, nearby).
 
-### **2.8.2 Community Bonds**
+### Community Bonds
 
 A Community Bond is a relationship between the Protagonist and a broader community of individuals; it reflects the Protagonist’s status within that community, and the likelihood of other people following his or her instructions or desires.
 
@@ -967,7 +967,7 @@ It is also possible to elect for your Protagonist to take a Community Bond with 
 - Craft or trade guild
 - Secret society
 
-#### _Changes to Community Bonds During Play_
+#### Changes to Community Bonds During Play
 
 The rating for a Community Bond applies individually to every member of that community, and to the community as a whole. If a Community Bond decreases in value, the relationship with each member of the community deteriorates. A Community Bond is permanently broken when its score drops to 0 (and the Protagonist is likely cast out of the nominated community).
 
@@ -977,7 +977,7 @@ If a Community Bond is broken by either means, the Protagonist will likely suffe
 
 During play, events may arise where the reactions of NPCs from the Protagonist’s bonded community (or the community as a whole) have an impact. In some cases, the Protagonist may instigate such situations (e.g., by requesting aid from the community or trying to convince them of impending danger). In such situations the Game Moderator may ask for a test against **Community Bond Rating × 5.** Success means that the NPC or the community reacts favorably.
 
-### **2.8.3 Describing Bonds**
+### Describing Bonds
 
 Identify each Individual and Community Bond: “My Wife.” “My Husband and Kids.” “My church congregation.” “The Society of Amateur Sleuths.”
 
@@ -985,7 +985,7 @@ An Individual Bond must be a real person or group of people who the Protagonist 
 
 A Community Bond must be a real group who recognizes the Protagonist as a member.
 
-### **2.8.4 Broken Bonds**
+### Broken Bonds
 
 When a Bond deteriorates, that relationship becomes strained. Exactly what shape that takes in play is up to you and the Game Moderator (playing the NPCs).
 
@@ -999,7 +999,7 @@ The breaking of any Bond is almost certainly traumatic and is likely to trigger 
 
 When you cross a Bond off your Protagonist’s character sheet, don’t erase it. After all, there’s no forgetting a vital relationship that went bad.
 
-### **2.8.5 Bonds Forged Through Shared Adversity**
+### Bonds Forged Through Shared Adversity
 
 Protagonists often band together into small tight-knit groups, to enhance their chances. This is true when the group is alone in the wasteland; it’s often also true even when they are outsiders in a larger settlement. If those tight-knit groups go through terrifying ordeals together, there is a strong chance that they will become psychologically bound together through that shared experience.
 
@@ -1026,7 +1026,7 @@ Rather than treating this as a mechanical process, you and your Game Moderator a
 
 If a community bond has weakened does it mean that the excessive time spent socializing with the tight-knit group has alienated others in the community to the point that they have lost confidence in the Protagonist? Or has he or she just missed so many gatherings that their standing as a high-status member of society has eroded?
 
-## **2.9 Detailed Description: Bonus Skill Points**
+## Detailed Description: Bonus Skill Points
 
 The skill package associated with your Protagonist’s Archetype coupled with the Adversity skills from the harshness of his or her upbringing, represent his or her core proficiencies. But they certainly aren’t the full story about everything the Protagonist is good at.
 
@@ -1037,11 +1037,11 @@ When applying a skill pick to a skill which has NOT been set by the Protagonist�
 Unless the Game Moderator says otherwise, you can’t raise a skill higher than 80% during Protagonist creation. You must assign (or trade-in) all bonus points to skills before play begins.
 
 
-### **Trading-in Skill Point Picks**
+### Trading-in Skill Point Picks
 
 As described in previous sections on **RESOURCES** (page 18) and **BONDS** (page 23), you have the option during Protagonist creation to trade-in one or more Bonus Skill Picks in return for non-skill advantages. Alternatively, your Protagonist can earn an _extra_ Bonus Skill Pick or two if you are willing to sacrifice some of the normal benefits of those other starting ratings.
 
-#### _Trading Skill Point Picks for Resources Rating_
+#### Trading Skill Point Picks for Resources Rating
 
 You may elect to sacrifice one or more Bonus Skill Point Picks to improve your Protagonist’s starting rating in Permanent Resources:
 
@@ -1052,7 +1052,7 @@ You may elect to sacrifice one or more Bonus Skill Point Picks to improve your P
 
 As an alternative, if you are willing for your Protagonist to have a Resources rating of 0 (absolutely without any worldly goods), that sacrifice earns one EXTRA Bonus Skill Point Pick.
 
-#### _Trading Skill Point Picks for Community Bond Rating_
+#### Trading Skill Point Picks for Community Bond Rating
 
 You can elect to sacrifice one or more Bonus Skill Point Picks to improve the starting rating of your Protagonist’s Community Bonds.
 

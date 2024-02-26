@@ -61,11 +61,11 @@ Old-fashioned ranged weapons that are aimed (e.g., crossbows, bow, and slings) u
 
 Depending on when and where the game is set, the Protagonists may have easy access to a range of different firearms. Firearms can be heavily accessorized. Popular gun add-ons include tactical lights, sound suppressors, holographic sights, telescopic sights, night sights, and targeting lasers. Many rifles can also be fitted with an under-barrel shotgun or grenade launcher.
 
-#### _Pistols_
+#### Pistols
 
 Lightweight pistols fire low-powered cartridges and are of limited use even against humans. Medium pistols are the standard sidearms in law enforcement and the military everywhere. They fire moderately powerful rounds. Most revolvers hold six shots, but some late models hold seven or eight. Pocket revolvers sometimes take only five. There’s a huge variety of ammunition capacities for semiautomatic pistol magazines, but 15 is typical, although 17 or even 20 is not uncommon. Large-caliber pistols often carry less. A typical figure for a heavy pistol is eight.
 
-#### _Shotguns_
+#### Shotguns
 
 A typical pump-action shotgun holds five shots, although there are many with extended magazines for eight or more. Double-barrel shotguns hold one shot per barrel and can fire both barrels at one target with one attack roll. Shotguns can fire shot (a spread of small projectiles), slugs (a single heavy bullet), or “non-lethal” ammunition such as bean bag rounds, baton rounds, or rubber shot.
 
@@ -75,17 +75,17 @@ A typical pump-action shotgun holds five shots, although there are many with ext
 
 **OTHER GAUGES:** These rules assume a standard 12-gauge shotgun. Modify the damage by +2 for a heavier gauge or −2 for a lighter gauge.
 
-#### _Submachine Guns_
+#### Submachine Guns
 
 Submachine guns fire full-automatic bursts but are often also capable of semi-automatic fire. When firing semi-automatic, the weapon inflicts ordinary damage; with automatic fire, it uses a Lethality rating (see **LETHALITY RATING** on page 50).
 
-#### _Rifles and Carbines_
+#### Rifles and Carbines
 
 Rifles fire more powerful cartridges than pistols or submachine guns, for better penetration, wounding, and range. However, they are also bulkier. Some military rifles — assault rifles in smaller calibers and automatic rifles in heavier calibers — are capable of firing full-automatic bursts with Lethality ratings. Especially heavy rifles have Lethality ratings with single shots.
 
 Older rifles and many hunting rifles use a bolt action that must be manually worked before each shot, which delays aiming. An attack with one in the turn immediately after it’s already been fired is at −20%. A bolt-action rifle gets no benefit from the **Aim** action in the turn immediately after it’s fired.
 
-#### *Heavy Weapons, Demolitions and Artillery*
+#### Heavy Weapons, Demolitions and Artillery
 
 Many unnatural things that Protagonists face are inscrutable perversions of physics no more vulnerable to explosions than they are to crucifixes. This never stops Protagonists from trying.
 
@@ -112,7 +112,7 @@ Only the lightest of Heavy Weapons will be commonly found, usually in military b
 
 Some types of weapons do something other than (or as well as) inflicting damage to Hit Points.
 
-#### _Tear Gas and Pepper Spray_
+#### Tear Gas and Pepper Spray
 
 These irritant chemicals make eyes tear, lungs seize, and exposed tissues sting like hell. If hit, the target must make a **CON×5** test or be stunned and suffer a penalty (usually -20%) to all actions for one hour. If the CON×5 roll succeeds, the target is not stunned and suffers half the usual penalty. As described on page 49, **STUNNED** individuals can’t take further combat actions until they succeed at a **CON×5** test, which may be attempted once per turn.
 
@@ -120,7 +120,7 @@ A tear gas grenade only needs to land near a target to have effect, so the attac
 
 Wearing a gas mask protects against these effects but incurs a −20% penalty to **Alertness** and **Search** tests.
 
-#### _Stun Grenades_
+#### Stun Grenades
 
 A “flash-bang” is a grenade that makes a huge noise and bright flash which deafens, blinds and staggers everyone within a 10-yard radius (indoors) or 5 yards (outdoors).
 
@@ -128,11 +128,11 @@ Each target is stunned (unable to act until a **CON×5** test succeeds; check ea
 
 A stun grenade only needs to land near a target to have effect, so the attack roll has a bonus of +20%. If someone is tossing it into a closed room with the benefit of surprise, it doesn’t even require a roll.
 
-#### _Bright Lights_
+#### Bright Lights
 
 A bright flashlight in darkness can dazzle someone up to 10 yards away by shining it in the target’s eyes. This is an action in combat. It requires a **DEX×5** test, which is automatically **opposed by the target’s DEX×5** test. A dazzled target is at a −20% penalty to all rolls for 1D6 turns.
 
-#### _Electroshock Weapons_
+#### Electroshock Weapons
 
 A conducted energy device or stun gun discharges a high-voltage electrical shock into the target, causing the target’s muscles to spasm violently. The victim must roll a **CON×5** test to resist being stunned. If stunned, he or she is unable to act until a **CON×5** test succeeds (attempted each turn). After the stun wears off, the victim suffers a −20% penalty to all actions for 1D20 turns.
 

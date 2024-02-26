@@ -1,4 +1,4 @@
-# **3.0 The Game**
+# The Game
 
 _Cthulhu Eternal_ is a game about unveiling – and perhaps defeating – the horrific yet hidden entities of the Cthulhu Mythos that haunt our reality. The world seems mundane, but this is a façade. In dark corners and hidden places, the extra-dimensional and extra-terrestrial horrors lurk. Most people never learn of their existence, but some come to worship or follow such inimical forces. Others who learn the true nature of reality – of those dark entities, and insane devotees they inspire – cannot help but make a stand to defeat their terrible plans. These are Protagonists. Their fight might be never-ending, but the cost of losing is too great. They are the line that separates the sane world we know and the Apocalypse.
 
@@ -6,13 +6,13 @@ Protagonists are usually every-day people who have been awakened to the truth ab
 
 Here’s how the game works.
 
-## **3.1 Using Skills**
+## Using Skills
 
 The _Cthulhu Eternal_ rules focus on _skills_. You decide what your Protagonist attempts to do; the Game Moderator determines what skill to use. In a typical adventure, Protagonists use many different skills.
 
 Sometimes using a skill requires a roll of dice. The most important rule is this: _The Game Moderator determines if, when, and what you roll_. If the Game Moderator says a roll isn’t needed, the skill rating itself determines success or failure.
 
-### **3.1.1 Resolving a Test Without Dice**
+### Resolving a Test Without Dice
 
 If the Game Moderator decides you don’t need to roll, it comes down to what you’re trying to do and how high your Protagonist’s skill is. If the fact is common knowledge for your Protagonist’s Archetype, or can be found with a little research, he or she might be able to get it by just expending time and effort. If it requires special knowledge, your Protagonist may need a certain amount of a skill.
 
@@ -33,7 +33,7 @@ Decades of experience or training 60%
 A lifetime’s mastery 80%
 
 
-### **3.1.2 Resolving a Test With Dice**
+### Resolving a Test With Dice
 
 If the Game Moderator tells you to roll a skill, it’s a skill test. The dice determine success or failure. Roll two ten-sided dice to get a number from 01 to 00 (1 to 100).
 
@@ -47,11 +47,11 @@ There are three criteria for rolling dice for a skill test:
 
 **ROLL WHEN THERE ARE CONSEQUENCES:** Failing a skill roll means ugly things are going to happen. Maybe failing at the crisis is the punishment — or with a failed roll, your Protagonist succeeds but the consequences are severe. The fallout is up to the Game Moderator.
 
-### **3.1.3 If You Don’t Have the Skill**
+### If You Don’t Have the Skill
 
 If your Protagonist has a 0 in a skill, he or she can’t even attempt to use it. It requires specialized training or education that your Protagonist lacks.
 
-### **3.1.4 Using a Stat**
+### Using a Stat
 
 If your Protagonist tries to do something that anyone ought to be able to do — something that’s hard, but doesn’t require specific training like a skill — then the Game Moderator might look to one of your Protagonist’s stats, for a stat test. A stat test is the relevant stat × 5. (So with STR 11, a STR test is 55%.)
 
@@ -71,7 +71,7 @@ Only an unusually gifted person could do it 13–16
 
 Only a prodigy could do it 17–18
 
-### **3.1.5 Bonuses and Penalties**
+### Bonuses and Penalties
 
 Having to make a skill test in the first place means there’s a substantial chance of failure. But if the odds are really against your Protagonist, the Game Moderator might impose a penalty, down to a minimum chance of 1%. If the situation is a little more in your Protagonist’s favor, the Game Moderator might allow a bonus, up to a maximum chance of 99%.
 
@@ -86,7 +86,7 @@ If a bonus or penalty applies, it’s usually +20%/−20% or rarely +40%/−40%.
 |-20%|Uncommon|Circumstances are noticeably worse than usual.|
 |-40%|Rare|You _almost_ shouldn’t even bother to roll.|
 
-### **3.1.6 Who Rolls?**
+### Who Rolls?
 
 A group of Protagonists is searching the cult leader’s camp. Who makes the Alertness skill roll to spot a trap? Good question.
 
@@ -96,25 +96,25 @@ If it’s a task where a crowd is a hindrance, use the lowest skill among the te
 
 If it’s a task where you need to know whether every Protagonist succeeds or fails (“How many of you get a good look at the thing in the shadows?”), each player rolls.
 
-## **3.2 Success and Failure**
+## Success and Failure
 
 On any skill or stat test, there are only four possible outcomes. From best to worst they are: _Critical Success, Success, Failure,_ and _Fumble_. Ordinary success and failure are most common. Critical successes and fumbles represent exceptionally good or terrible outcomes.
 
-### **3.2.1 Critical Success**
+### Critical Success
 
 A critical success is a roll of 01 or any success where the dice digits match one another. So if your Protagonist’s skill is 50%, you achieve a critical success with a roll of 01, 11, 22, 33, or 44. A critical success automatically succeeds, and exceeds expectations. A critical is _twice as good_ as an ordinary success. What twice as good means must be taken in context of the action. **In combat, a critical success means double damage**, but during an investigation, it might mean the action takes half as long.
 
-### **3.2.2 Success**
+### Success
 
 A success is a roll _equal to or less_ than the test chance. With a success, your Protagonist accomplishes what he or she set out to achieve.
 
-### **3.2.3 Failure**
+### Failure
 
 A failure is a roll that’s _higher_ than the test chance. Sometimes that means your Protagonist suffers harm.
 
 There may be times when a failed roll means a Protagonist achieves what he or she wanted — but it comes with an unpleasant complication. The Game Moderator always decides whether that’s the case and what the cost will be. For a few possibilities, see the effects of fumbling a roll.
 
-### **3.2.4 Fumble**
+### Fumble
 
 A fumble is a roll of 00 (100) or any failure where the dice digits match one another. So if your Protagonist’s skill is 50%, you fumble on a roll of 55, 66, 77, 88, 99, or 00. A fumbled roll fails, no matter how high your Protagonist’s chance of success, and has additional, catastrophic consequences.
 
@@ -134,7 +134,7 @@ The exact complications are up to the Game Moderator. Here are some possibilitie
 
 **CONFUSION:** You make a major error and gain false information.
 
-#### Optional Rule: Nudging Skill and Stat Tests**
+#### Optional Rule: Nudging Skill and Stat Tests
 
 By default, as soon as dice are rolled for a skill test or a stat test the result is set in stone – the number rolled determines whether the test was a success, failure, critical success, or fumble. There is no way to change the roll or to re-roll to achieve a different outcome.
 
@@ -156,7 +156,7 @@ _As with all optional rules, the GM and players should agree before the game whe
 
 _Another question to agree upon is whether “nudging” is available_ _solely_ _to Protagonists in the game or also an action that NPCs can perform
 
-## **3.3 The Luck Roll**
+## The Luck Roll
 
 Events often come down to pure chance.
 
@@ -164,7 +164,7 @@ Are adversaries awake when your Protagonist sneaks into the enemy’s camp? Does
 
 If the Game Moderator calls for a Luck roll, there’s a 50% chance that things go your Protagonist’s way. It doesn’t depend on psychic talent or your Protagonist’s connection with the cosmos or anything else. Just roll the dice. With a critical success or a fumble, your Protagonist’s luck is extra good or bad.
 
-## **3.4 Time Required**
+## Time Required
 
 Sometimes speed counts. The Game Moderator determines how long it takes to perform a test.
 
@@ -178,7 +178,7 @@ Sometimes speed counts. The Game Moderator determines how long it takes to perfo
 
 **LONG-TERM:** Efforts that take place outside normal gameplay, like research and training, fit here. It could be a week, a month, or years. It’s up to the Game Moderator.
 
-## **3.5 Opposed Tests**
+## Opposed Tests
 
 An opposed test happens when someone takes action to interfere with another’s action.
 
@@ -197,7 +197,7 @@ If two characters’ skills oppose each other but neither needs to roll, the hig
 |You Succeed|A critical success beats a success. Otherwise, whoever rolled higher succeeds and the other fails.|Your action succeeds and the opposed action fails.|
 |You Fail|You fail to stop the opposed action.|Nobody succeeds; or whoever rolled lower succeeds and the other fails (Game Moderator’s choice).|
 
-## **3.6 Pursuit**
+## Pursuit
 
 A pursuit is a series of opposed tests. The most basic chase is a single test for each side, pursuer and quarry. If the quarry wins, he or she escapes and the chase ends. If the pursuer wins, he or she (or it) runs the quarry down and the chase ends. Usually that means combat.
 
@@ -219,7 +219,7 @@ If this test wins the contest, instead of a “win” it grants a +20% bonus to 
 
 If your Protagonist makes an attack but doing so _will_ seriously impact their efforts to pursue or evade, the attack is considered to occur instead of a roll to pursue or escape – effectively meaning the opponent’s roll to pursue or escape automatically wins that exchange. This will always be the case if the pursuit is on foot; in other situations it will depend on whether your Protagonist’s skill at controlling his or her conveyance is a major factor in the chase (if in doubt, the GM can make a call).
 
-## **3.7 Willpower Points**
+## Willpower Points
 
 Willpower Points are mental fuel. Protagonists require Willpower Points to keep going despite exhaustion, to resist unwanted persuasion, to resist the effects of terror and mental disorders, and, on rare occasions, to resist or enact unnatural rituals.
 
@@ -229,7 +229,7 @@ Willpower Points are mental fuel. Protagonists require Willpower Points to keep 
 
 **REGAINING WILLPOWER POINTS:** When your Protagonist gets a full night’s sleep (but no more than once in a 24-hour period), he or she regains 1D6 WP. If you play up one of your Protagonist’s personal motivations in a way the Game Moderator finds compelling, your Protagonist regains 1 WP.
 
-### **3.7.1 Exhaustion**
+### Exhaustion
 
 A Protagonist who works too long or faces extreme danger and injury without resting becomes exhausted. When this comes into play is up to the Game Moderator, but a good rule of thumb is that going a night without sleep or refusing to rest after losing SAN or Hit Points leads to exhaustion.
 
@@ -243,7 +243,7 @@ During this time, your Protagonist can’t sleep. A Protagonist can take more st
 
 If your Protagonist gains a new mental disorder while using stimulants, the Game Moderator has good reason to say the disorder takes the form of addiction to them. (See **DISORDERS** on page 71.)
 
-### **3.7.2 Sleeplessness**
+### Sleeplessness
 
 The first time your Protagonist tries to sleep after suffering temporary insanity or gaining a new mental disorder (see **TEMPORARY INSANITY** and **DISORDERS** on page 69), you must make a SAN test. If it fails, your Protagonist wakes in terror, losing the possibility of regaining any WP for 24 hours.
 
