@@ -35,7 +35,7 @@ title: Cthulhu Eternal SRD
 
 # What is Cthulhu Eternal ?
 
-The answer by the author on reddit captures the essence (original comment [here](https://old.reddit.com/r/rpg/comments/1ap0llb/difference_between_cthulhu_eternal_and_call_of/kqinhta/)):
+The answer by the author on reddit captures the essence (original comment [here](https://old.reddit.com/r/rpg/comments/1ap0llb/difference_between_cthulhu_eternal_and_call_of/kqinhta/)), as compared to Call of Cthulhu
 
 1. **Character Creation:** as others have noted, CE (like Delta Green before it) treats professions as a more detailed "skills package" which effectively means you have 6-10 skills which have a much higher base value than usual, because they're important to your archetype. Of course there is also a points spending phase where you can further increase any skill (except the "Cthulhu Mythos" equivalent), but only in blocks of 20. This makes character creation a bit more streamlined. A character's chosen archetype also gives a beginning number of Bonds (see below) and a starting Resources score.
 2. **Bonds:** Characters have a set of nominated people, groups, or societies that they are especially bonded with. CE expands on the Delta Green idea of individual bonds (people who are important in your life) by adding the second category of Community Bonds (bonds with a society, or group, or faction, or similar). Both types of bonds have a strength value from 1-20 which describes how powerfully you are associated with the person or group. This can go up or down depending on game play events (in particular SAN losses). The rating in a Community Bond defines how high ranked and important you are in the group, and as a consequence how likely it is you can influence the group or receive support from them. In this sense, Community Bonds also take over part of the role performed by the CoC skill "Credit Rating".
@@ -49,6 +49,7 @@ Rules and game content is OGL. More information at https://cthulhueternal.com/.
 
 Check out their SRDs on DriveThruRPG:
 
+- [***Cthulhu Eternal: Classical*** SRD](https://www.drivethrurpg.com/product/472148/Cthulhu-Eternal--Classical-Era-SRD)
 - [**_Cthulhu Eternal: Medieval_** SRD](https://www.drivethrurpg.com/product/435864/Cthulhu-Eternal--Medieval-SRD)
 - [_**Cthulhu Eternal: Age of Revolutions**_ (1750-1850) SRD](https://www.drivethrurpg.com/product/408170/Cthulhu-Eternal--Age-of-Revolutions-SRD)
 - [**_Cthulhu Eternal: Victorian Era_** SRD](https://www.drivethrurpg.com/product/384108/Cthulhu-Eternal--Victorian-Era-SRD)

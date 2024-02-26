@@ -1,5 +1,3 @@
-  
-
 # **6.0 Vehicles**
 
 Depending on the nature of the game setting, different types of simple or sophisticated vehicles might be common items. If the Protagonists or their adversary have access to such vehicles, the following guidelines may assist when dangerous and/or action-oriented scenes involving vehicles arise during play.
