@@ -1,15 +1,15 @@
-
 Table of Contents
 
-- [[#Medieval Age|Medieval Age]]
-- [[#Jazz Age|Jazz Age]]
-- [[#Modern Age|Modern Age]]
-	- [[#Modern Age#Melee Weapons|Melee Weapons]]
-	- [[#Modern Age#Ranged Weapons|Ranged Weapons]]
-	- [[#Modern Age#Small Arms|Small Arms]]
-	- [[#Modern Age#Automatic and Heavy Weapons|Automatic and Heavy Weapons]]
-		- [[#Automatic and Heavy Weapons#Weapons with Special Effects|Weapons with Special Effects]]
-- [[#Future Age Weapons|Future Age Weapons]]
+- [Medieval Age](#Medieval%20Age)
+- [Jazz Age](#Jazz%20Age)
+- [Modern Age](#Modern%20Age)
+	- [Melee Weapons](#Melee%20Weapons)
+	- [Ranged Weapons](#Ranged%20Weapons)
+	- [Small Arms](#Small%20Arms)
+	- [Automatic and Heavy Weapons](#Automatic%20and%20Heavy%20Weapons)
+		- [Weapons with Special Effects](#Weapons%20with%20Special%20Effects)
+- [Future Age Weapons](#Future%20Age%20Weapons)
+
 
 
 # Medieval Age

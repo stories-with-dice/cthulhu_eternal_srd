@@ -1,32 +1,31 @@
-
 Table of Contents
 
-- [[#Maddening Revelations|Maddening Revelations]]
-	- [[#Maddening Revelations#Researching the Mythos|Researching the Mythos]]
-		- [[#Researching the Mythos#Finding Information|Finding Information]]
-		- [[#Researching the Mythos#Accessing and Understanding the Contents|Accessing and Understanding the Contents]]
-		- [[#Researching the Mythos#Immersion|Immersion]]
-		- [[#Researching the Mythos#Investing Time|Investing Time]]
-		- [[#Researching the Mythos#Dangers of Understanding|Dangers of Understanding]]
-		- [[#Researching the Mythos#Skill Increases|Skill Increases]]
-		- [[#Researching the Mythos#Learning Rituals|Learning Rituals]]
-	- [[#Maddening Revelations#Performing Rituals|Performing Rituals]]
-		- [[#Performing Rituals#Time Invested in the Ritual|Time Invested in the Ritual]]
-		- [[#Performing Rituals#Powering the Ritual|Powering the Ritual]]
-		- [[#Performing Rituals#The Ritual Activation Test|The Ritual Activation Test]]
-		- [[#Performing Rituals#Sanity Costs to Ritual Participants|Sanity Costs to Ritual Participants]]
-	- [[#Maddening Revelations#Objects with Unnatural Power|Objects with Unnatural Power]]
-- [[#Supernatural Effects|Supernatural Effects]]
-		- [[#Objects with Unnatural Power#Designing Supernatural Effects: General Principles|Designing Supernatural Effects: General Principles]]
-	- [[#Supernatural Effects#Calculating the Scope of the Supernatural Effect|Calculating the Scope of the Supernatural Effect]]
-	- [[#Supernatural Effects#Common Types of Effects|Common Types of Effects]]
-		- [[#Common Types of Effects#Summoning Supernatural Entities|Summoning Supernatural Entities]]
-		- [[#Common Types of Effects#Binding Supernatural Entities|Binding Supernatural Entities]]
-		- [[#Common Types of Effects#Mental Contact With Alien Gods|Mental Contact With Alien Gods]]
-		- [[#Common Types of Effects#Opening Physical Conduits to Alien Gods|Opening Physical Conduits to Alien Gods]]
-		- [[#Common Types of Effects#Dimensional Traversal|Dimensional Traversal]]
-		- [[#Common Types of Effects#Cursing and Damaging|Cursing and Damaging]]
-		- [[#Common Types of Effects#Warding and Protection|Warding and Protection]]
+- [Maddening Revelations](#Maddening%20Revelations)
+	- [Researching the Mythos](#Researching%20the%20Mythos)
+		- [Finding Information](#Finding%20Information)
+		- [Accessing and Understanding the Contents](#Accessing%20and%20Understanding%20the%20Contents)
+		- [Immersion](#Immersion)
+		- [Investing Time](#Investing%20Time)
+		- [Dangers of Understanding](#Dangers%20of%20Understanding)
+		- [Skill Increases](#Skill%20Increases)
+		- [Learning Rituals](#Learning%20Rituals)
+	- [Performing Rituals](#Performing%20Rituals)
+		- [Time Invested in the Ritual](#Time%20Invested%20in%20the%20Ritual)
+		- [Powering the Ritual](#Powering%20the%20Ritual)
+		- [The Ritual Activation Test](#The%20Ritual%20Activation%20Test)
+		- [Sanity Costs to Ritual Participants](#Sanity%20Costs%20to%20Ritual%20Participants)
+	- [Objects with Unnatural Power](#Objects%20with%20Unnatural%20Power)
+- [Supernatural Effects](#Supernatural%20Effects)
+		- [Designing Supernatural Effects: General Principles](#Designing%20Supernatural%20Effects:%20General%20Principles)
+	- [Calculating the Scope of the Supernatural Effect](#Calculating%20the%20Scope%20of%20the%20Supernatural%20Effect)
+	- [Common Types of Effects](#Common%20Types%20of%20Effects)
+		- [Summoning Supernatural Entities](#Summoning%20Supernatural%20Entities)
+		- [Binding Supernatural Entities](#Binding%20Supernatural%20Entities)
+		- [Mental Contact With Alien Gods](#Mental%20Contact%20With%20Alien%20Gods)
+		- [Opening Physical Conduits to Alien Gods](#Opening%20Physical%20Conduits%20to%20Alien%20Gods)
+		- [Dimensional Traversal](#Dimensional%20Traversal)
+		- [Cursing and Damaging](#Cursing%20and%20Damaging)
+		- [Warding and Protection](#Warding%20and%20Protection)
 
 
 This section consists of a series of resources which are designed to help a Game Moderator design exciting and dangerous scenarios to challenge a Protagonist Group.

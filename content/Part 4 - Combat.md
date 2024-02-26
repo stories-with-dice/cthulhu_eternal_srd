@@ -1,55 +1,54 @@
-
 Table of Contents
 
-- [[#Combat|Combat]]
-	- [[#Combat#The Turn|The Turn]]
-		- [[#The Turn#Aim|Aim]]
-		- [[#The Turn#Attack|Attack]]
-		- [[#The Turn#Called Shot|Called Shot]]
-		- [[#The Turn#Disarm|Disarm]]
-		- [[#The Turn#Dodge|Dodge]]
-		- [[#The Turn#Escape|Escape]]
-		- [[#The Turn#Fight Back|Fight Back]]
-		- [[#The Turn#Move|Move]]
-		- [[#The Turn#Pin|Pin]]
-		- [[#The Turn#Wait|Wait]]
-		- [[#The Turn#Anything Else|Anything Else]]
-	- [[#Combat#Attack Rolls|Attack Rolls]]
-		- [[#Attack Rolls#Critical Hits and Fumbles|Critical Hits and Fumbles]]
-		- [[#Attack Rolls#Attack Modifiers|Attack Modifiers]]
-		- [[#Attack Rolls#Surprise Attacks|Surprise Attacks]]
-		- [[#Attack Rolls#Firing Into A Crowd|Firing Into A Crowd]]
-	- [[#Combat#Defense Rolls|Defense Rolls]]
-		- [[#Defense Rolls#Dodging and Fighting Back|Dodging and Fighting Back]]
-		- [[#Defense Rolls#Dodging Ranged Attacks|Dodging Ranged Attacks]]
-		- [[#Defense Rolls#Defending After Attacking|Defending After Attacking]]
-	- [[#Combat#Damage|Damage]]
-		- [[#Damage#Healing|Healing]]
-		- [[#Damage#Complications|Complications]]
-		- [[#Damage#Recovering Stat Points|Recovering Stat Points]]
-	- [[#Combat#Lethality Rating|Lethality Rating]]
-		- [[#Lethality Rating#Kill Radius|Kill Radius]]
-		- [[#Lethality Rating#Selective Fire|Selective Fire]]
-	- [[#Combat#Explosions|Explosions]]
-	- [[#Combat#Fear in Combat|Fear in Combat]]
-	- [[#Combat#Protection in Combat|Protection in Combat]]
-		- [[#Protection in Combat#Fragile|Fragile]]
-		- [[#Protection in Combat#Exposed|Exposed]]
-		- [[#Protection in Combat#Armored|Armored]]
-		- [[#Protection in Combat#Huge|Huge]]
-		- [[#Protection in Combat#Transcendent|Transcendent]]
-		- [[#Protection in Combat#Armor Piercing Weapons|Armor Piercing Weapons]]
-	- [[#Combat#Optional Spot Rules for Weapons|Optional Spot Rules for Weapons]]
-		- [[#Optional Spot Rules for Weapons#Concealing Weapons|Concealing Weapons]]
-- [[#Other Threats|Other Threats]]
-		- [[#Optional Spot Rules for Weapons#Poison and Disease|Poison and Disease]]
-		- [[#Optional Spot Rules for Weapons#Falling|Falling]]
-		- [[#Optional Spot Rules for Weapons#Suffocation|Suffocation]]
-		- [[#Optional Spot Rules for Weapons#Fire|Fire]]
-		- [[#Optional Spot Rules for Weapons#Cold|Cold]]
-		- [[#Optional Spot Rules for Weapons#Starvation and Thirst|Starvation and Thirst]]
-		- [[#Optional Spot Rules for Weapons#Impact|Impact]]
-	- [[#Other Threats#The Aftermath|The Aftermath]]
+- [Combat](#Combat)
+	- [The Turn](#The%20Turn)
+		- [Aim](#Aim)
+		- [Attack](#Attack)
+		- [Called Shot](#Called%20Shot)
+		- [Disarm](#Disarm)
+		- [Dodge](#Dodge)
+		- [Escape](#Escape)
+		- [Fight Back](#Fight%20Back)
+		- [Move](#Move)
+		- [Pin](#Pin)
+		- [Wait](#Wait)
+		- [Anything Else](#Anything%20Else)
+	- [Attack Rolls](#Attack%20Rolls)
+		- [Critical Hits and Fumbles](#Critical%20Hits%20and%20Fumbles)
+		- [Attack Modifiers](#Attack%20Modifiers)
+		- [Surprise Attacks](#Surprise%20Attacks)
+		- [Firing Into A Crowd](#Firing%20Into%20A%20Crowd)
+	- [Defense Rolls](#Defense%20Rolls)
+		- [Dodging and Fighting Back](#Dodging%20and%20Fighting%20Back)
+		- [Dodging Ranged Attacks](#Dodging%20Ranged%20Attacks)
+		- [Defending After Attacking](#Defending%20After%20Attacking)
+	- [Damage](#Damage)
+		- [Healing](#Healing)
+		- [Complications](#Complications)
+		- [Recovering Stat Points](#Recovering%20Stat%20Points)
+	- [Lethality Rating](#Lethality%20Rating)
+		- [Kill Radius](#Kill%20Radius)
+		- [Selective Fire](#Selective%20Fire)
+	- [Explosions](#Explosions)
+	- [Fear in Combat](#Fear%20in%20Combat)
+	- [Protection in Combat](#Protection%20in%20Combat)
+		- [Fragile](#Fragile)
+		- [Exposed](#Exposed)
+		- [Armored](#Armored)
+		- [Huge](#Huge)
+		- [Transcendent](#Transcendent)
+		- [Armor Piercing Weapons](#Armor%20Piercing%20Weapons)
+	- [Optional Spot Rules for Weapons](#Optional%20Spot%20Rules%20for%20Weapons)
+		- [Concealing Weapons](#Concealing%20Weapons)
+- [Other Threats](#Other%20Threats)
+		- [Poison and Disease](#Poison%20and%20Disease)
+		- [Falling](#Falling)
+		- [Suffocation](#Suffocation)
+		- [Fire](#Fire)
+		- [Cold](#Cold)
+		- [Starvation and Thirst](#Starvation%20and%20Thirst)
+		- [Impact](#Impact)
+	- [The Aftermath](#The%20Aftermath)
 
 
 # Combat

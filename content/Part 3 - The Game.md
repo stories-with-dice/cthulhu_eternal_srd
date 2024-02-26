@@ -1,26 +1,25 @@
 Table of Contents
 
-- [[#The Game|The Game]]
-	- [[#The Game#Using Skills|Using Skills]]
-		- [[#Using Skills#Resolving a Test Without Dice|Resolving a Test Without Dice]]
-		- [[#Using Skills#Resolving a Test With Dice|Resolving a Test With Dice]]
-		- [[#Using Skills#If You Don’t Have the Skill|If You Don’t Have the Skill]]
-		- [[#Using Skills#Using a Stat|Using a Stat]]
-		- [[#Using Skills#Bonuses and Penalties|Bonuses and Penalties]]
-		- [[#Using Skills#Who Rolls?|Who Rolls?]]
-	- [[#The Game#Success and Failure|Success and Failure]]
-		- [[#Success and Failure#Critical Success|Critical Success]]
-		- [[#Success and Failure#Success|Success]]
-		- [[#Success and Failure#Failure|Failure]]
-		- [[#Success and Failure#Fumble|Fumble]]
-	- [[#The Game#The Luck Roll|The Luck Roll]]
-	- [[#The Game#Time Required|Time Required]]
-	- [[#The Game#Opposed Tests|Opposed Tests]]
-	- [[#The Game#Pursuit|Pursuit]]
-	- [[#The Game#Willpower Points|Willpower Points]]
-		- [[#Willpower Points#Exhaustion|Exhaustion]]
-		- [[#Willpower Points#Sleeplessness|Sleeplessness]]
-
+- [The Game](#The%20Game)
+	- [Using Skills](#Using%20Skills)
+		- [Resolving a Test Without Dice](#Resolving%20a%20Test%20Without%20Dice)
+		- [Resolving a Test With Dice](#Resolving%20a%20Test%20With%20Dice)
+		- [If You Don’t Have the Skill](#If%20You%20Don%E2%80%99t%20Have%20the%20Skill)
+		- [Using a Stat](#Using%20a%20Stat)
+		- [Bonuses and Penalties](#Bonuses%20and%20Penalties)
+		- [Who Rolls?](#Who%20Rolls?)
+	- [Success and Failure](#Success%20and%20Failure)
+		- [Critical Success](#Critical%20Success)
+		- [Success](#Success)
+		- [Failure](#Failure)
+		- [Fumble](#Fumble)
+	- [The Luck Roll](#The%20Luck%20Roll)
+	- [Time Required](#Time%20Required)
+	- [Opposed Tests](#Opposed%20Tests)
+	- [Pursuit](#Pursuit)
+	- [Willpower Points](#Willpower%20Points)
+		- [Exhaustion](#Exhaustion)
+		- [Sleeplessness](#Sleeplessness)
 
 # The Game
 

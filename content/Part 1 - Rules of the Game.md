@@ -1,47 +1,48 @@
+Table of Contents
 
-- [[#PART I: RULES OF THE GAME|PART I: RULES OF THE GAME]]
-- [[#Core Game Concepts|Core Game Concepts]]
-	- [[#Core Game Concepts#Rolling the Dice|Rolling the Dice]]
-	- [[#Core Game Concepts#Percentile Dice (“1D100”)|Percentile Dice (“1D100”)]]
-- [[#Protagonists|Protagonists]]
-	- [[#Protagonists#What Makes a Protagonist|What Makes a Protagonist]]
-	- [[#Protagonists#Protagonist Creation|Protagonist Creation]]
-		- [[#Protagonist Creation#STEP 0: Establish Harshness of Protagonist’s Upbringing|STEP 0: Establish Harshness of Protagonist’s Upbringing]]
-		- [[#Protagonist Creation#STEP 1: Determine Statistics|STEP 1: Determine Statistics]]
-		- [[#Protagonist Creation#STEP 2: Calculate Derived Attributes|STEP 2: Calculate Derived Attributes]]
-		- [[#Protagonist Creation#STEP 3: Select Archetype|STEP 3: Select Archetype]]
-		- [[#Protagonist Creation#STEP 4: Calculate Resources Rating|STEP 4: Calculate Resources Rating]]
-		- [[#Protagonist Creation#STEP 5: Define Bonds|STEP 5: Define Bonds]]
-		- [[#Protagonist Creation#STEP 6: Select Bonus & Adversity Skills|STEP 6: Select Bonus & Adversity Skills]]
-		- [[#Protagonist Creation#STEP 7: Determine Mental Damage from Harsh Environments|STEP 7: Determine Mental Damage from Harsh Environments]]
-		- [[#Protagonist Creation#STEP 8: Add the Final Details|STEP 8: Add the Final Details]]
-	- [[#Protagonists#Detailed Description: Statistics|Detailed Description: Statistics]]
-		- [[#Detailed Description: Statistics#Stat Adjustments for Harsh Upbringings|Stat Adjustments for Harsh Upbringings]]
-		- [[#Detailed Description: Statistics#Distinguishing Features|Distinguishing Features]]
-	- [[#Protagonists#Detailed Description: Derived Attributes & Damage Bonus|Detailed Description: Derived Attributes & Damage Bonus]]
-	- [[#Protagonists#Detailed Description: Archetypes|Detailed Description: Archetypes]]
-		- [[#Detailed Description: Archetypes#Customizing Your Protagonist With Other Skills|Customizing Your Protagonist With Other Skills]]
-		- [[#Detailed Description: Archetypes#Modern Day: List of Archetypes|Modern Day: List of Archetypes]]
-		- [[#Detailed Description: Archetypes#Medieval Age: List of Archetypes|Medieval Age: List of Archetypes]]
-	- [[#Protagonists#Detailed Description: Adversity Skill Points|Detailed Description: Adversity Skill Points]]
-	- [[#Protagonists#Detailed Description: Resources|Detailed Description: Resources]]
-		- [[#Detailed Description: Resources#Determining the Starting Resources rating|Determining the Starting Resources rating]]
-		- [[#Detailed Description: Resources#Permanent Resources, Resources At-Hand, and Resource Checks|Permanent Resources, Resources At-Hand, and Resource Checks]]
-		- [[#Detailed Description: Resources#Resources Breakdown & Check Boxes|Resources Breakdown & Check Boxes]]
-		- [[#Detailed Description: Resources#The Bag of Tricks|The Bag of Tricks]]
-		- [[#Detailed Description: Resources#Checkboxes and Per-Adventure Limits|Checkboxes and Per-Adventure Limits]]
-		- [[#Detailed Description: Resources#Pooling Resources|Pooling Resources]]
-		- [[#Detailed Description: Resources#Losing Resources|Losing Resources]]
-		- [[#Detailed Description: Resources#Increasing the Resources Rating During Play|Increasing the Resources Rating During Play]]
-		- [[#Detailed Description: Resources#Replenishing Resources, Removing Checkmarks|Replenishing Resources, Removing Checkmarks]]
-	- [[#Protagonists#Detailed Description: Bonds|Detailed Description: Bonds]]
-		- [[#Detailed Description: Bonds#Individual Bonds|Individual Bonds]]
-		- [[#Detailed Description: Bonds#Community Bonds|Community Bonds]]
-		- [[#Detailed Description: Bonds#Describing Bonds|Describing Bonds]]
-		- [[#Detailed Description: Bonds#Broken Bonds|Broken Bonds]]
-		- [[#Detailed Description: Bonds#Bonds Forged Through Shared Adversity|Bonds Forged Through Shared Adversity]]
-	- [[#Protagonists#Detailed Description: Bonus Skill Points|Detailed Description: Bonus Skill Points]]
-		- [[#Detailed Description: Bonus Skill Points#Trading-in Skill Point Picks|Trading-in Skill Point Picks]]
+- [PART I: RULES OF THE GAME](#PART%20I:%20RULES%20OF%20THE%20GAME)
+- [Core Game Concepts](#Core%20Game%20Concepts)
+	- [Rolling the Dice](#Rolling%20the%20Dice)
+	- [Percentile Dice (“1D100”)](#Percentile%20Dice%20(%E2%80%9C1D100%E2%80%9D))
+- [Protagonists](#Protagonists)
+	- [What Makes a Protagonist](#What%20Makes%20a%20Protagonist)
+	- [Protagonist Creation](#Protagonist%20Creation)
+		- [STEP 0: Establish Harshness of Protagonist’s Upbringing](#STEP%200:%20Establish%20Harshness%20of%20Protagonist%E2%80%99s%20Upbringing)
+		- [STEP 1: Determine Statistics](#STEP%201:%20Determine%20Statistics)
+		- [STEP 2: Calculate Derived Attributes](#STEP%202:%20Calculate%20Derived%20Attributes)
+		- [STEP 3: Select Archetype](#STEP%203:%20Select%20Archetype)
+		- [STEP 4: Calculate Resources Rating](#STEP%204:%20Calculate%20Resources%20Rating)
+		- [STEP 5: Define Bonds](#STEP%205:%20Define%20Bonds)
+		- [STEP 6: Select Bonus & Adversity Skills](#STEP%206:%20Select%20Bonus%20&%20Adversity%20Skills)
+		- [STEP 7: Determine Mental Damage from Harsh Environments](#STEP%207:%20Determine%20Mental%20Damage%20from%20Harsh%20Environments)
+		- [STEP 8: Add the Final Details](#STEP%208:%20Add%20the%20Final%20Details)
+	- [Detailed Description: Statistics](#Detailed%20Description:%20Statistics)
+		- [Stat Adjustments for Harsh Upbringings](#Stat%20Adjustments%20for%20Harsh%20Upbringings)
+		- [Distinguishing Features](#Distinguishing%20Features)
+	- [Detailed Description: Derived Attributes & Damage Bonus](#Detailed%20Description:%20Derived%20Attributes%20&%20Damage%20Bonus)
+	- [Detailed Description: Archetypes](#Detailed%20Description:%20Archetypes)
+		- [Customizing Your Protagonist With Other Skills](#Customizing%20Your%20Protagonist%20With%20Other%20Skills)
+		- [Modern Day: List of Archetypes](#Modern%20Day:%20List%20of%20Archetypes)
+		- [Medieval Age: List of Archetypes](#Medieval%20Age:%20List%20of%20Archetypes)
+	- [Detailed Description: Adversity Skill Points](#Detailed%20Description:%20Adversity%20Skill%20Points)
+	- [Detailed Description: Resources](#Detailed%20Description:%20Resources)
+		- [Determining the Starting Resources rating](#Determining%20the%20Starting%20Resources%20rating)
+		- [Permanent Resources, Resources At-Hand, and Resource Checks](#Permanent%20Resources,%20Resources%20At-Hand,%20and%20Resource%20Checks)
+		- [Resources Breakdown & Check Boxes](#Resources%20Breakdown%20&%20Check%20Boxes)
+		- [The Bag of Tricks](#The%20Bag%20of%20Tricks)
+		- [Checkboxes and Per-Adventure Limits](#Checkboxes%20and%20Per-Adventure%20Limits)
+		- [Pooling Resources](#Pooling%20Resources)
+		- [Losing Resources](#Losing%20Resources)
+		- [Increasing the Resources Rating During Play](#Increasing%20the%20Resources%20Rating%20During%20Play)
+		- [Replenishing Resources, Removing Checkmarks](#Replenishing%20Resources,%20Removing%20Checkmarks)
+	- [Detailed Description: Bonds](#Detailed%20Description:%20Bonds)
+		- [Individual Bonds](#Individual%20Bonds)
+		- [Community Bonds](#Community%20Bonds)
+		- [Describing Bonds](#Describing%20Bonds)
+		- [Broken Bonds](#Broken%20Bonds)
+		- [Bonds Forged Through Shared Adversity](#Bonds%20Forged%20Through%20Shared%20Adversity)
+	- [Detailed Description: Bonus Skill Points](#Detailed%20Description:%20Bonus%20Skill%20Points)
+		- [Trading-in Skill Point Picks](#Trading-in%20Skill%20Point%20Picks)
 
 
 # PART I: RULES OF THE GAME

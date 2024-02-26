@@ -1,12 +1,12 @@
 Table of Contents
 
-- [[#Equipment|Equipment]]
-	- [[#Equipment#Buying Equipment|Buying Equipment]]
-		- [[#Buying Equipment#What does the Resources Rating Mean?|What does the Resources Rating Mean?]]
-	- [[#Equipment#Scrounging|Scrounging]]
-		- [[#Scrounging#Pre-Loved Items and Spoiled Goods|Pre-Loved Items and Spoiled Goods]]
-		- [[#Scrounging#Resource Categories and Scarcity|Resource Categories and Scarcity]]
-	- [[#Equipment#The Fine Art of Jury-Rigging|The Fine Art of Jury-Rigging]]
+- [Equipment](#Equipment)
+	- [Buying Equipment](#Buying%20Equipment)
+		- [What does the Resources Rating Mean?](#What%20does%20the%20Resources%20Rating%20Mean?)
+	- [Scrounging](#Scrounging)
+		- [Pre-Loved Items and Spoiled Goods](#Pre-Loved%20Items%20and%20Spoiled%20Goods)
+		- [Resource Categories and Scarcity](#Resource%20Categories%20and%20Scarcity)
+	- [The Fine Art of Jury-Rigging](#The%20Fine%20Art%20of%20Jury-Rigging)
 
 # Equipment
 

@@ -1,19 +1,18 @@
-
 Table of Contents
 
-- [[#Downtime|Downtime]]
-	- [[#Downtime#What Changed|What Changed]]
-	- [[#Downtime#Personal Pursuits|Personal Pursuits]]
-		- [[#Personal Pursuits#Fulfill Responsibilities to Individuals|Fulfill Responsibilities to Individuals]]
-		- [[#Personal Pursuits#Reorganizing and Replenishing Personal Resources|Reorganizing and Replenishing Personal Resources]]
-		- [[#Personal Pursuits#Gaining Favor of the Community at Large|Gaining Favor of the Community at Large]]
-		- [[#Personal Pursuits#Back to Nature|Back to Nature]]
-		- [[#Personal Pursuits#Establish a New Individual Bond|Establish a New Individual Bond]]
-		- [[#Personal Pursuits#Establish a New Community Bond|Establish a New Community Bond]]
-		- [[#Personal Pursuits#Get Help With Mental Illnesses|Get Help With Mental Illnesses]]
-		- [[#Personal Pursuits#Improve a Skill or Stat|Improve a Skill or Stat]]
-		- [[#Personal Pursuits#Personal Motivation|Personal Motivation]]
-		- [[#Personal Pursuits#Accounts of the Cthulhu Mythos / Learning Rituals|Accounts of the Cthulhu Mythos / Learning Rituals]]
+- [Downtime](#Downtime)
+	- [What Changed](#What%20Changed)
+	- [Personal Pursuits](#Personal%20Pursuits)
+		- [Fulfill Responsibilities to Individuals](#Fulfill%20Responsibilities%20to%20Individuals)
+		- [Reorganizing and Replenishing Personal Resources](#Reorganizing%20and%20Replenishing%20Personal%20Resources)
+		- [Gaining Favor of the Community at Large](#Gaining%20Favor%20of%20the%20Community%20at%20Large)
+		- [Back to Nature](#Back%20to%20Nature)
+		- [Establish a New Individual Bond](#Establish%20a%20New%20Individual%20Bond)
+		- [Establish a New Community Bond](#Establish%20a%20New%20Community%20Bond)
+		- [Get Help With Mental Illnesses](#Get%20Help%20With%20Mental%20Illnesses)
+		- [Improve a Skill or Stat](#Improve%20a%20Skill%20or%20Stat)
+		- [Personal Motivation](#Personal%20Motivation)
+		- [Accounts of the Cthulhu Mythos / Learning Rituals](#Accounts%20of%20the%20Cthulhu%20Mythos%20/%20Learning%20Rituals)
 
 
 # Downtime
