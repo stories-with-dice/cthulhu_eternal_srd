@@ -1,3 +1,27 @@
+Table of Contents
+
+- [[#The Game|The Game]]
+	- [[#The Game#Using Skills|Using Skills]]
+		- [[#Using Skills#Resolving a Test Without Dice|Resolving a Test Without Dice]]
+		- [[#Using Skills#Resolving a Test With Dice|Resolving a Test With Dice]]
+		- [[#Using Skills#If You Don’t Have the Skill|If You Don’t Have the Skill]]
+		- [[#Using Skills#Using a Stat|Using a Stat]]
+		- [[#Using Skills#Bonuses and Penalties|Bonuses and Penalties]]
+		- [[#Using Skills#Who Rolls?|Who Rolls?]]
+	- [[#The Game#Success and Failure|Success and Failure]]
+		- [[#Success and Failure#Critical Success|Critical Success]]
+		- [[#Success and Failure#Success|Success]]
+		- [[#Success and Failure#Failure|Failure]]
+		- [[#Success and Failure#Fumble|Fumble]]
+	- [[#The Game#The Luck Roll|The Luck Roll]]
+	- [[#The Game#Time Required|Time Required]]
+	- [[#The Game#Opposed Tests|Opposed Tests]]
+	- [[#The Game#Pursuit|Pursuit]]
+	- [[#The Game#Willpower Points|Willpower Points]]
+		- [[#Willpower Points#Exhaustion|Exhaustion]]
+		- [[#Willpower Points#Sleeplessness|Sleeplessness]]
+
+
 # The Game
 
 _Cthulhu Eternal_ is a game about unveiling – and perhaps defeating – the horrific yet hidden entities of the Cthulhu Mythos that haunt our reality. The world seems mundane, but this is a façade. In dark corners and hidden places, the extra-dimensional and extra-terrestrial horrors lurk. Most people never learn of their existence, but some come to worship or follow such inimical forces. Others who learn the true nature of reality – of those dark entities, and insane devotees they inspire – cannot help but make a stand to defeat their terrible plans. These are Protagonists. Their fight might be never-ending, but the cost of losing is too great. They are the line that separates the sane world we know and the Apocalypse.

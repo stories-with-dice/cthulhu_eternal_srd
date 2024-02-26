@@ -1,3 +1,37 @@
+
+Table of Contents
+
+- [[#Sanity|Sanity]]
+	- [[#Sanity#Sanity Losses|Sanity Losses]]
+	- [[#Sanity#Rules of Thumb for SAN Loss|Rules of Thumb for SAN Loss]]
+	- [[#Sanity#Explore the Loss|Explore the Loss]]
+	- [[#Sanity#Threats to SAN|Threats to SAN]]
+		- [[#Threats to SAN#Violence|Violence]]
+		- [[#Threats to SAN#Helplessness|Helplessness]]
+		- [[#Threats to SAN#The Unnatural|The Unnatural]]
+	- [[#Sanity#Insanity and Disorders|Insanity and Disorders]]
+	- [[#Sanity#Temporary Insanity|Temporary Insanity]]
+		- [[#Temporary Insanity#Flee|Flee]]
+		- [[#Temporary Insanity#Struggle|Struggle]]
+		- [[#Temporary Insanity#Submit|Submit]]
+		- [[#Temporary Insanity#Understanding the Unnatural|Understanding the Unnatural]]
+	- [[#Sanity#Disorders|Disorders]]
+		- [[#Disorders#Acute Episodes|Acute Episodes]]
+		- [[#Disorders#Sample Disorders|Sample Disorders]]
+	- [[#Sanity#Permanent Insanity|Permanent Insanity]]
+	- [[#Sanity#Resisting Insanity|Resisting Insanity]]
+		- [[#Resisting Insanity#Adapting to SAN Loss|Adapting to SAN Loss]]
+		- [[#Resisting Insanity#Projecting Onto A Bond|Projecting Onto A Bond]]
+		- [[#Resisting Insanity#Using Bonds to Repress Insanity|Using Bonds to Repress Insanity]]
+	- [[#Sanity#Recovering Sanity|Recovering Sanity]]
+		- [[#Recovering Sanity#Defeating Unnatural Creatures|Defeating Unnatural Creatures]]
+		- [[#Recovering Sanity#Concluding a Dangerous Adventure|Concluding a Dangerous Adventure]]
+		- [[#Recovering Sanity#Destroying Accounts of the Unnatural|Destroying Accounts of the Unnatural]]
+		- [[#Recovering Sanity#Getting Help with Mental Illness|Getting Help with Mental Illness]]
+		- [[#Recovering Sanity#Pursuing Personal Goals or Caring for Individuals|Pursuing Personal Goals or Caring for Individuals]]
+	- [[#Sanity#Casting Rituals and Ritual Activation|Casting Rituals and Ritual Activation]]
+
+
 # Sanity
 
 Sanity Points represent the resilience of the relationship between your Protagonist’s personality and the world. With high SAN, your Protagonist has confidence in his or her place in the world. A high SAN score is marked by insight, self-awareness, and a life-affirming view of reality. With low SAN, the deadly truth of the universe has begun to overwhelm your Protagonist. With no SAN, your Protagonist is forever lost.

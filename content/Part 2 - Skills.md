@@ -1,3 +1,16 @@
+Table of Contents
+
+- [[#Detailed Description: Skills|Detailed Description: Skills]]
+	- [[#Detailed Description: Skills#Base Rating|Base Rating]]
+		- [[#Base Rating#How Skills Work|How Skills Work]]
+		- [[#Base Rating#Common Knowledge|Common Knowledge]]
+		- [[#Base Rating#Improving Skills|Improving Skills]]
+		- [[#Base Rating#Modern Day Skills|Modern Day Skills]]
+		- [[#Base Rating#Medieval Age Skills|Medieval Age Skills]]
+		- [[#Base Rating#Jazz Age Skills|Jazz Age Skills]]
+		- [[#Base Rating#Future Age Skills|Future Age Skills]]
+
+
 # Detailed Description: Skills
 
 A skill represents expertise gained with intensive training or study. If you make a skill roll, your Protagonist is doing something that would leave untrained people lost.

@@ -1,3 +1,34 @@
+
+Table of Contents
+
+- [[#Maddening Revelations|Maddening Revelations]]
+	- [[#Maddening Revelations#Researching the Mythos|Researching the Mythos]]
+		- [[#Researching the Mythos#Finding Information|Finding Information]]
+		- [[#Researching the Mythos#Accessing and Understanding the Contents|Accessing and Understanding the Contents]]
+		- [[#Researching the Mythos#Immersion|Immersion]]
+		- [[#Researching the Mythos#Investing Time|Investing Time]]
+		- [[#Researching the Mythos#Dangers of Understanding|Dangers of Understanding]]
+		- [[#Researching the Mythos#Skill Increases|Skill Increases]]
+		- [[#Researching the Mythos#Learning Rituals|Learning Rituals]]
+	- [[#Maddening Revelations#Performing Rituals|Performing Rituals]]
+		- [[#Performing Rituals#Time Invested in the Ritual|Time Invested in the Ritual]]
+		- [[#Performing Rituals#Powering the Ritual|Powering the Ritual]]
+		- [[#Performing Rituals#The Ritual Activation Test|The Ritual Activation Test]]
+		- [[#Performing Rituals#Sanity Costs to Ritual Participants|Sanity Costs to Ritual Participants]]
+	- [[#Maddening Revelations#Objects with Unnatural Power|Objects with Unnatural Power]]
+- [[#Supernatural Effects|Supernatural Effects]]
+		- [[#Objects with Unnatural Power#Designing Supernatural Effects: General Principles|Designing Supernatural Effects: General Principles]]
+	- [[#Supernatural Effects#Calculating the Scope of the Supernatural Effect|Calculating the Scope of the Supernatural Effect]]
+	- [[#Supernatural Effects#Common Types of Effects|Common Types of Effects]]
+		- [[#Common Types of Effects#Summoning Supernatural Entities|Summoning Supernatural Entities]]
+		- [[#Common Types of Effects#Binding Supernatural Entities|Binding Supernatural Entities]]
+		- [[#Common Types of Effects#Mental Contact With Alien Gods|Mental Contact With Alien Gods]]
+		- [[#Common Types of Effects#Opening Physical Conduits to Alien Gods|Opening Physical Conduits to Alien Gods]]
+		- [[#Common Types of Effects#Dimensional Traversal|Dimensional Traversal]]
+		- [[#Common Types of Effects#Cursing and Damaging|Cursing and Damaging]]
+		- [[#Common Types of Effects#Warding and Protection|Warding and Protection]]
+
+
 This section consists of a series of resources which are designed to help a Game Moderator design exciting and dangerous scenarios to challenge a Protagonist Group.
 
 # Maddening Revelations

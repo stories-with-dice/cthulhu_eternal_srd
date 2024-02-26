@@ -1,3 +1,13 @@
+Table of Contents
+
+- [[#Equipment|Equipment]]
+	- [[#Equipment#Buying Equipment|Buying Equipment]]
+		- [[#Buying Equipment#What does the Resources Rating Mean?|What does the Resources Rating Mean?]]
+	- [[#Equipment#Scrounging|Scrounging]]
+		- [[#Scrounging#Pre-Loved Items and Spoiled Goods|Pre-Loved Items and Spoiled Goods]]
+		- [[#Scrounging#Resource Categories and Scarcity|Resource Categories and Scarcity]]
+	- [[#Equipment#The Fine Art of Jury-Rigging|The Fine Art of Jury-Rigging]]
+
 # Equipment
 
 Most equipment that your Protagonist will buy, find or use does not require any special rules – if you have the equipment, and it is in working order then you can use it (possibly with a skill or stat test) to do things. Some items that are poorly made or worn-out may incur a penalty (see the box nearby).

@@ -1,3 +1,21 @@
+
+Table of Contents
+
+- [[#Downtime|Downtime]]
+	- [[#Downtime#What Changed|What Changed]]
+	- [[#Downtime#Personal Pursuits|Personal Pursuits]]
+		- [[#Personal Pursuits#Fulfill Responsibilities to Individuals|Fulfill Responsibilities to Individuals]]
+		- [[#Personal Pursuits#Reorganizing and Replenishing Personal Resources|Reorganizing and Replenishing Personal Resources]]
+		- [[#Personal Pursuits#Gaining Favor of the Community at Large|Gaining Favor of the Community at Large]]
+		- [[#Personal Pursuits#Back to Nature|Back to Nature]]
+		- [[#Personal Pursuits#Establish a New Individual Bond|Establish a New Individual Bond]]
+		- [[#Personal Pursuits#Establish a New Community Bond|Establish a New Community Bond]]
+		- [[#Personal Pursuits#Get Help With Mental Illnesses|Get Help With Mental Illnesses]]
+		- [[#Personal Pursuits#Improve a Skill or Stat|Improve a Skill or Stat]]
+		- [[#Personal Pursuits#Personal Motivation|Personal Motivation]]
+		- [[#Personal Pursuits#Accounts of the Cthulhu Mythos / Learning Rituals|Accounts of the Cthulhu Mythos / Learning Rituals]]
+
+
 # Downtime
 
 Games of _Cthulhu Eternal_ should feature occasional scenes that focus on Protagonists’ everyday lives. These short vignettes should last no more than a few minutes. Typically, they occur between adventures, but the Game Moderator always decides when and whether one is appropriate. These vignettes are a chance to explore the most important things in your Protagonist’s life — and to see whether those things are deteriorating thanks to the Protagonist’s experience of the secret horrors of the world.
