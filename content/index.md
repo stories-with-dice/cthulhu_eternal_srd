@@ -1,6 +1,11 @@
 ---
 title: Cthulhu Eternal SRD
 ---
+This is an online SRD of the Cthulhu Eternal OGL RPG. It contains the core rules, along with the setting variations. I've compiled this from the documents released so far (see [[#^bf3192|below]]) for easier, centralized access.
+
+This is still a work-in-progress. See [[#Work in progress|below]] for progress.
+
+This page has been written in [Obsidian](https://obsidian.md/), and published with [quartz](https://quartz.jzhao.xyz/). This creates easy navigation links between the HTML output, preserving the original content in plain-text Markdown.
 # Table of Contents
 
 [[Part 1 - Rules of the Game]]
@@ -35,7 +40,11 @@ title: Cthulhu Eternal SRD
 
 # What is Cthulhu Eternal ?
 
-The answer by the author on reddit captures the essence (original comment [here](https://old.reddit.com/r/rpg/comments/1ap0llb/difference_between_cthulhu_eternal_and_call_of/kqinhta/)), as compared to Call of Cthulhu
+>  A OGL-based d100 RPG of Lovecraftian horror, similar to Call of Cthulhu and Delta Green.
+
+## How is this different from those games?
+
+The answer by the author on reddit captures the essence (original comment [here](https://old.reddit.com/r/rpg/comments/1ap0llb/difference_between_cthulhu_eternal_and_call_of/kqinhta/)), as compared to Call of Cthulhu:
 
 1. **Character Creation:** as others have noted, CE (like Delta Green before it) treats professions as a more detailed "skills package" which effectively means you have 6-10 skills which have a much higher base value than usual, because they're important to your archetype. Of course there is also a points spending phase where you can further increase any skill (except the "Cthulhu Mythos" equivalent), but only in blocks of 20. This makes character creation a bit more streamlined. A character's chosen archetype also gives a beginning number of Bonds (see below) and a starting Resources score.
 2. **Bonds:** Characters have a set of nominated people, groups, or societies that they are especially bonded with. CE expands on the Delta Green idea of individual bonds (people who are important in your life) by adding the second category of Community Bonds (bonds with a society, or group, or faction, or similar). Both types of bonds have a strength value from 1-20 which describes how powerfully you are associated with the person or group. This can go up or down depending on game play events (in particular SAN losses). The rating in a Community Bond defines how high ranked and important you are in the group, and as a consequence how likely it is you can influence the group or receive support from them. In this sense, Community Bonds also take over part of the role performed by the CoC skill "Credit Rating".
@@ -47,7 +56,7 @@ The answer by the author on reddit captures the essence (original comment [here]
 
 Rules and game content is OGL. More information at https://cthulhueternal.com/. 
 
-Check out their SRDs on DriveThruRPG:
+Check out their SRDs on DriveThruRPG: ^bf3192
 
 - [***Cthulhu Eternal: Classical*** SRD](https://www.drivethrurpg.com/product/472148/Cthulhu-Eternal--Classical-Era-SRD)
 - [**_Cthulhu Eternal: Medieval_** SRD](https://www.drivethrurpg.com/product/435864/Cthulhu-Eternal--Medieval-SRD)
@@ -63,7 +72,7 @@ TODO expand
 
 ---
 
-TODOs
+# Work in progress
 
 - [x] clean numbers in headers
 - [x] added Classical SRD to links
