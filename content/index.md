@@ -13,7 +13,7 @@ title: Cthulhu Eternal SRD
 
 [[Part 5 - Equipment and Resources]]
 
-[[Part 5 - Equipment per Age]]
+[[Part 5 - Appendix - Equipment per Age]]
 
 [[Part 6 - Vehicles]]
 
@@ -65,7 +65,9 @@ TODO expand
 
 TODOs
 
-- [ ] clean up
+- [x] clean numbers in headers
+- [x] added Classical SRD to links
+- [x] fix some "see" references (Part 1)
 - [ ] add Medieval Age content
 - [ ] add Jazz Age content
 - [ ] add Future Age content

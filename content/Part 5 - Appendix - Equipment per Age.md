@@ -1,5 +1,3 @@
-
-
 # Medieval Age
 
 TODO

@@ -178,7 +178,7 @@ An attack roll with a ranged weapon does not oppose attack rolls against your Pr
 
 Combat is about inflicting damage. Each weapon or attack has a damage rating measured in dice. When an attack hits, roll the weapon’s damage dice and subtract the result from the target’s Hit Points.
 
-**DAMAGE BONUS:** High or low Strength modifies the damage of unarmed and hand-to-hand attacks, to a minimum of 0:
+**DAMAGE BONUS:** High or low Strength modifies the damage of unarmed and hand-to-hand attacks, to a minimum of 0: ^njp68p
 
 | >> Damage Bonus from STR Score |  |  |  |  |
 | ---- | ---- | ---- | ---- | ---- |

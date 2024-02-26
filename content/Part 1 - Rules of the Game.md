@@ -55,11 +55,11 @@ All Protagonists are composed of six elements:
 
 ## Protagonist Creation
 
-Follow these steps to create a new Protagonist, or see **HOW TO CREATE A PROTAGONIST** on page 7 for a quick reference.
+Follow these steps to create a new Protagonist, or see [[Part 1 Summary - Creating a Protagonist]] for a quick reference.
 
 ### STEP 0: Establish Harshness of Protagonist’s Upbringing
 
-Most Protagonist’s upbringings will have been unremarkable – but it’s possible that yours grew up under especially challenging and punishing circumstances. For example, growing up amid a turbulent period of warfare or plague that killed most of those near-and-dear to the Protagonist. If you think that upbringing might have been harsh enough to scar your Protagonist, discuss it with your Game Moderator. Between you, decide whether the upbringing you envisage is best characterized by the descriptor **Normal(-ish)**, **Harsh**, or **Very Harsh**. See page 9 for a few examples of real-world disasters which could have brought tragedy to your Protagonist’s childhood.
+Most Protagonist’s upbringings will have been unremarkable – but it’s possible that yours grew up under especially challenging and punishing circumstances. For example, growing up amid a turbulent period of warfare or plague that killed most of those near-and-dear to the Protagonist. If you think that upbringing might have been harsh enough to scar your Protagonist, discuss it with your Game Moderator. Between you, decide whether the upbringing you envisage is best characterized by the descriptor **Normal(-ish)**, **Harsh**, or **Very Harsh**. See [[Part 1 - Rules of the Game#What Makes An Upbringing Harsh?]] for a few examples of real-world disasters which could have brought tragedy to your Protagonist’s childhood.
 
 Usually, an upbringing warranting the descriptor **Harsh** will involve the Protagonist having spent at least 3-4 years of adolescence in a highly dangerous or adverse situation that only affected the specific region. This calamity is likely to have caused the untimely death of at least a couple of the character’s immediate family.
 
@@ -71,13 +71,13 @@ A harsher upbringing might make him or her a little stronger or hardier (since o
 
 ### STEP 1: Determine Statistics
 
-Statistics are Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Power (POW), and Charisma (CHA). They range from 3 (the worst) to 18 (the best), with an average of 10 for an ordinary adult. Statistics represent core capabilities possessed by all Protagonists. All are important. (See **DETAILED DESCRIPTION: STATISTICS** on page 8.)
+Statistics are Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Power (POW), and Charisma (CHA). They range from 3 (the worst) to 18 (the best), with an average of 10 for an ordinary adult. Statistics represent core capabilities possessed by all Protagonists. All are important. (See [[#Detailed Description Statistics]])
 
 You can create stats in two ways: rolling them or assigning points. Pick a method.
 
 **1. ROLL STATS:** For each stat roll 4D6, drop the lowest of the four dice, and add up the other three. Place the six rolls in whichever stats you like.
 
-**2. ASSIGN STATS:** Divide 72 points among the six stats however you like, or pick one of the sets from page 9 and assign each score to one statistic.
+**2. ASSIGN STATS:** Divide 72 points among the six stats however you like, or pick one of the sets from [[#Assignable Set of Statistics]] and assign each score to one statistic.
 
 After the basic values are assigned for each statistic, modify according to the Harshness Descriptor for the setting:
 
@@ -86,15 +86,15 @@ After the basic values are assigned for each statistic, modify according to the 
 
 ### STEP 2: Calculate Derived Attributes
 
-Hit Points, Willpower Points, Sanity Points, and Breaking Point are derived from stats. They represent physical and mental resilience. When your Protagonist is hurt, exercises mental fortitude, or is traumatized, those scores can drop. If your Protagonist has a STR score that is outside the average range (9—12) he or she also has a modifier to the damage inflicted from hand-to-hand combat. (See **DETAILED DESCRIPTION: DERIVED ATTRIBUTES & DAMAGE BONUS** on page 10.)
+Hit Points, Willpower Points, Sanity Points, and Breaking Point are derived from stats. They represent physical and mental resilience. When your Protagonist is hurt, exercises mental fortitude, or is traumatized, those scores can drop. If your Protagonist has a STR score that is outside the average range (9—12) he or she also has a modifier to the damage inflicted from hand-to-hand combat. (See [[#Detailed Description Derived Attributes & Damage Bonus]].)
 
 ### STEP 3: Select Archetype
 
-What does your Protagonist do for a living (or just to stay alive)? Archetype dictates what skills your Protagonist has, his or her basic resource level, and the number of Bonds he or she possesses. (See **DETAILED DESCRIPTION: ARCHETYPES** on page 11.)
+What does your Protagonist do for a living (or just to stay alive)? Archetype dictates what skills your Protagonist has, his or her basic resource level, and the number of Bonds he or she possesses. (See [[#Detailed Description Archetypes]])
 
 ### STEP 4: Calculate Resources Rating
 
-The Resources rating is a number between 0 and 20 that reflects the Protagonist’s access to valuable or useful equipment. A Protagonist’s base Resources rating is dictated by his or her Archetype, however during later steps, you can sacrifice other potential bonus skills in favor of a higher resources score; conversely, you can agree to drop Resources rating of 0 (entirely without access to resources) and receive additional skills. (See **DETAILED DESCRIPTION: RESOURCES** on page 18.)
+The Resources rating is a number between 0 and 20 that reflects the Protagonist’s access to valuable or useful equipment. A Protagonist’s base Resources rating is dictated by his or her Archetype, however during later steps, you can sacrifice other potential bonus skills in favor of a higher resources score; conversely, you can agree to drop Resources rating of 0 (entirely without access to resources) and receive additional skills. (See [[#Detailed Description Resources]])
 
 ### STEP 5: Define Bonds
 
@@ -104,15 +104,15 @@ There are **two types of Bonds** – bonds with individuals and bonds with an en
 
 Each Individual Bond has a value that starts equal to your Protagonist’s Charisma (CHA).
 
-Each Community Bond has a default value equal to half the Protagonist’s Resources rating, however during creation of the Protagonist the player may elect to sacrifice potential skills in favor of a higher value. Conversely, the player may elect to take a Community Bond with a value of 1 (lowest possible social standing) and receive additional skills. (See **DETAILED DESCRIPTION: BONDS** on page 23.)
+Each Community Bond has a default value equal to half the Protagonist’s Resources rating, however during creation of the Protagonist the player may elect to sacrifice potential skills in favor of a higher value. Conversely, the player may elect to take a Community Bond with a value of 1 (lowest possible social standing) and receive additional skills. (See [[#Detailed Description Bonds]])
 
 ### STEP 6: Select Bonus & Adversity Skills
 
-Skills require special training, and come from schooling, experience, or personal interest. Skills are measured from 0% (no training) to 99% (foremost expert in the world). (See **DETAILED DESCRIPTION: SKILLS** on page 27.)
+Skills require special training, and come from schooling, experience, or personal interest. Skills are measured from 0% (no training) to 99% (foremost expert in the world). (See [[Part 2 - Skills#Detailed Description Skills]])
 
 ### STEP 7: Determine Mental Damage from Harsh Environments
 
-Protagonists that have grown up in difficult and brutal conditions are likely to have picked up some mental scarring along the way. This can leave them hardened to certain types of traumatic stimuli, distant from those around them, or afflicted with mental disorders. (see **DETAILED DESCRIPTION: MENTAL DAMAGE FROM HARSH UPBRINGING**, page 36.)
+Protagonists that have grown up in difficult and brutal conditions are likely to have picked up some mental scarring along the way. This can leave them hardened to certain types of traumatic stimuli, distant from those around them, or afflicted with mental disorders. (see [[#Stat Adjustments for Harsh Upbringings]])
 
 ### STEP 8: Add the Final Details
 
@@ -141,7 +141,9 @@ Every Protagonist has six core capabilities: Strength, Constitution, Dexterity, 
 | **Power** | POW | Force of personality, motivation, and psychic resilience. | Keep your head in a crisis. Stand up to pressure. |
 | **Charisma** | CHA | Charm, leadership, and personal appeal. May indicate physical attractiveness. | Make a good impression. Talk your way into a private club. Look like you belong. |
 
-During Protagonist creation, you can either roll **STATISTIC** scores (see page 5) or simply divide 72 points between the six stats however you wish. The table nearby gives some examples of possible assignments.
+During Protagonist creation, you can either roll **STATISTIC** scores (see [[#STEP 1 Determine Statistics]]) or simply divide 72 points between the six stats however you wish. The table nearby gives some examples of possible assignments.
+
+###### Assignable Set of Statistics
 
 | >> Assignable Set of Statistics |  |  |  |  |  |  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -159,6 +161,39 @@ Protagonists who have managed to reach adulthood in a dangerous or deadly enviro
 - **Normal(ish)** setting: no bonus
 - **Harsh** setting: +1 to either STR _or_ CON (pick one)
 - **Very Harsh** setting: +1 to both STR _and_ CON
+
+#### What Makes An Upbringing Harsh?
+
+##### Medieval Era Harsh Upbringing Examples
+
+In Medieval settings, most people live a wretched life. To reflect this, the default Harshness indicator for a Protagonist’s upbringing is **Harsh**. That means that characters typically begin with a +1 boost to either STR or CON (the fact that they have made it to adulthood makes them among the healthier representatives of their communities) and some bonus skill picks; however any character whose CHA or POW is below 7 will have suffered some isolation as described in [[#STEP 7 Determine Mental Damage from Harsh Environments]].
+
+Protagonists who were born into privilege – sons and daughters of nobility or similar – may have avoided the squalor of everyday life. Such (rare) characters can be considered to come from a **Normal(-ish)** upbringing, gaining neither the bonus to STR/CON nor suffering the potential mental costs of a harsh upbringing.
+
+While the _default_ throughout the 800 years covered by this SRD is for Harsh environments, that is not to say that there weren’t isolated times and places where life was even worse – warranting a **Very Harsh** indicator. The Anarchy in England; the Great Famine across Europe; the Crusades across Europe and into the Mediterranean; the Black Death; the Magyar and Mongol invasions from the Steppes; Jewish massacres, expulsions, and rising antisemitism are all examples of times and places where the Game Master might want to rate a Protagonist’s upbringing as Very Harsh.
+
+##### Jazz Age Harsh Upbringing Examples
+
+For the Jazz Age, catastrophes in the characters’ background would likely have occurred in the late 19th Century. A (non-exhaustive) list of historical possibilities include:
+
+- **Wars:** The Boer War in South Africa (1900—1902)
+
+- **Famines:** East-Central China (1907, 1911)
+
+- **Plagues:** Cholera in Europe, Asia, Africa (1899—1923), African Sleepy Sickness in Uganda (1900—1920), Malaria in Ceylon (1906)
+
+##### Modern Day Harsh Upbringing Examples
+
+For games set in the modern day, catastrophes in the characters’ background would likely have occurred in the late 20th Century. A (non-exhaustive) list of historical possibilities include:
+
+- **Wars:** The Vietnam War (1955-1975), the Angolan Civil War (1975—2002), the Soviet-Afghan War (1980—1988), Yugoslav Wars (1991—2001)
+
+- **Famines:** Ethiopia (1972—1973), Bangladesh (1974), Cambodia under the Khmer Rouge (1975—1979), Ethiopia (1983—1985), Somalia (1991—1992), North Korea (1994—1998), War and famine in Congo (1998—2004)
+
+- **Plagues/Accidents:** Hong Kong Flu (1968—1970), Russian Flu - Worldwide (1977), Chernobyl Nuclear Disaster (1986), Swine Flu - Worldwide (2009—2010)
+
+- **Massacres:** Massacres in Rwanda and Burundi (1959—1997), Indonesian anti-communist killings (1965—1966), Cultural Revolution in China (1966—1976), Indonesian occupation of East Timor (1974—1999), Violent anti-communist purges in Ethiopia (1977—1978), Iraqi destruction of Kurdish settlements (1977—1991)
+
 
 ### Distinguishing Features
 
@@ -184,11 +219,11 @@ Damage Bonus reflects whether his or her brawn (or lack thereof) will affect dam
 
 _**Hit Points equal CON plus STR, divided by two and rounded up.**_
 
-**WILLPOWER POINTS (WP):** Willpower Points represent mental fortitude. They fall when your Protagonist attempts to suppress the symptoms of mental illness (see **RESISTING INSANITY** on page 75), becomes exhausted (see **EXHAUSTION** on page 43), attempts to resist persuasion, suffers emotional burnout (see **FUMBLE** on page 40), or tries to fuel unnatural phenomena. At 2 WP, your Protagonist has a temporary emotional collapse. At 0 WP, your Protagonist falls unconscious. Willpower Points are regained with rest. (See **WILLPOWER POINTS** on page 43.)
+**WILLPOWER POINTS (WP):** Willpower Points represent mental fortitude. They fall when your Protagonist attempts to suppress the symptoms of mental illness (see [[Part 7 - Sanity#Resisting Insanity]]), becomes exhausted (see [[Part 3 - The Game#Exhaustion]]), attempts to resist persuasion, suffers emotional burnout (see [[Part 3 - The Game#Fumble]]), or tries to fuel unnatural phenomena. At 2 WP, your Protagonist has a temporary emotional collapse. At 0 WP, your Protagonist falls unconscious. Willpower Points are regained with rest. (See [[Part 3 - The Game#Willpower Points]])
 
 _**Willpower Points equal POW.**_
 
-**SANITY POINTS (SAN):** Sanity Points represent mental health: how much mental trauma, or exposure to the unnatural your Protagonist can endure before going insane. In moments of mental trauma your Protagonist must make a **Sanity test** by rolling SAN or lower on 1D100. If that fails, your Protagonist loses SAN. (See **SANITY** on page 65.) Sanity Points are regained through remedial care or by overcoming unnatural threats. At 0 Sanity Points, your Protagonist goes irretrievably insane and becomes an NPC permanently under the control of the Game Moderator.
+**SANITY POINTS (SAN):** Sanity Points represent mental health: how much mental trauma, or exposure to the unnatural your Protagonist can endure before going insane. In moments of mental trauma your Protagonist must make a **Sanity test** by rolling SAN or lower on 1D100. If that fails, your Protagonist loses SAN. (See [[Part 7 - Sanity]].) Sanity Points are regained through remedial care or by overcoming unnatural threats. At 0 Sanity Points, your Protagonist goes irretrievably insane and becomes an NPC permanently under the control of the Game Moderator.
 
 A Protagonist’s starting Sanity Points depends on the Harshness of his or her upbringing – the harsher the situation, the more brutality and horror the Protagonist has been scarred by.
 
@@ -196,7 +231,7 @@ _**Normal(ish) Setting: Sanity Points begin equal to POW×5.**_
 
 _**Harsh or Very Harsh Setting: Sanity Points begin equal to POW×4.**_
 
-**BREAKING POINT:** The Breaking Point is the point at which loss of SAN triggers a long-term mental disorder. (See **INSANITY AND DISORDERS** on page 69.)
+**BREAKING POINT:** The Breaking Point is the point at which loss of SAN triggers a long-term mental disorder. (See [[Part 7 - Sanity#Insanity and Disorders]])
 
 _**A Protagonist’s Breaking Point equals SAN minus POW.**_
 
@@ -206,19 +241,20 @@ The instant the Protagonist’s SAN reaches the Breaking Point, he or she gains 
 
 _**A Protagonist’s Maximum SAN always equals 99 minus skill rating in the Unnatural Skill.**_
 
-**RECOVERY SAN:** This is the highest Sanity Point total that your Protagonist can possibly achieve through mundane methods – relaxation, personal pursuits, caring for loved ones, and seeking help for mental illness. See **RECOVERING SANITY** on page 76.
+**RECOVERY SAN:** This is the highest Sanity Point total that your Protagonist can possibly achieve through mundane methods – relaxation, personal pursuits, caring for loved ones, and seeking help for mental illness. See [[Part 7 - Sanity#Recovering Sanity]]
 
 **A Protagonist’s Recovery SAN equals POW×5, regardless of the harshness of the setting.**
 
 _**If this number would be higher than Max SAN, Recovery SAN equals Max SAN.**_
 
-**DAMAGE BONUS:** High or low Strength modifies the **DAMAGE** the Protagonist inflicts through successful unarmed and hand-to-hand weapon attacks (see page 48). This modifier to damage should be recorded on the Protagonist sheet for later reference.
+**DAMAGE BONUS:** High or low Strength modifies the **DAMAGE** the Protagonist inflicts through successful unarmed and hand-to-hand weapon attacks (see [[Part 4 - Combat#Damage]]). This modifier to damage should be recorded on the Protagonist sheet for later reference.
 
 **Damage Bonus from STR Score**
 
 | 1—4 | 5—8 | 9—12 | 13—16 | 17—18 |
 | ---- | ---- | ---- | ---- | ---- |
 | -2 | -1 | 0 | +1 | +2 |
+
 ## Detailed Description: Archetypes
 
 Each Protagonist is a representative of a broad category of character types, usually related to the job he or she performs in the game world. Each such category is called an **Archetype**.
@@ -227,7 +263,7 @@ An Archetype says a lot about a Protagonist. It grants a “kit” of appropriat
 
 **RECOMMENDED STATS:** Some Archetypes require people who are particularly fit, stable, or smart. This means the recommended stats should be 10 or higher — or at least they were when your Protagonist first started out being the Archetype.
 
-**ARCHETYPAL SKILLS:** Each Archetype has a predefined kit of skills with scores that replace the default skill ratings. This represents the baseline training, experience, and education for that Archetype. See **DETAILED DESCRIPTION: SKILLS** on page 27 for their uses.
+**ARCHETYPAL SKILLS:** Each Archetype has a predefined kit of skills with scores that replace the default skill ratings. This represents the baseline training, experience, and education for that Archetype. See [[Part 2 - Skills]] for their uses.
 
 **RESOURCES:** Each Archetype dictates a base value for the Resources rating.
 
@@ -242,12 +278,12 @@ Don’t worry if your Protagonist at this point looks like a generic representat
 
 Later in the character generation process you will have opportunities to pick other skills they are also good at. There are two different types of skill picks:
 
-- **Adversity Skill Point Picks** (see page 18) represent abilities your Protagonist has because of the harsh environment that he or she grew up in. These picks can only be used to enhance a few specific skills, and cannot be traded in for other benefits.
-- **Bonus Skill Point Picks** (see page 27) represent hobbies and general experience he or she learned above and beyond the basics associated with the Archetype. You start with ten such bonus picks to use later in the Protagonist generation process. These picks _can_ be traded in for other advantages like increased availability of resources-at-hand or standing in a community.
+- **Adversity Skill Point Picks** (see [[#Detailed Description Adversity Skill Points]]) represent abilities your Protagonist has because of the harsh environment that he or she grew up in. These picks can only be used to enhance a few specific skills, and cannot be traded in for other benefits.
+- **Bonus Skill Point Picks** (see [[#Detailed Description Bonus Skill Points]]) represent hobbies and general experience he or she learned above and beyond the basics associated with the Archetype. You start with ten such bonus picks to use later in the Protagonist generation process. These picks _can_ be traded in for other advantages like increased availability of resources-at-hand or standing in a community.
 
 ### Modern Day: List of Archetypes
 
-The following Archetypes are appropriate for Modern era games of Lovecraftian investigation. They don’t cover every possible character type but focus on likely protagonists in mystery and investigation tales. The GM is encouraged to develop other archetypes to cover other character types suggested by players. Guidelines for developing new Archetypes may be found on page 92.
+The following Archetypes are appropriate for Modern era games of Lovecraftian investigation. They don’t cover every possible character type but focus on likely protagonists in mystery and investigation tales. The GM is encouraged to develop other archetypes to cover other character types suggested by players. Guidelines for developing new Archetypes may be found in TODO (game building resources).
 
 #### Artist / Craftsperson
 
@@ -739,7 +775,9 @@ The number of Adversity Skill Point Picks your Protagonist receives depends on t
 
 Adversity Skill Point Picks can _ONLY_ be spent to increase ratings in the following list of setting-specific adversity skills:
 
-First Aid, Military Training (type), Regional Lore (type), or Survival (type).
+**Medieval Age**: TODO
+**Jazz Age**: TODO
+**Modern Era:** First Aid, Military Training (type), Regional Lore (type), or Survival (type).
 
 You can pick the same skill more than once.
 
@@ -761,7 +799,7 @@ A Protagonist’s Resources rating may change during play as especially signific
 
 Your Protagonist’s Archetype determines the starting value for his or her Resources rating; it is a number listed as part of the Archetype description.
 
-If you would prefer this value to be higher, you have the option to “trade-in” one or more **BONUS SKILL POINT** picks (see page 27). For the first such skill pick traded-in, your Protagonist receives a +5 boost to Resources rating. Each additional pick you trade in beyond the first, grants your Protagonist a further +2 boost to Resources. You may sacrifice as many skill picks as you wish, although each will reduce your opportunities to round-out your Protagonist with extra skills during a later step of Protagonist creation.
+If you would prefer this value to be higher, you have the option to “trade-in” one or more **BONUS SKILL POINT** picks (see [[#Detailed Description Bonus Skill Points]]). For the first such skill pick traded-in, your Protagonist receives a +5 boost to Resources rating. Each additional pick you trade in beyond the first, grants your Protagonist a further +2 boost to Resources. You may sacrifice as many skill picks as you wish, although each will reduce your opportunities to round-out your Protagonist with extra skills during a later step of Protagonist creation.
 
 Alternatively, if you would prefer to play a Protagonist who is entirely bereft of resources (i.e., has a Resources rating of 0), you can choose to do so and in return receive one extra Bonus Skill Point Pick for later use.
 
@@ -783,7 +821,7 @@ Alternatively, if you would prefer to play a Protagonist who is entirely bereft 
 
 20+ Access to unparalleled quantities of valuable or useful items. A stockpile of wealth. Choice of any available food, in any quantity.
 
-If you need to know how your Resources Rating translates to financial wealth, consult the table in the **BUYING EQUIPMENT** section (page 61).
+If you need to know how your Resources Rating translates to financial wealth, consult the table in the **BUYING EQUIPMENT** section (see [[Part 5 - Equipment and Resources]]).
 
 ### Permanent Resources, Resources At-Hand, and Resource Checks
 
@@ -847,7 +885,7 @@ The higher your Protagonist’s effective Resources rating, the higher the likel
 
 - In cases where a situation requires a **very specialized** resource or item, the Game Moderator might rule it is too rare to find in your Protagonist’s pool of gear. Alternatively, the GM _may_ still permit a test of Resources × 5 roll to locate the rare equipment – _but_ rule that success will **permanently reduce** your Protagonist’s Resources rating by a few points (the number being at the Game Moderator’s discretion).
 
-Depending on the specific game setting, the difficulty of Resources tests and the quality of the items unearthed through successful rolls may vary. See **SCROUNGING EQUIPMENT** starting page 61.
+Depending on the specific game setting, the difficulty of Resources tests and the quality of the items unearthed through successful rolls may vary. See [[Part 5 - Equipment and Resources#Scrounging]].
 
 Rules of Thumb:
 
@@ -861,7 +899,7 @@ Rules of Thumb:
 
 While your Protagonist’s personal Resources can prove helpful during an adventure, there are practical limits to the number of times that items can be pulled from it during a single adventure.
 
-After each Resources test resulting in success, place a check mark in one of the Resource Check boxes on the Protagonist’s character sheet. When all the boxes are full, the Protagonist’s resources pool is temporarily exhausted and can’t contribute anything more until he or she has some downtime to replenish or reorganize it (see **Replenishing Resources, Removing Checkmarks**, page 23).
+After each Resources test resulting in success, place a check mark in one of the Resource Check boxes on the Protagonist’s character sheet. When all the boxes are full, the Protagonist’s resources pool is temporarily exhausted and can’t contribute anything more until he or she has some downtime to replenish or reorganize it (see [[#Replenishing Resources, Removing Checkmarks]]).
 
 ### Pooling Resources
 
@@ -895,11 +933,11 @@ Whenever Resource rating increases, the player should recalculate the “at-hand
 
 ### Replenishing Resources, Removing Checkmarks
 
-The Game Moderator will determine when your Protagonist group can take the time to replenish or reorganize their Resources pools. Usually this happens between missions, expeditions, or adventures (see **DOWNTIME**, page 77). Once the Protagonists have invested an appropriate period of downtime all check marks can be erased from the character sheet.
+The Game Moderator will determine when your Protagonist group can take the time to replenish or reorganize their Resources pools. Usually this happens between missions, expeditions, or adventures (see [[Part 8 - Downtime#Reorganizing and Replenishing Personal Resources]]). Once the Protagonists have invested an appropriate period of downtime all check marks can be erased from the character sheet.
 
 ## Detailed Description: Bonds
 
-Bonds measure your Protagonist’s relationships with the vital people and societies in his or her life: loved ones, family members, and wider communities. A Bond can protect your Protagonist from SAN loss (see **PROJECTING ONTO A BOND** on page 76) or offer a chance to repress the effects of a disorder or temporary insanity (see **REPRESSING INSANITY** on page 76).
+Bonds measure your Protagonist’s relationships with the vital people and societies in his or her life: loved ones, family members, and wider communities. A Bond can protect your Protagonist from SAN loss (see [[Part 7 - Sanity#Projecting Onto A Bond]]) or offer a chance to repress the effects of a disorder or temporary insanity (see [[Part 7 - Sanity#Using Bonds to Repress Insanity]]).
 
 Bonds are not merely motivations or things your Protagonist likes. They are your Protagonist’s connection to humanity and its social structures. A Protagonist with no Bonds is more susceptible to psychological trauma than one who has people waiting back home.
 
@@ -924,9 +962,9 @@ Each Individual Bond begins with a score equal to your Protagonist’s CHA. It c
 
 #### Changes to Individual Bonds During Play
 
-Bonds’ scores often deteriorate because of your Protagonist’s experiences of the horrors of the Mythos-haunted world. A Bond increases if it is cultivated between adventures (see **DOWNTIME** on page 77). An Individual Bond can never have a score higher than your Protagonist’s CHA. Any time CHA drops, each Individual Bond drops by the same amount.
+Bonds’ scores often deteriorate because of your Protagonist’s experiences of the horrors of the Mythos-haunted world. A Bond increases if it is cultivated between adventures ([[Part 8 - Downtime#Fulfill Responsibilities to Individuals]]). An Individual Bond can never have a score higher than your Protagonist’s CHA. Any time CHA drops, each Individual Bond drops by the same amount.
 
-Individual Bonds are vulnerable. If the Protagonist learns that the individual has died or gone permanently insane, the Bond is destroyed. The Bond is also permanently broken when its score drops to 0 (see **BROKEN BONDS**, nearby).
+Individual Bonds are vulnerable. If the Protagonist learns that the individual has died or gone permanently insane, the Bond is destroyed. The Bond is also permanently broken when its score drops to 0 (see [[#broken]]).
 
 ### Community Bonds
 
@@ -954,9 +992,9 @@ Community Bonds are measured on a scale of 1 to 20, with an indicative meaning s
 
 20 Top-tier of leadership in the community; the head honcho.
 
-If a Community Bond is chosen during the creation of your Protagonist, it typically begins with a default rating of half the Protagonist’s Permanent Resources rating, rounded up (see **RESOURCES** on page 18). In a few cases, a Protagonist’s Archetype indicates that he or she has a Community Bond with a certain fixed rating – the final rating should be either that value or half the Permanent Resources rating, whichever is higher.
+If a Community Bond is chosen during the creation of your Protagonist, it typically begins with a default rating of half the Protagonist’s Permanent Resources rating, rounded up (see [[#Detailed Description Resources]]). In a few cases, a Protagonist’s Archetype indicates that he or she has a Community Bond with a certain fixed rating – the final rating should be either that value or half the Permanent Resources rating, whichever is higher.
 
-This value can be optionally increased during the creation of your Protagonist by sacrificing one or more **BONUS SKILL POINT** picks (see page 27); the first skill pick sacrificed in this manner gives a bonus of +5 to the Community Bond’s rating; each subsequent sacrifice adds +2 (to a maximum of 20).
+This value can be optionally increased during the creation of your Protagonist by sacrificing one or more **BONUS SKILL POINT** picks (see [[#Detailed Description Bonus Skill Points]]); the first skill pick sacrificed in this manner gives a bonus of +5 to the Community Bond’s rating; each subsequent sacrifice adds +2 (to a maximum of 20).
 
 It is also possible to elect for your Protagonist to take a Community Bond with a rating of 1 (and suffer the social effects of being a pariah to fellow members) and receive one extra Bonus Skill Point Pick to use on purchasing skills later in the process.
 
@@ -993,9 +1031,9 @@ Bonds often fall apart because of events beyond your Protagonist’s control. An
 
 If such a disaster harms the subject of a Bond, that reduces the Bond’s value by 1D4. If that disaster permanently removes the subject of the Bond, that Bond is gone. Cross it off the sheet.
 
-When damage to a Bond reduces it to 0, the relationship is damaged beyond repair. Cross it off the sheet. The only way to regain a Bond with that character or community is to build it from scratch as if it had never existed (see **DOWNTIME** on page 77 for details on creating new Bonds).
+When damage to a Bond reduces it to 0, the relationship is damaged beyond repair. Cross it off the sheet. The only way to regain a Bond with that character or community is to build it from scratch as if it had never existed (see [[Part 8 - Downtime]] for details on creating new Bonds).
 
-The breaking of any Bond is almost certainly traumatic and is likely to trigger a Sanity test due to Helplessness (see page 68).
+The breaking of any Bond is almost certainly traumatic and is likely to trigger a Sanity test due to Helplessness (see [[Part 7 - Sanity#Threats to SAN]]).
 
 When you cross a Bond off your Protagonist’s character sheet, don’t erase it. After all, there’s no forgetting a vital relationship that went bad.
 
@@ -1010,7 +1048,7 @@ In game terms, groups of Protagonists tend to form individual bonds to one anoth
 - One or more members of the team died or was incapacitated by physical injuries, or
 - Any other event occurred that the Game Moderator thinks was shocking enough to constitute severe trauma.
 
-In the downtime after the adventure (see **DOWNTIME** on page 77), all Protagonists that made it back must make a SAN test. If the roll succeeds, nothing changes. If your Protagonist fails the SAN roll, he or she gains or strengthens an individual bond with EACH fellow Protagonist who also made it through the same trauma (up to a maximum of five fellow Protagonists).
+In the downtime after the adventure (see [[Part 8 - Downtime]]), all Protagonists that made it back must make a SAN test. If the roll succeeds, nothing changes. If your Protagonist fails the SAN roll, he or she gains or strengthens an individual bond with EACH fellow Protagonist who also made it through the same trauma (up to a maximum of five fellow Protagonists).
 
 For each such fellow trauma-sufferer,
 
@@ -1039,7 +1077,7 @@ Unless the Game Moderator says otherwise, you can’t raise a skill higher than 
 
 ### Trading-in Skill Point Picks
 
-As described in previous sections on **RESOURCES** (page 18) and **BONDS** (page 23), you have the option during Protagonist creation to trade-in one or more Bonus Skill Picks in return for non-skill advantages. Alternatively, your Protagonist can earn an _extra_ Bonus Skill Pick or two if you are willing to sacrifice some of the normal benefits of those other starting ratings.
+As described in previous sections on **RESOURCES** ([[#Detailed Description Resources]]) and **BONDS** ([[#Detailed Description Bonds]]), you have the option during Protagonist creation to trade-in one or more Bonus Skill Picks in return for non-skill advantages. Alternatively, your Protagonist can earn an _extra_ Bonus Skill Pick or two if you are willing to sacrifice some of the normal benefits of those other starting ratings.
 
 #### Trading Skill Point Picks for Resources Rating
 
