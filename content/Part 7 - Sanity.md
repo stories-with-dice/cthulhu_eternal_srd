@@ -1,36 +1,3 @@
-Table of Contents
-
-- [Sanity](#Sanity)
-	- [Sanity Losses](#Sanity%20Losses)
-	- [Rules of Thumb for SAN Loss](#Rules%20of%20Thumb%20for%20SAN%20Loss)
-	- [Explore the Loss](#Explore%20the%20Loss)
-	- [Threats to SAN](#Threats%20to%20SAN)
-		- [Violence](#Violence)
-		- [Helplessness](#Helplessness)
-		- [The Unnatural](#The%20Unnatural)
-	- [Insanity and Disorders](#Insanity%20and%20Disorders)
-	- [Temporary Insanity](#Temporary%20Insanity)
-		- [Flee](#Flee)
-		- [Struggle](#Struggle)
-		- [Submit](#Submit)
-		- [Understanding the Unnatural](#Understanding%20the%20Unnatural)
-	- [Disorders](#Disorders)
-		- [Acute Episodes](#Acute%20Episodes)
-		- [Sample Disorders](#Sample%20Disorders)
-	- [Permanent Insanity](#Permanent%20Insanity)
-	- [Resisting Insanity](#Resisting%20Insanity)
-		- [Adapting to SAN Loss](#Adapting%20to%20SAN%20Loss)
-		- [Projecting Onto A Bond](#Projecting%20Onto%20A%20Bond)
-		- [Using Bonds to Repress Insanity](#Using%20Bonds%20to%20Repress%20Insanity)
-	- [Recovering Sanity](#Recovering%20Sanity)
-		- [Defeating Unnatural Creatures](#Defeating%20Unnatural%20Creatures)
-		- [Concluding a Dangerous Adventure](#Concluding%20a%20Dangerous%20Adventure)
-		- [Destroying Accounts of the Unnatural](#Destroying%20Accounts%20of%20the%20Unnatural)
-		- [Getting Help with Mental Illness](#Getting%20Help%20with%20Mental%20Illness)
-		- [Pursuing Personal Goals or Caring for Individuals](#Pursuing%20Personal%20Goals%20or%20Caring%20for%20Individuals)
-	- [Casting Rituals and Ritual Activation](#Casting%20Rituals%20and%20Ritual%20Activation)
-
-
 
 # Sanity
 

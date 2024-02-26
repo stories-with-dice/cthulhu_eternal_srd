@@ -1,14 +1,3 @@
-Table of Contents
-
-- [Vehicles](#Vehicles)
-	- [Hit Points and Armor](#Hit%20Points%20and%20Armor)
-	- [Speed](#Speed)
-		- [Medieval Age Vehicles](#Medieval%20Age%20Vehicles)
-		- [Jazz Age Vehicles](#Jazz%20Age%20Vehicles)
-		- [Modern Age Vehicles](#Modern%20Age%20Vehicles)
-		- [Future Age Vehicles](#Future%20Age%20Vehicles)
-		- [Ramming](#Ramming)
-
 # Vehicles
 
 Depending on the nature of the game setting, different types of simple or sophisticated vehicles might be common items. If the Protagonists or their adversary have access to such vehicles, the following guidelines may assist when dangerous and/or action-oriented scenes involving vehicles arise during play.

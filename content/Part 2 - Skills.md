@@ -1,14 +1,3 @@
-Table of Contents
-
-- [Detailed Description: Skills](#Detailed%20Description:%20Skills)
-	- [Base Rating](#Base%20Rating)
-		- [How Skills Work](#How%20Skills%20Work)
-		- [Common Knowledge](#Common%20Knowledge)
-		- [Improving Skills](#Improving%20Skills)
-		- [Modern Day Skills](#Modern%20Day%20Skills)
-		- [Medieval Age Skills](#Medieval%20Age%20Skills)
-		- [Jazz Age Skills](#Jazz%20Age%20Skills)
-		- [Future Age Skills](#Future%20Age%20Skills)
 
 # Detailed Description: Skills
 

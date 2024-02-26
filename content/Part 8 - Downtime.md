@@ -1,19 +1,3 @@
-Table of Contents
-
-- [Downtime](#Downtime)
-	- [What Changed](#What%20Changed)
-	- [Personal Pursuits](#Personal%20Pursuits)
-		- [Fulfill Responsibilities to Individuals](#Fulfill%20Responsibilities%20to%20Individuals)
-		- [Reorganizing and Replenishing Personal Resources](#Reorganizing%20and%20Replenishing%20Personal%20Resources)
-		- [Gaining Favor of the Community at Large](#Gaining%20Favor%20of%20the%20Community%20at%20Large)
-		- [Back to Nature](#Back%20to%20Nature)
-		- [Establish a New Individual Bond](#Establish%20a%20New%20Individual%20Bond)
-		- [Establish a New Community Bond](#Establish%20a%20New%20Community%20Bond)
-		- [Get Help With Mental Illnesses](#Get%20Help%20With%20Mental%20Illnesses)
-		- [Improve a Skill or Stat](#Improve%20a%20Skill%20or%20Stat)
-		- [Personal Motivation](#Personal%20Motivation)
-		- [Accounts of the Cthulhu Mythos / Learning Rituals](#Accounts%20of%20the%20Cthulhu%20Mythos%20/%20Learning%20Rituals)
-
 
 # Downtime
 

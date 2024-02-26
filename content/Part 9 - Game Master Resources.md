@@ -1,33 +1,3 @@
-Table of Contents
-
-- [Maddening Revelations](#Maddening%20Revelations)
-	- [Researching the Mythos](#Researching%20the%20Mythos)
-		- [Finding Information](#Finding%20Information)
-		- [Accessing and Understanding the Contents](#Accessing%20and%20Understanding%20the%20Contents)
-		- [Immersion](#Immersion)
-		- [Investing Time](#Investing%20Time)
-		- [Dangers of Understanding](#Dangers%20of%20Understanding)
-		- [Skill Increases](#Skill%20Increases)
-		- [Learning Rituals](#Learning%20Rituals)
-	- [Performing Rituals](#Performing%20Rituals)
-		- [Time Invested in the Ritual](#Time%20Invested%20in%20the%20Ritual)
-		- [Powering the Ritual](#Powering%20the%20Ritual)
-		- [The Ritual Activation Test](#The%20Ritual%20Activation%20Test)
-		- [Sanity Costs to Ritual Participants](#Sanity%20Costs%20to%20Ritual%20Participants)
-	- [Objects with Unnatural Power](#Objects%20with%20Unnatural%20Power)
-- [Supernatural Effects](#Supernatural%20Effects)
-		- [Designing Supernatural Effects: General Principles](#Designing%20Supernatural%20Effects:%20General%20Principles)
-	- [Calculating the Scope of the Supernatural Effect](#Calculating%20the%20Scope%20of%20the%20Supernatural%20Effect)
-	- [Common Types of Effects](#Common%20Types%20of%20Effects)
-		- [Summoning Supernatural Entities](#Summoning%20Supernatural%20Entities)
-		- [Binding Supernatural Entities](#Binding%20Supernatural%20Entities)
-		- [Mental Contact With Alien Gods](#Mental%20Contact%20With%20Alien%20Gods)
-		- [Opening Physical Conduits to Alien Gods](#Opening%20Physical%20Conduits%20to%20Alien%20Gods)
-		- [Dimensional Traversal](#Dimensional%20Traversal)
-		- [Cursing and Damaging](#Cursing%20and%20Damaging)
-		- [Warding and Protection](#Warding%20and%20Protection)
-
-
 This section consists of a series of resources which are designed to help a Game Moderator design exciting and dangerous scenarios to challenge a Protagonist Group.
 
 # Maddening Revelations

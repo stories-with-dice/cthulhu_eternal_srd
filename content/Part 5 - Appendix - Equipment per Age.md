@@ -1,17 +1,3 @@
-Table of Contents
-
-- [Medieval Age](#Medieval%20Age)
-- [Jazz Age](#Jazz%20Age)
-- [Modern Age](#Modern%20Age)
-	- [Melee Weapons](#Melee%20Weapons)
-	- [Ranged Weapons](#Ranged%20Weapons)
-	- [Small Arms](#Small%20Arms)
-	- [Automatic and Heavy Weapons](#Automatic%20and%20Heavy%20Weapons)
-		- [Weapons with Special Effects](#Weapons%20with%20Special%20Effects)
-- [Future Age Weapons](#Future%20Age%20Weapons)
-
-
-
 # Medieval Age
 
 TODO
