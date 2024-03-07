@@ -10,6 +10,8 @@ This page has been written in [Obsidian](https://obsidian.md/), and published wi
 
 [[Part 1 - Rules of the Game]]
 
+[[Part 1 Summary - Creating a Protagonist]]
+
 [[Part 2 - Skills]]
 
 [[Part 3 - The Game]]
@@ -28,13 +30,15 @@ This page has been written in [Obsidian](https://obsidian.md/), and published wi
 
 [[Part 9 - Game Master Resources]]
 
-[[Part 10 - Open Mythos - Rituals]]
+[[Part 10 - Rituals]]
 
-[[Part 11 - Open Mythos - Creatures]]
+[[Part 11 - Creatures]]
 
-[[Part 12 - Open Mythos - Cults]]
+[[Part 12 - Cults]]
 
-[[Part 13 - Open Mythos - Artifacts]]
+[[Part 13 - Artifacts]]
+
+[[Part 14 - Tomes]]
 
 ---
 
@@ -77,10 +81,15 @@ TODO expand
 - [x] clean numbers in headers
 - [x] added Classical SRD to links
 - [x] fix some "see" references (Part 1)
+- [ ] replace `about:blank` in cults
+- [ ] replace all "See" references with links
 - [ ] add Medieval Age content
 - [ ] add Jazz Age content
 - [ ] add Future Age content
 - [ ] add pregens
 - [ ] add NPCs
-- [ ] replace all "See" references with links
 - [ ] Open Mythos
+
+# Collaboration and Submissions
+
+If you want to fix or submit something in this webpage, clone the repository, open it in Obsidian. Make your edits and then open a PR.
