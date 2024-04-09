@@ -32,7 +32,7 @@ This page has been written in [Obsidian](https://obsidian.md/), and published wi
 
 [[Part 10 - Rituals]]
 
-[[Part 11 - Creatures]]
+[[Part 11 - Creatures and NPCs]]
 
 [[Part 12 - Cults]]
 
@@ -81,14 +81,14 @@ TODO expand
 - [x] clean numbers in headers
 - [x] added Classical SRD to links
 - [x] fix some "see" references (Part 1)
+- [x] add Future Age content
+- [x] add NPCs
+- [x] Open Mythos
 - [ ] replace `about:blank` in cults
 - [ ] replace all "See" references with links
 - [ ] add Medieval Age content
 - [ ] add Jazz Age content
-- [ ] add Future Age content
 - [ ] add pregens
-- [ ] add NPCs
-- [ ] Open Mythos
 
 # Collaboration and Submissions
 

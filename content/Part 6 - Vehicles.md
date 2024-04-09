@@ -35,30 +35,57 @@ TODO
 
 ### Modern Age Vehicles
 
-| >> Example Vehicles |  |  |  |
-| ---- | ---- | ---- | ---- |
-| Vehicle Type | Hit Points | Armor | Speed |
-| Motorcycle | 15—20 | 0 | Fast |
-| Medium Car | 25—30 | 3 | Average |
-| 4WD or Jeep | 30—35 | 3 | Average |
-| Armored Car | 40 | 10 | Slow |
-| Small Truck | 35—40 | 3 | Average |
-| Semi-Trailer | 45 | 3 | Slow |
-| Tank | 90 | 20 | Slow |
-| Speedboat | 25 | 0 | Average |
-| Hovercraft | 35 | 3 | Average |
-| Jet Ski | 15 | 0 | Fast |
-| Air Vehicles |  |  |  |
-| Helicopter | 20 | 0 | Average |
-| Light Plane | 25 | 0 | Average |
-| Hot Air Balloon | 10 | 0 | Slow (see nearby) |
-| Zeppelin | 20 | 0 | Slow-Surface |
-| Passenger Jet | 50 | 0 | Special (see nearby) |
-| Fighter Jet | 40 | 0 | Special (see nearby) |
+| >> Example Vehicles |            |       |                      |
+| ------------------- | ---------- | ----- | -------------------- |
+| Vehicle Type        | Hit Points | Armor | Speed                |
+| Motorcycle          | 15—20      | 0     | Fast                 |
+| Medium Car          | 25—30      | 3     | Average              |
+| 4WD or Jeep         | 30—35      | 3     | Average              |
+| Armored Car         | 40         | 10    | Slow                 |
+| Small Truck         | 35—40      | 3     | Average              |
+| Semi-Trailer        | 45         | 3     | Slow                 |
+| Tank                | 90         | 20    | Slow                 |
+| Speedboat           | 25         | 0     | Average              |
+| Hovercraft          | 35         | 3     | Average              |
+| Jet Ski             | 15         | 0     | Fast                 |
+| Air Vehicles        |            |       |                      |
+| Helicopter          | 20         | 0     | Average              |
+| Light Plane         | 25         | 0     | Average              |
+| Hot Air Balloon     | 10         | 0     | Slow (see nearby)    |
+| Zeppelin            | 20         | 0     | Slow-Surface         |
+| Passenger Jet       | 50         | 0     | Special (see nearby) |
+| Fighter Jet         | 40         | 0     | Special (see nearby) |
 
 ### Future Age Vehicles
 
-TODO
+**Ground Vehicles**
+
+| Vehicle Type      | Hit Points | Armor | Speed   |
+| ----------------- | ---------- | ----- | ------- |
+| Flycycle          | 15—20      | 0     | Fast    |
+| Medium Ground Car | 25—30      | 3     | Average |
+| Skimmer           | 25—30      | 3     | Fast    |
+| 4WD or Crawler    | 30—35      | 3     | Average |
+| Armored Scout     | 40         | 10    | Fast    |
+| Small Hauler      | 35—40      | 3     | Average |
+| Large Hauler      | 45         | 3     | Slow    |
+| Scout Mecha       | 70         | 10    | Average |
+| Tank              | 90         | 20    | Slow    |
+| Sea Skimmer       | 25         | 0     | Fast    |
+| Hovercraft        | 35         | 3     | Average |
+| Jet Ski           | 15         | 0     | Fast    |
+
+**Air Vehicles**
+
+| Vehicle Type           | Hit Points | Armor | Speed                |
+| ---------------------- | ---------- | ----- | -------------------- |
+| Helicab                | 20         | 0     | Average              |
+| Light Flyer            | 25         | 0     | Average              |
+| Lighter Than Air (LTA) | 10         | 0     | Slow (see nearby)    |
+| Airship                | 20         | 0     | Slow-Surface         |
+| Passenger Flyer        | 50         | 0     | Special (see nearby) |
+| Military Flyer         | 40         | 0     | Special (see nearby) |
+| Drop Ship              | 60         | 20    | Special (see nearby) |
 
 ### Ramming
 

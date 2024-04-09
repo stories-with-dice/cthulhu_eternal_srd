@@ -1,6 +1,18 @@
 
 # Combat
 
+## Combat Modifiers at a Glance
+
+| **Circumstance**                             | **+20% Bonus**                                | **-20% Penalty**                                       | **-40% Penalty**                      |
+| -------------------------------------------- | --------------------------------------------- | ------------------------------------------------------ | ------------------------------------- |
+| **Very Long or Very Short Range**            | Firing at point-blank range (3 yards or less) | Beyond base range (up to 2×)                           | Beyond 2× base range (up to 5×)       |
+| **Unusual Target Concealment or Visibility** | Using a sight to line up a ranged attack      | Terrible visibility due to smoke or darkness           | Little to no visibility               |
+| **Called Shot or Area Attack**               | Explosive weapon                              | Target about half covered or smaller than a human body | Target mostly covered or very small   |
+| **Unusual Target Condition —Ranged Attack**  | Target standing totally still                 | Target prone or running                                | Target moving very fast               |
+| **Unusual Target Condition —Melee Attack**   | Target pinned down or standing totally still  | Target moving quickly (e.g., running)                  | Target moving very fast               |
+| **Unusual Attacker Condition**               | Carefully aiming for a full turn              | Suffering from an irritant; exhausted                  | Suffering from corrosive gas; stunned |
+
+
 A serious fight, where people are trying to kill each other, is chaotic, frightening, and fast. That’s what these rules represent. Being skilled, having better weapons, or being in a superior position helps, but the inescapable randomness of combat can claim even the most skilled combatant’s life.
 
 Lovecraft’s fiction presaged humanity’s urge to reduce any confrontation with the unnatural to base combat. However, humanity’s weapons are as ridiculous to the unnatural forces that control the universe as an ant wielding a pebble is to the bulldozer razing the field the ant hill stands in. Combat rarely resolves any unnatural threat.
@@ -117,11 +129,11 @@ Bonuses and penalties in combat apply only in extraordinary circumstances. The *
 No matter the bonus or penalty, a roll of 01 always hits and a roll of 00 (100) always misses.
 
 
-| >> Optional Rules: Other Firearm Called Shots |
-| ---- |
+| >> Optional Rules: Other Firearm Called Shots                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | If the Game Moderator agrees, you can make a called shot for some effect other than ignoring armor. Here are some possibilities.<br><br>**DOUBLE SHOT (−20%):** Make two attack rolls. Both must be on the same target. If two potential targets are close enough that you could hit either one, randomly determine which one takes each hit. Not an option with bows, muzzle-loaders, bolt-action or one-shot weapons.<br><br>**STUN (−20%):** A hit stuns the target (see **STUN**, page 49).<br><br>**FLESH WOUND (−40%):** A hit inflicts half damage (round up).<br><br>**HEAD SHOT (−40%):** A hit is critical without matching dice. |
-| >> Optional Rules: Other Critical Hits |
-| If the Game Moderator agrees, a critical hit can inflict normal damage (not double) and have some _additional_ effect: STUN or DISARM the target; knock the target PRONE; make the hit a CALLED SHOT; or allow the attacker to immediately roll a SECOND ATTACK. |
+| >> Optional Rules: Other Critical Hits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| If the Game Moderator agrees, a critical hit can inflict normal damage (not double) and have some _additional_ effect: STUN or DISARM the target; knock the target PRONE; make the hit a CALLED SHOT; or allow the attacker to immediately roll a SECOND ATTACK.                                                                                                                                                                                                                                                                                                                                                                            |
 
 ### Surprise Attacks
 
@@ -134,16 +146,6 @@ If your Protagonist is out to kill someone who’s unaware or helpless (and nobo
 ### Firing Into A Crowd
 
 Use a called shot to hit a particular target in a crowd with a ranged attack. Otherwise a random member of the crowd takes the hit.
-
-| >> Combat Modifiers |  |  |  |
-| ---- | ---- | ---- | ---- |
-| **Circumstance** | **+20% Bonus** | **-20% Penalty** | **-40% Penalty** |
-| **Very Long or Very Short Range** | Firing at point-blank range (3 yards or less) | Beyond base range (up to 2×) | Beyond 2× base range (up to 5×) |
-| **Unusual Target Concealment or Visibility** | Using a sight to line up a ranged attack | Terrible visibility due to smoke or darkness | Little to no visibility |
-| **Called Shot or Area Attack** | Explosive weapon | Target about half covered or smaller than a human body | Target mostly covered or very small |
-| **Unusual Target Condition —Ranged Attack** | Target standing totally still | Target prone or running | Target moving very fast |
-| **Unusual Target Condition —Melee Attack** | Target pinned down or standing totally still | Target moving quickly (e.g., running) | Target moving very fast |
-| **Unusual Attacker Condition** | Carefully aiming for a full turn | Suffering from an irritant; exhausted | Suffering from corrosive gas; stunned |
 
 ## Defense Rolls
 
@@ -181,10 +183,10 @@ Combat is about inflicting damage. Each weapon or attack has a damage rating mea
 
 **DAMAGE BONUS:** High or low Strength modifies the damage of unarmed and hand-to-hand attacks, to a minimum of 0: ^njp68p
 
-| >> Damage Bonus from STR Score |  |  |  |  |
-| ---- | ---- | ---- | ---- | ---- |
-| 1—4 | 5—8 | 9—12 | 13—16 | 17—18 |
-| -2 | -1 | 0 | +1 | +2 |
+| >> Damage Bonus from STR Score |     |      |       |       |
+| ------------------------------ | --- | ---- | ----- | ----- |
+| 1—4                            | 5—8 | 9—12 | 13—16 | 17—18 |
+| -2                             | -1  | 0    | +1    | +2    |
 
 **STUN:** Stun attacks startle and impair. While stunned, your Protagonist can’t act. When it’s your Protagonist’s turn, you may attempt a **CON×5** test to recover and act normally next turn. If a single attack inflicts half of your Protagonist’s _current_ HP, the Protagonist is automatically stunned.
 
@@ -195,7 +197,7 @@ Combat is about inflicting damage. Each weapon or attack has a damage rating mea
 **DEATH:** If an attack brings your Protagonist to 0 HP, he or she is dead. HP do not go below 0.
 
 | >> Optional Rules: Other Permanent Injuries |
-| ---- |
+| ------------------------------------------- |
 | At the Game Moderator’s discretion, a permanent injury may have some effect other than stat loss: a permanent penalty that can’t be corrected with surgery. Usually it’s a −20% penalty that applies in certain circumstances. Here are some possibilities.<br><br>**PARTIALLY BLINDED:** The Protagonist suffers a −20% penalty to all tests requiring good eyesight.<br><br>**PARTIALLY DEAFENED:** The Protagonist suffers a −20% penalty to all tests requiring good hearing.<br><br>**ARM CRIPPLED OR SEVERED:** The Protagonist suffers a −20% penalty to all tests requiring two hands.<br><br>**LEG CRIPPLED OR SEVERED:** The Protagonist suffers a −20% penalty to all tests requiring movement. |
 
 ### Healing
@@ -234,13 +236,10 @@ Some types of especially destructive effects destroy not just one target but spr
 
 If a weapon has a Kill Radius, a successful attack inflicts a Lethality roll on each character inside that radius. The center of the Kill Radius is the initial target of the attack.
 
-|   |
-|---|
-|Why Lethality Ratings?|
-|The Lethality rating replaces the need to roll lots of separate attacks and lots of dice for damage. Without it, a massively damaging attack might require several separate attacks and damage rolls to afflict many different targets. In the middle of combat, rolling that much breaks the tension.<br><br>If you’d rather roll damage the old way, it’s 1D6 damage for every 3% of Lethality. So a weapon with 35% would do 12D6 HP damage.|
+| Why Lethality Ratings? |
+| ---------------------- |
+| The Lethality rating replaces the need to roll lots of separate attacks and lots of dice for damage. Without it, a massively damaging attack might require several separate attacks and damage rolls to afflict many different targets. In the middle of combat, rolling that much breaks the tension.<br><br>If you’d rather roll damage the old way, it’s 1D6 damage for every 3% of Lethality. So a weapon with 35% would do 12D6 HP damage. |
 
-  
-  
 
 With explosive weapons, Kill Radius attacks don’t need to be as precise as ordinary attacks; hitting a zone within the Kill Radius of a target is enough. That adds +20% to the chance to hit.
 
@@ -281,10 +280,10 @@ Note that these effects do not apply to a combatant who is not aware that he or 
 A character adapted to violence (see **ADAPTING TO SAN LOSS** on page 75) loses no SAN for braving a Terror-Inducing attack. For NPCs, it’s easiest to assume the average human goes to ground when faced with such attacks. Only insane, hardened, or fanatical enemies stand up to such intense fear.
 
 
-|   |
-|---|
-|>> Optional Rule: Creating Terror Through Concentrated Fire|
-|Normally, mundane ranged weapons won’t be damaging enough to inspire terror. What if several combatants team up to concentrate simultaneous shots – none of which themselves are Terror-Inducing – on a single point? In such a case the GM might decide that the combined effect is sufficient to create 1 yard-radius circular zone centered on the point of concentrated fire. All combatants firing at the spot make an attack roll – if the majority succeed, no damage is inflicted but the designated zone is treated as Terror-Inducing. If one or more of the attackers scored a critical on their roll, a random target in the zone is hit for normal damage _and_ everyone else in the zone is affected by the Terror effect. If fewer than half of the attackers succeeded on their rolls, no damage is inflicted _and_ no terror is generated.<br><br>As a rule of thumb, for a concentration of smaller attacks to be ruled as creating a Terror-Inducing effect the sum of their individual maximum damages should be at least 30HP (i.e., three attacks each delivering 1D10 or five attacks each delivering 1D6). Any coordination of two or more attacks with Lethal effects would also qualify.|
+|                                                             |
+| ----------------------------------------------------------- |
+| >> Optional Rule: Creating Terror Through Concentrated Fire |
+| Normally, mundane ranged weapons won’t be damaging enough to inspire terror. What if several combatants team up to concentrate simultaneous shots – none of which themselves are Terror-Inducing – on a single point? In such a case the GM might decide that the combined effect is sufficient to create 1 yard-radius circular zone centered on the point of concentrated fire. All combatants firing at the spot make an attack roll – if the majority succeed, no damage is inflicted but the designated zone is treated as Terror-Inducing. If one or more of the attackers scored a critical on their roll, a random target in the zone is hit for normal damage _and_ everyone else in the zone is affected by the Terror effect. If fewer than half of the attackers succeeded on their rolls, no damage is inflicted _and_ no terror is generated.<br><br>As a rule of thumb, for a concentration of smaller attacks to be ruled as creating a Terror-Inducing effect the sum of their individual maximum damages should be at least 30HP (i.e., three attacks each delivering 1D10 or five attacks each delivering 1D6). Any coordination of two or more attacks with Lethal effects would also qualify. |
 
   
 ## Protection in Combat
@@ -317,17 +316,17 @@ What if your Protagonists are completely enclosed in a structure or conveyance? 
 
 Being behind cover does not make Protagonists immune to the terror of combat (see **FEAR IN COMBAT** on page 52). If your Protagonist is terrorized, his or her next action must be to hide behind that cover instead of attacking.
 
-|   |   |
-|---|---|
-|Armor|Armor Rating|
-|Kevlar helmet (adds damage reduction to other armor)|+1|
-|Kevlar vest (concealable)|3|
-|Reinforced Kevlar vest (typical for uniformed police)|4|
-|Tactical body armor (typical for soldiers and SWAT teams), wall or thick door, makeshift vehicle cover|5|
-|Bomb suit; thick wall, concrete, or moderate rock; light vehicle armor|10|
-|Reinforced wall, big rock, or sandbag; medium vehicle armor|15|
-|Heavy vehicle armor or light tank armor|20|
-|Heavy tank armor|25|
+|                                                                                                        |              |
+| ------------------------------------------------------------------------------------------------------ | ------------ |
+| Armor                                                                                                  | Armor Rating |
+| Kevlar helmet (adds damage reduction to other armor)                                                   | +1           |
+| Kevlar vest (concealable)                                                                              | 3            |
+| Reinforced Kevlar vest (typical for uniformed police)                                                  | 4            |
+| Tactical body armor (typical for soldiers and SWAT teams), wall or thick door, makeshift vehicle cover | 5            |
+| Bomb suit; thick wall, concrete, or moderate rock; light vehicle armor                                 | 10           |
+| Reinforced wall, big rock, or sandbag; medium vehicle armor                                            | 15           |
+| Heavy vehicle armor or light tank armor                                                                | 20           |
+| Heavy tank armor                                                                                       | 25           |
 
   
   
@@ -342,18 +341,16 @@ Transcendent entities are immune to physical damage. This might mean they exist 
 
 Nothing of this Earth is Transcendent. Only through the use of unnatural techniques, under extremely dangerous and limited situations, can humans become Transcendent.
 
-|   |   |   |   |
-|---|---|---|---|
-|>> Combat Protection Summary|   |   |   |
-|Target Status|Effect of Normal Damage|Effect of Lethality Success|Effect of Lethality Failure|
-|Fragile|Reduced to 0 HP|Reduced to 0 HP|Reduced to 0 HP|
-|Exposed|Roll HP damage. If Armored, subtract the Armor value from the damage.|Reduced to 0 HP|Add up the Lethality dice to determine HP damage. If Armored, subtract the Armor value from the damage|
-|Behind cover|Roll HP damage. Subtract the cover’s Armor value from the damage.|Add up the Lethality dice to determine HP damage. Subtract the cover’s Armor value from the damage.|Add up the Lethality dice to determine HP damage. Subtract the cover’s Armor value from the damage.|
-|Huge|Roll HP damage. If Armored, subtract the Armor value from the damage.|Take the Lethality rating as HP damage. If Armored, subtract the Armor value from the damage.|Take the Lethality rating as HP damage. If Armored, subtract the Armor value from the damage.|
-|Transcendent|No damage|No damage|No damage|
+Combat Protection Summary
 
-  
-  
+| Target Status | Effect of Normal Damage                                               | Effect of Lethality Success                                                                         | Effect of Lethality Failure                                                                            |
+| ------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Fragile       | Reduced to 0 HP                                                       | Reduced to 0 HP                                                                                     | Reduced to 0 HP                                                                                        |
+| Exposed       | Roll HP damage. If Armored, subtract the Armor value from the damage. | Reduced to 0 HP                                                                                     | Add up the Lethality dice to determine HP damage. If Armored, subtract the Armor value from the damage |
+| Behind cover  | Roll HP damage. Subtract the cover’s Armor value from the damage.     | Add up the Lethality dice to determine HP damage. Subtract the cover’s Armor value from the damage. | Add up the Lethality dice to determine HP damage. Subtract the cover’s Armor value from the damage.    |
+| Huge          | Roll HP damage. If Armored, subtract the Armor value from the damage. | Take the Lethality rating as HP damage. If Armored, subtract the Armor value from the damage.       | Take the Lethality rating as HP damage. If Armored, subtract the Armor value from the damage.          |
+| Transcendent  | No damage                                                             | No damage                                                                                           | No damage                                                                                              |
+
 
 ### Armor Piercing Weapons
 
@@ -391,37 +388,40 @@ _Damage_ is ordinary HP for a disease, while poisons have Lethality ratings.
 
 **DISEASES:** Diseases inflict HP damage. If your Protagonist succeeds at a CON×5 test, he or she suffers half damage and recovers from the disease. On a failure, he or she suffers full damage and must make the CON×5 test again after another Speed interval. A fumbled CON test doubles the damage. While under the effects of a disease, the Protagonist cannot gain Hit Points back. ‘Hospitalization’ grants a +20% bonus to the CON test. Serious diseases may come with a penalty to the CON test.
 
-| Natural Poisons |  |  |  |  |  |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| **Poison** | **Entry Route** | **Speed** | **Lethality** | **Symptoms** | **Antidote?** |
-| **Spider venom** | Bite | 1D6 hours | 5% | Pain, chills, nausea; possibly necrosis | Yes |
-| **dangerous drug administered with failed skill use** | Varies | 1D6 hours | 5% | Usually pain, diarrhea, convulsions, or asphyxiation | Yes |
-| **Arsenic** | Ingestion | 1D6 hours | 10% | Pain, diarrhea, cramping | No |
-| **Scorpion or rattlesnake venom** | Bite or sting | 1D6 hours | 10% | Pain, weakness, hemorrhaging, convulsions | Yes |
+**Natural Poisons**
+
+| **Poison**                                            | **Entry Route** | **Speed** | **Lethality** | **Symptoms**                                         | **Antidote?** |
+| ----------------------------------------------------- | --------------- | --------- | ------------- | ---------------------------------------------------- | ------------- |
+| **Spider venom**                                      | Bite            | 1D6 hours | 5%            | Pain, chills, nausea; possibly necrosis              | Yes           |
+| **dangerous drug administered with failed skill use** | Varies          | 1D6 hours | 5%            | Usually pain, diarrhea, convulsions, or asphyxiation | Yes           |
+| **Arsenic**                                           | Ingestion       | 1D6 hours | 10%           | Pain, diarrhea, cramping                             | No            |
+| **Scorpion or rattlesnake venom**                     | Bite or sting   | 1D6 hours | 10%           | Pain, weakness, hemorrhaging, convulsions            | Yes           |
 
 
-| Manufactured Poisons |  |  |  |  |  |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| **Poison** | **Entry Route** | **Speed** | **Lethality** | **Symptoms** | **Antidote?** |
-| **Phosgene gas** | Inhalation | 2D6 hours | 15% | Blistering, coughing blood, asphyxiation | No |
-| **Hydrogen cyanide gas** | Inhalation | 1D6 turns | 20% | Asphyxiation | Yes |
-| **Sarin gas** | Inhalation or absorption through skin | 2D6 turns | 20% | Muscle contractions, spasms, asphyxiation | Yes |
-| **Ricin** | Injection or powder inhalation | 2D6 hours | 20% | Diarrhea, shock, seizures, circulatory failure | No |
+**Manufactured Poisons**
 
-|Sample Diseases |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-|**Disease**|**Route**|**Speed**|**CON Test Penalty**|**Damage**|**Symptoms**|**Cure**|
-|**Bacterial meningitis**|Airborne|1D6 days|–40|1D4|Stiff neck, nausea, confusion|Antibiotics|
-|**Bacterial pneumonia**|Inhalation|1D6 days|None|1D6|Cough, fever, chills|Antibiotics|
-|**COVID-19**|Inhalation|1D6 days|–20|1D6|Cough, fever, loss of smell|None yet developed|
-|**Gangrene**|Dirty wounds|1D6 days|–20|1D4|Discoloration, oozing, numbness|Antibiotics, excision, or amputation|
-|**Plague**|Flea bite (bubonic plague), inhalation (pneumonic plague)|1D6 days|None|1D6|Fever, chills, lymph node swelling, coughing (if pneumonic), shock|Antibiotics|
-|**HIV/AIDS**|Injection or unprotected sex|1D6 months|None|1D6|Weight loss, fever, swelling of lymph glands, collapse of immune system|No cure; persistent; antivirals can keep it in check|
-|**Ebola virus**|Contact with infected blood, bodies, or meat|1D6 days|–40|1D6|Fever, diarrhea, nausea, bleeding, shock|None|
+| **Poison**               | **Entry Route**                       | **Speed** | **Lethality** | **Symptoms**                              | **Antidote?** |
+| ------------------------ | ------------------------------------- | --------- | ------------- | ----------------------------------------- | ------------- |
+| **Phosgene gas**         | Inhalation                            | 2D6 hours | 15%           | Blistering, coughing blood, asphyxiation  | No            |
+| **Hydrogen cyanide gas** | Inhalation                            | 1D6 turns | 20%           | Asphyxiation                              | Yes           |
+| **Sarin gas**            | Inhalation or absorption through skin | 2D6 turns | 20%           | Muscle contractions, spasms, asphyxiation | Yes           |
+| **Ricin**                | Injection or powder inhalation        | 2D6 hours | 20%           | Diarrhea, shock, seizures, circulatory failure | No            |
+
+**Sample Diseases**
+
+| **Disease**              | **Route**                                                 | **Speed**  | **CON Test Penalty** | **Damage** | **Symptoms**                                                            | **Cure**                                             |
+| ------------------------ | --------------------------------------------------------- | ---------- | -------------------- | ---------- | ----------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Bacterial meningitis** | Airborne                                                  | 1D6 days   | –40                  | 1D4        | Stiff neck, nausea, confusion                                           | Antibiotics                                          |
+| **Bacterial pneumonia**  | Inhalation                                                | 1D6 days   | None                 | 1D6        | Cough, fever, chills                                                    | Antibiotics                                          |
+| **COVID-19**             | Inhalation                                                | 1D6 days   | –20                  | 1D6        | Cough, fever, loss of smell                                             | None yet developed                                   |
+| **Gangrene**             | Dirty wounds                                              | 1D6 days   | –20                  | 1D4        | Discoloration, oozing, numbness                                         | Antibiotics, excision, or amputation                 |
+| **Plague**               | Flea bite (bubonic plague), inhalation (pneumonic plague) | 1D6 days   | None                 | 1D6        | Fever, chills, lymph node swelling, coughing (if pneumonic), shock      | Antibiotics                                          |
+| **HIV/AIDS**             | Injection or unprotected sex                              | 1D6 months | None                 | 1D6        | Weight loss, fever, swelling of lymph glands, collapse of immune system | No cure; persistent; antivirals can keep it in check |
+| **Ebola virus**          | Contact with infected blood, bodies, or meat              | 1D6 days   | –40                  | 1D6        | Fever, diarrhea, nausea, bleeding, shock                                | None                                                 |
 
 Some diseases are persistent. That means that even succeeding at the CON test only buys time; the disease subsides and your Protagonist recovers lost HP. But every time the Protagonist is badly hurt (losing more than half his or her HP) or suffers from some other poison or disease, the Protagonist must make a CON×5 test to resist a resurgence.
 
-ANTIDOTES: Many poisons and diseases can be cured with medication. If a physician has the antidote for a poison or the right antibiotics for a disease, a Medicine or Pharmacy test before the ailment takes effect renders the poison or disease harmless. An antidote given after the ailment takes effect halves the Lethality rating and the HP damage.
+**ANTIDOTES:** Many poisons and diseases can be cured with medication. If a physician has the antidote for a poison or the right antibiotics for a disease, a Medicine or Pharmacy test before the ailment takes effect renders the poison or disease harmless. An antidote given after the ailment takes effect halves the Lethality rating and the HP damage.
 
 ### Falling
 
@@ -437,12 +437,12 @@ If your Protagonist doesn’t get a breath before suffocating, the damage starts
 
 Fire damage suffered depends on the flame’s intensity. The victim suffers a damage roll every turn of exposure.
 
-| Intensity | Example | Damage |
-| ---- | ---- | ---- |
-| Minor | Candle | 1/turn |
-| Moderate | Flaming brand; momentary exposure to a larger fire | 1D6/turn |
-| Large | Campfire | 2D6/turn |
-| Major | Scalding steam; bonfire; furnace | Lethality (10%) each turn |
+| Intensity | Example                                            | Damage   |
+| --------- | -------------------------------------------------- | -------- |
+| Minor     | Candle                                             | 1/turn   |
+| Moderate  | Flaming brand; momentary exposure to a larger fire | 1D6/turn |
+| Large     | Campfire                                           | 2D6/turn |
+| Major     | Scalding steam; bonfire; furnace                   | Lethality (10%) each turn |
 
 After taking damage from any moderate, large or major source of fire, the victim must make a **DEX×5** test or catch fire, suffering half damage each turn until extinguished. Being surrounded by a raging fire also causes suffocation as the fire consumes oxygen. (See **SUFFOCATION** above.)
 

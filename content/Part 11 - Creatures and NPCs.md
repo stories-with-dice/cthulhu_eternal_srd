@@ -1,5 +1,6 @@
 From https://cthulhueternal.com/open-mythos/, under OGL.
 
+
 # Summary of Entities
 
 The descriptions of the following unnatural entities (races of creatures and unique beings) are, for the most part, directly based on horrors described by Lovecraft himself.
@@ -44,7 +45,7 @@ For vast ages Ib was inhabited by a race of creatures (the so-called Beings of I
 
 At some point in Dreamlands history, humans from the cities of Thraa, Ilarnek and Kadatheron expanded their territories to the point where they encroached upon the stone city of Ib and its neighboring lake. At first the two races co-existed. But eventually, the ruthlessness of the humans led them to commit a dire act – mercilessly killing all the Beings of Ib. Then they razed the city to the ground. On its ruins they built a new human city – a place they dubbed Sarnath.
 
-However, the spirits of the Beings of Ib were not so easily dispelled. Along with their great god [**Bokrug**](https://cthulhueternal.com/open-mythos-entities-a-k#Bokrug), these dead souls waited for 1,000 years before they decided to take their ultimate revenge. One night, without warning, doom came to Sarnath and every human in the city was slain. Thus it was that the loyal Beings of Ib helped their god to become worshiped across the land of Mnar and beyond. The Beings of Ib – if any are still alive in the current Dreamlands – would be protected and supported by their god’s many adherents.
+However, the spirits of the Beings of Ib were not so easily dispelled. Along with their great god [[#Bokrug]], these dead souls waited for 1,000 years before they decided to take their ultimate revenge. One night, without warning, doom came to Sarnath and every human in the city was slain. Thus it was that the loyal Beings of Ib helped their god to become worshiped across the land of Mnar and beyond. The Beings of Ib – if any are still alive in the current Dreamlands – would be protected and supported by their god’s many adherents.
 
 **STR** 12 **CON** 10 **DEX** 11   **INT** 12 **POW** 8  
 **HP** 11    **WP** 8
@@ -165,7 +166,7 @@ Claw or Bite 60%, damage 1.
 
 **Skills:** Alertness 55%, Athletics 65%, Dreamlands Lore 25%, Military Science (Cats) 60%, Stealth 80%, Tracking (Smell) 65%.
 
-**Rituals:** [**Accelerated Healing**](https://cthulhueternal.com/open-mythos-rituals#Accelerated_Healing), [**Body Swap**](https://cthulhueternal.com/open-mythos-rituals#Body_Swap), [**Dominate Will**](https://cthulhueternal.com/open-mythos-rituals#Dominate_Will), [**Open Dimensional Rift**](https://cthulhueternal.com/open-mythos-rituals#Open_Dimensional_Rift), [**Prolong Life**](https://cthulhueternal.com/open-mythos-rituals#Prolong_Life).
+**Rituals:** [[Part 10 - Rituals#Accelerated Healing]], [[Part 10 - Rituals#Body Swap]], [[Part 10 - Rituals#Dominate Will]], [[Part 10 - Rituals#Open Dimensional Rift]], [[Part 10 - Rituals#Prolong Life]]
 
 **SAN Loss:** 0/1 SAN to see a cat do something “impossible” outside the Dreamlands.
 
@@ -259,7 +260,7 @@ Improvised Weapon 30%, damage 1D4-1.
 
 **Skills:** Alertness 40%, Dreaming 80%, Dreamlands Lore 50%, History 60%, Occult 90%, Unnatural 60%.
 
-**Rituals:** [**Aklo Sabaoth**](https://cthulhueternal.com/open-mythos-rituals#Aklo_Sabaoth) ([**Shub-Niggurath**](#Shub-Niggurath)), [**Inflict Harm**](https://cthulhueternal.com/open-mythos-rituals#Inflict_Harm), [**Open Dimensional Rift**](https://cthulhueternal.com/open-mythos-rituals#Open_Dimensional_Rift), [**Summon Entities**](https://cthulhueternal.com/open-mythos-rituals#Summon_Entities) ([**Night-gaunts**](#Night-gaunts)), and other rituals at the GM’s discretion.
+**Rituals:** [[Part 10 - Rituals#Aklo Sabaoth]] ([[Part 11 - Creatures and NPCs#Shub-Niggurath]]), [[Part 10 - Rituals#Inflict Harm]], [[Part 10 - Rituals#Open Dimensional Rift]], [[Part 10 - Rituals#Open Dimensional Rift]], [[Part 10 - Rituals#Summon Entities]] ([[Part 11 - Creatures and NPCs#Night-gaunts]]), and other rituals at the GM’s discretion.
 
 **Formless:** Although they tend to usually adopt a humanoid outline (in memory of their original form), Creeping Corpses in fact have no fixed rigid form. They can thus squeeze themselves through very narrow openings, even passing through tiny cracks if needed. They can also morph their shape at will, even taking on the rough outlines of specific people. Via such methods, the Corpses have a limited ability as shapeshifters, although they cannot mimic details such as facial features (a limitation they can overcome with a suitable mask).
 
@@ -274,7 +275,7 @@ Improvised Weapon 30%, damage 1D4-1.
 
 The worm-laden forms of the Creeping Corpses aren’t dangerous physical opponents. They can, however, prove difficult opponents mostly because of their significant knowledge of the Mythos and its attendant unnatural rituals. After all, you don’t study the arcane arts without picking up a thing or two and living for centuries – even if as a maggoty mass – gives one time to reflect on the nature of reality and the many rituals for manipulating it.
 
-Creeping Corpses’ ability to pose as human – at least in a very rudimentary fashion – also adds to their potential for mischief. Most Creeping Corpses belong to an arcane group aptly called the [**Cult of the Worm**](https://cthulhueternal.com/open-mythos-cults#Cult_Worm); most also worship [**Shub-Niggurath**](#Shub-Niggurath).
+Creeping Corpses’ ability to pose as human – at least in a very rudimentary fashion – also adds to their potential for mischief. Most Creeping Corpses belong to an arcane group aptly called the [[Part 12 - Cults#Cult of the Worm]]; most also worship [[Part 11 - Creatures and NPCs#Shub-Niggurath]].
 
 > _“The nethermost caverns, wrote the mad Arab, are not for the fathoming of eyes that see; for their marvels are strange and terrible. Cursed the ground where dead thoughts live new and oddly bodied, and evil the mind that is held by no head. Wisely did Ibn Schacabao say, that happy is the tomb where no wizard hath lain, and happy the town at night whose wizards are all ashes. For it is of old rumor that the soul of the devil-bought hastes not from his charnel clay, but fats and instructs the very worm that gnaws; till out of corruption horrid life springs, and the dull scavengers of earth wax crafty to vex it and swell monstrous to plague it. Great holes secretly are digged where earth’s pores ought to suffice, and things have learned to walk that ought to crawl.”_
 > 
@@ -291,7 +292,7 @@ _**Scourge of the Seas**_
 
 This race of amphibious sea creatures has made its home in the dark trenches of the deep sea and on the reefs off the coasts of humans for a very long time. In such places they have built underwater cities, establishing aquatic empires. The Deep Ones worship their dark gods, [**Dagon and Hydra**](#Dagon_and_Hydra), and above all worship [**Great Cthulhu**](#Great_Cthulhu).
 
-Deep Ones are notoriously deadly hunters underwater, although they can be just as deadly on land. Their physical form is human-like, but far more powerful, and their heads are more fish-like. Their skin is grayish-green with a white belly and a scaly dorsal crest. Deep Ones have webbed feet and gills and speak with raspy, barking voices. When conducting religious ceremonies, they sometimes wear [**strange tiaras made of a gold alloy**](https://cthulhueternal.com/open-mythos-artifacts#Golden_Tiaras_of_the_Deep_Ones).
+Deep Ones are notoriously deadly hunters underwater, although they can be just as deadly on land. Their physical form is human-like, but far more powerful, and their heads are more fish-like. Their skin is grayish-green with a white belly and a scaly dorsal crest. Deep Ones have webbed feet and gills and speak with raspy, barking voices. When conducting religious ceremonies, they sometimes wear [[Part 13 - Artifacts#Golden Tiaras of the Deep Ones]].
 
 Deep Ones are immortal: it is possible to see the knowledge of the aeons in their bulging dark eyes – assuming one survives an encounter. This usually only happens when the Deep One in question has a particular reason to let the person live.
 
@@ -2017,6 +2018,45 @@ Time and place mean very little in the context of Yog-Sothoth. Perhaps this flui
 > _“The Old Ones were, the Old Ones are, and the Old Ones shall be. Not in the spaces we know, but between them, they walk serene and primal, undimensioned and unseen to us. Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth is the key and guardian of the gate. Past, present, future, all are one in Yog-Sothoth. He knows where the old ones broke through of old, and where they shall break through again. He knows where They had trod earth’s fields, and where They still tread them, and why no one can behold Them as They tread.”_
 > 
 > — The Dunwich Horror, Howard Phillips Lovecraft, 1928.
+
+
+# Typical NPCs
+
+*Adapted from Delta Green - Handler's Guide Appendix*
+## NPCs Stats
+
+| NPC Level    | Most Stat Ratings | Important Stat Ratings | Most Skill Ratings | Important Skill Ratings |
+| ------------ | ----------------- | ---------------------- | ------------------ | ----------------------- |
+| Child        | 5                 | 7                      | None above 10%     | 20%                     |
+| Youth        | 7                 | 9                      | None above 30%     | 30%                     |
+| Novice       | 10                | 12                     | Base               | 40%                     |
+| **Ordinary** | **10**            | **12**                 | **Base**           | **50%**                 |
+| Exper        | 10                | 14                     | Base               | 60%                     |
+## Modern Era NPC Templates
+
+| NPC Example                       | Important Stats  | Important Skills                                                                                      |
+| --------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------- |
+| Academic (humanities)             | INT              | Anthropology, Archeology, Foreign Language, Occult                                                    |
+| Artist, author, or musician       | INT, POW, or CHA | Art (choose one), Persuade, any two others                                                            |
+| Bureaucrat                        | INT              | Administration, Law, Persuade                                                                         |
+| Computer expert                   | INT              | Craft (Electronics), Tech Use                                                                         |
+| Cult leader                       | POW, CHA         | Insight, Occult, Persuade                                                                             |
+| Federal agent or police detective | CON, INT         | Alertness, Firearms, Forensics, Law, Persuade, Unarmed                                                |
+| Firefighter                       | STR, CON         | Alertness, Athletics, First Aid, Heavy Machinery                                                      |
+| Gangster                          | STR              | Alertness, Drive, Firearms, Melee, Unarmed                                                            |
+| Journalist                        | INT, CHA         | Administration, Craft (Journalism), Insight, Persuade                                                 |
+| Laborer                           | STR              | Craft (Job), Drive, Heavy Machinery                                                                   |
+| Lawyer                            | INT, CHA         | Administration, Insight, Law, Persuade                                                                |
+| Nurse or paramedic                | INT              | Alertness, Insight, First Aid, Medicine, Search                                                       |
+| Office worker or student          | INT              | Choose any three                                                                                      |
+| Physician or coroner              | INT              | First Aid, Forensics, Medicine, Pharmacy, Science (Biology), Surgery                                  |
+| Pilot                             | DEX, INT         | Alertness, Craft (Mechanics), Navigate, Pilot (choose)                                                |
+| Police Officer                    | STR, CON         | Alertness, Drive, Firearms, Insight, Persuade, Unarmed                                                |
+| Psychotherapist or social worker  | INT              | Administration, Insight, Persuade, Psychoanalyze                                                      |
+| Scientist                         | INT              | Administration, Science (choose three)                                                                |
+| Soldier                           | CON              | Alertness, Athletics, Firearms, Military Training (choose two)                                        |
+| Special operator or police        | STR, CON         | Alertness, Athletics, Firearms, Heavy Weapons, Melee Weapons, Military Training, Swim, Unarmed Combat |
+| Terrorist                         | CON              | Alertness, Athletics, Craft (Explosives), Firearms, Persuade                                          |
 
 
 # Non-Mythos Creatures

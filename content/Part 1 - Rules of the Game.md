@@ -133,25 +133,24 @@ And why, despite all the terrifying dangers, does your Protagonist venture out t
 
 Every Protagonist has six core capabilities: Strength, Constitution, Dexterity, Intelligence, Power, and Charisma. These are called his or her statistics (or “stats” for short).
 
-| **Statistic** | **Abbreviation** | **Description** | **Stat Test Examples** |
-| ---- | ---- | ---- | ---- |
-| **Strength** | STR | Physical power, size, and musculature. | Drag an innocent to safety. Break down a locked door. Hold a struggling victim down. |
-| **Constitution** | CON | Health and physical resilience. | Resist illness, exhaustion, or pain. Hold your breath for a long time. Keep running longer than everyone else. |
-| **Dexterity** | DEX | Agility, coordination, and nimbleness. | Keep balance. React quickly. |
-| **Intelligence** | INT | How well a Protagonist notices, remembers, and connects things. Along with Archetype, it indicates education and overall brilliance. | Recall a detail. Piece together disparate data. |
-| **Power** | POW | Force of personality, motivation, and psychic resilience. | Keep your head in a crisis. Stand up to pressure. |
-| **Charisma** | CHA | Charm, leadership, and personal appeal. May indicate physical attractiveness. | Make a good impression. Talk your way into a private club. Look like you belong. |
+| **Statistic**    | **Abbreviation** | **Description**                                                                                                                      | **Stat Test Examples**                                                                                         |
+| ---------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **Strength**     | STR              | Physical power, size, and musculature.                                                                                               | Drag an innocent to safety. Break down a locked door. Hold a struggling victim down.                           |
+| **Constitution** | CON              | Health and physical resilience.                                                                                                      | Resist illness, exhaustion, or pain. Hold your breath for a long time. Keep running longer than everyone else. |
+| **Dexterity**    | DEX              | Agility, coordination, and nimbleness.                                                                                               | Keep balance. React quickly.                                                                                   |
+| **Intelligence** | INT              | How well a Protagonist notices, remembers, and connects things. Along with Archetype, it indicates education and overall brilliance. | Recall a detail. Piece together disparate data.                                                                |
+| **Power**        | POW              | Force of personality, motivation, and psychic resilience.                                                                            | Keep your head in a crisis. Stand up to pressure.                                                              |
+| **Charisma**     | CHA              | Charm, leadership, and personal appeal. May indicate physical attractiveness.                                                        | Make a good impression. Talk your way into a private club. Look like you belong.                               |
 
 During Protagonist creation, you can either roll **STATISTIC** scores (see [[#STEP 1 Determine Statistics]]) or simply divide 72 points between the six stats however you wish. The table nearby gives some examples of possible assignments.
 
 ###### Assignable Set of Statistics
 
-| >> Assignable Set of Statistics |  |  |  |  |  |  |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **Description** | Stat 1 | Stat 2 | Stat 3 | Stat 4 | Stat 5 | Stat 6 |
-| **Well-Rounded** | 13 | 13 | 12 | 12 | 11 | 11 |
-| **Focused** | 15 | 14 | 12 | 11 | 10 | 10 |
-| **Highly Focused** | 17 | 14 | 12 | 10 | 10 | 9 |
+| **Description**    | Stat 1 | Stat 2 | Stat 3 | Stat 4 | Stat 5 | Stat 6 |
+| ------------------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| **Well-Rounded**   | 13     | 13     | 12     | 12     | 11     | 11     |
+| **Focused**        | 15     | 14     | 12     | 11     | 10     | 10     |
+| **Highly Focused** | 17     | 14     | 12     | 10     | 10     | 9      |
 
 Each stat has a test score equal to the stat × 5: STR×5, INT×5, POW×5, etc. This means roll five times the stat or less on percentile dice (1D100) to succeed. When your Protagonist attempts a difficult action and no skill covers it, the Game Moderator may ask you to roll a stat test for whatever stat is the closest fit.
 
@@ -200,15 +199,15 @@ For games set in the modern day, catastrophes in the characters’ background wo
 
 A stat below 9 or above 12 is exceptional. Spare a word or two to describe stats outside the average; see the table nearby for some examples. These descriptors help give your Protagonist personality.
 
-| >> Sample Distinguishing Features |  |  |  |  |  |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Statistic | 3—4 | 5—8 | 9—12 | 13—16 | 17—18 |
-| Strength | Feeble | Weak | (Average) | Muscular | Huge |
-| Dexterity | Barely Mobile | Clumsy | (Average) | Nimble | Acrobatic |
-| Constitution | Bedridden | Sickly | (Average) | Perfect Health | Indefatigable |
-| Intelligence | Imbecilic | Slow | (Average) | Perceptive | Brilliant |
-| Power | Spineless | Nervous | (Average) | Strong-Willed | Indomitable |
-| Charisma | Unbearable | Awkward | (Average) | Charming | Magnetic |
+| >> Sample Distinguishing Features |               |         |           |                |               |
+| --------------------------------- | ------------- | ------- | --------- | -------------- | ------------- |
+| Statistic                         | 3—4           | 5—8     | 9—12      | 13—16          | 17—18         |
+| Strength                          | Feeble        | Weak    | (Average) | Muscular       | Huge          |
+| Dexterity                         | Barely Mobile | Clumsy  | (Average) | Nimble         | Acrobatic     |
+| Constitution                      | Bedridden     | Sickly  | (Average) | Perfect Health | Indefatigable |
+| Intelligence                      | Imbecilic     | Slow    | (Average) | Perceptive     | Brilliant     |
+| Power                             | Spineless     | Nervous | (Average) | Strong-Willed  | Indomitable   |
+| Charisma                          | Unbearable    | Awkward | (Average) | Charming       | Magnetic      |
 
 ## Detailed Description: Derived Attributes & Damage Bonus
 
@@ -253,8 +252,8 @@ _**If this number would be higher than Max SAN, Recovery SAN equals Max SAN.**_
 **Damage Bonus from STR Score**
 
 | 1—4 | 5—8 | 9—12 | 13—16 | 17—18 |
-| ---- | ---- | ---- | ---- | ---- |
-| -2 | -1 | 0 | +1 | +2 |
+| --- | --- | ---- | ----- | ----- |
+| -2  | -1  | 0    | +1    | +2    |
 
 ## Detailed Description: Archetypes
 
@@ -281,6 +280,11 @@ Later in the character generation process you will have opportunities to pick ot
 
 - **Adversity Skill Point Picks** (see [[#Detailed Description Adversity Skill Points]]) represent abilities your Protagonist has because of the harsh environment that he or she grew up in. These picks can only be used to enhance a few specific skills, and cannot be traded in for other benefits.
 - **Bonus Skill Point Picks** (see [[#Detailed Description Bonus Skill Points]]) represent hobbies and general experience he or she learned above and beyond the basics associated with the Archetype. You start with ten such bonus picks to use later in the Protagonist generation process. These picks _can_ be traded in for other advantages like increased availability of resources-at-hand or standing in a community.
+
+
+### Medieval Age: List of Archetypes
+
+TODO
 
 ### Modern Day: List of Archetypes
 
@@ -760,9 +764,531 @@ Choose any 4 of these that you don't already have:
 **BONDS:** 3
 
 
-### Medieval Age: List of Archetypes
 
-TODO
+
+### Future Age: List of Archetypes
+
+#### Artist / Craftsperson
+
+**RECOMMENDED STATS:** DEX
+
+**ARCHETYPAL SKILLS:**
+
+- Appraise 40%
+- Art (Type) 60%
+- Craft (Type) 40%
+- Charm 60%
+- Insight 60%
+- Persuade 60%
+- Search 60%
+
+Choose any 5 of these that you don't already have:
+
+- Administration 50%
+
+- Alertness 60%
+
+- Artificial Intelligence 40%
+
+- Athletics 70%
+
+- Craft (Type) 40%
+
+- Harangue 50%
+
+- Heavy Machinery 50%
+
+- Planet/Station Lore (Type) 40%
+
+- Technology Use 40%
+
+**STARTING RESOURCES:** 3
+
+**BONDS:** 3
+
+#### Author / Vlogger / Memlogger
+
+**RECOMMENDED STATS:** INT, CHA
+
+**ARCHETYPAL SKILLS:**
+
+- Alertness 50%
+
+- Art (Type) 50%
+
+- Insight 60%
+
+- Research 60%
+
+- Search 60%
+
+- Technology Use 20%
+
+Choose any 4 of these that you don't already have:
+
+- Cosmology 50%
+
+- Foreign Language (Type) 40%
+
+- Harangue 50%
+
+- History 50%
+
+- Law (Type) 40%
+
+- Occult 50%
+
+- Planet/Station Lore (Type) 40%
+
+- Science (Type) 40%
+
+- Xenoarcheology 40%
+
+**STARTING RESOURCES:** 4
+
+**BONDS:** 4
+
+#### Criminal
+
+**RECOMMENDED STATS:** DEX
+
+**ARCHETYPAL SKILLS:**
+
+- Alertness 40%
+
+- Appraise 40%
+
+- Craft (Type) 40%
+
+- Harangue 40%
+
+- Law (Type) 30%
+
+- Stealth 60%
+
+- Search 50%
+
+Choose any 3 of these that you don't already have:
+
+- Art (Type) 40%
+
+- Artificial Intelligence 40%
+
+- Athletics 70%
+
+- Charm 60%
+
+- Dodge 70%
+
+- Firearms/Beam Weapons 60%
+
+- Hacking 40%
+
+- Insight 50%
+
+- Melee Weapons 70%
+
+- Technology Use 40%
+
+**STARTING RESOURCES:** 5
+
+**BONDS:** 4
+
+#### Doctor / Nurse
+
+**RECOMMENDED STATS:** INT
+
+**ARCHETYPAL SKILLS:**
+
+- Administration 30%
+
+- Charm 40%
+
+- First Aid 50%
+
+- Insight 50%
+
+- Medicine 50%
+
+- Science (Type) 40%
+
+- Search 60%
+
+- Surgery 40%
+
+- Technology Use 30%
+
+Choose any 2 of these that you don't already have:
+
+- Foreign Language (Type) 40%
+
+- Military Training (Type) 40%
+
+- Forensics 40%
+
+- Pharmacy 40%
+
+- Psychoanalyze 50%
+
+- Research 50%
+
+- Science (Type) 40%
+
+**STARTING RESOURCES:** 5
+
+**BONDS:** 3
+
+#### Explorer / Pioneer
+
+**RECOMMENDED STATS:** CHA, POW
+
+**ARCHETYPAL SKILLS:**
+
+- Cosmology 50%
+
+- Craft (Type) 40%
+
+- Firearms/Beam Weapons 50%
+
+- First Aid 40%
+
+- Navigate 50%
+
+- Search 50%
+
+- Survival (Type) 50%
+
+- Track 50%
+
+Choose any 4 of these that you don't already have:
+
+- Firearms/Beam Weapons 60%
+
+- Hacking 40%
+
+- Heavy Machinery 50%
+
+- History 50%
+
+- Melee Weapons 70%
+
+- Occult 50%
+
+- Pilot (Type) 40%
+
+- Unarmed Combat 60%
+
+- Xenoarcheology 40%
+
+- Zero-G Maneuvering 40%
+
+**STARTING RESOURCES:** 3
+
+**BONDS:** 4
+
+#### Historian / Genealogist
+
+**RECOMMENDED STATS:** INT, CHA
+
+**ARCHETYPAL SKILLS:**
+
+- Administration 50%
+
+- History 70%
+
+- Planet/Station Lore (Type) 50%
+
+- Research 60%
+
+- Technology Use 30%
+
+- Xenoarcheology 50%
+
+Choose any 3 of these that you don't already have:
+
+- Art (Type) 40%
+
+- Artificial Intelligence 40%
+
+- Craft (Type) 40%
+
+- Foreign Language (Type) 40%
+
+- Law (Type) 40%
+
+- Military Training (Type) 40%
+
+- Persuade 60%
+
+- Search 60%
+
+**STARTING RESOURCES:** 4
+
+**BONDS:** 4
+
+#### Law Enforcer / Agent
+
+**RECOMMENDED STATS:** CON, CHA
+
+**ARCHETYPAL SKILLS:**
+
+- Alertness 50%
+
+- Athletics 60%
+
+- Drive 50%
+
+- Firearms/Beam Weapons 60%
+
+- Harangue 60%
+
+- Insight 50%
+
+- Law (Type) 40%
+
+- Search 50%
+
+Choose any 4 of these that you don't already have:
+
+- Disguise 50%
+
+- Dodge 70%
+
+- First Aid 50%
+
+- Forensics 40%
+
+- Hacking 40%
+
+- Melee Weapons 70%
+
+- Persuade 60%
+
+- Planet/Station Lore (Type) 40%
+
+- Stealth 50%
+
+- Technology Use 40%
+
+**STARTING RESOURCES:** 4
+
+**BONDS:** 3
+
+#### Librarian / Archivist
+
+**RECOMMENDED STATS:** INT
+
+**ARCHETYPAL SKILLS:**
+
+- Administration 60%
+
+- Alertness 50%
+
+- Appraise 50%
+
+- Research 60%
+
+- Search 50%
+
+- Technology Use 50%
+
+Choose any 5 of these that you don't already have:
+
+- Art (Type) 40%
+
+- Artificial Intelligence 40%
+
+- Cosmology 50%
+
+- Foreign Language (Type) 40%
+
+- History 50%
+
+- Law (Type) 40%
+
+- Occult 50%
+
+- Planet/Station Lore (Type) 40%
+
+- Xenoarcheology 40%
+
+**STARTING RESOURCES:** 4
+
+**BONDS:** 3
+
+#### Researcher / Scientist
+
+**RECOMMENDED STATS:** INT
+
+**ARCHETYPAL SKILLS:**
+
+- Administration 50%
+
+- Artificial Intelligence 30%
+
+- Persuade 60%
+
+- Research 60%
+
+- Science (Type) 60%
+
+- Search 50%
+
+- Technology Use 40%
+
+Choose any 4 of these that you don't already have:
+
+- Art (Type) 40%
+
+- Cosmology 50%
+
+- Foreign Language (Type) 40%
+
+- Hacking 40%
+
+- Heavy Machinery 50%
+
+- Military Training (Type) 40%
+
+- Psychoanalyze 50%
+
+- Science (Type) 40%
+
+- Xenoarcheology 40%
+
+**STARTING RESOURCES:** 5
+
+**BONDS:** 2
+
+#### Spacer
+
+**RECOMMENDED STATS:** INT, POW
+
+**ARCHETYPAL SKILLS:**
+
+- Administration 50%
+
+- Cosmology 30%
+
+- Craft (Type) 40%
+
+- Insight 50%
+
+- Navigate 30%
+
+- Pilot (Type) 40%
+
+- Search 50%
+
+- Technology Use 60%
+
+Choose any 4 of these that you don't already have:
+
+- Appraise 50%
+
+- Artificial Intelligence 40%
+
+- Craft (Type) 40%
+
+- Firearms/Beam Weapons 60%
+
+- Military Training (Type) 40%
+
+- Planet/Station Lore (Type) 40%
+
+- Research 50%
+
+- Survival (Type) 50%
+
+- Zero-G Maneuvering 40%
+
+**STARTING RESOURCES:** 4
+
+**BONDS:** 3
+
+#### Technologist
+
+**RECOMMENDED STATS:** INT, POW
+
+**ARCHETYPAL** SKILLS:
+
+- Administration 50%
+
+- Alertness 50%
+
+- Art (Type) 40%
+
+- Artificial Intelligence 50%
+
+- Persuade 40%
+
+- Search 50%
+
+- Technology Use 80%
+
+Choose any 4 of these that you don't already have:
+
+- Appraise 50%
+
+- Cosmology 50%
+
+- Craft (Type) 40%
+
+- Firearms/Beam Weapons 60%
+
+- Insight 50%
+
+- Military Training (Type) 40%
+
+- Navigate 50%
+
+- Pilot (Type) 40%
+
+- Research 50%
+
+**STARTING RESOURCES:** 4
+
+**BONDS:** 3
+
+#### White-Collar Worker
+
+**Recommended Stats:** INT, CHA
+
+**Archetypal Skills:**
+
+- Administration 60%
+
+- Charm 50%
+
+- Insight 50%
+
+- Persuade 50%
+
+- Research 40%
+
+- Technology Use 60%
+
+Choose any 4 of these that you don't already have:
+
+- Appraise 50%
+
+- Art (Type) 40%
+
+- Artificial Intelligence 40%
+
+- Foreign Language (Type) 40%
+
+- Harangue 50%
+
+- History 50%
+
+- Military Training (Type) 40%
+
+- Occult 50%
+
+**Starting Resources:** 5
+
+**Bonds:** 3
 
 ## Detailed Description: Adversity Skill Points
 
@@ -839,28 +1365,28 @@ In game terms this is represented by the number of **Resource Check boxes** the 
 ### Resources Breakdown & Check Boxes
 
 | Permanent Resource Rating | “At Hand” / “Stowed” / “In Storage” | Check Boxes |
-| ---- | ---- | ---- |
-| 0 | 0 / 0 / 0 | 0 |
-| 1 | 1 / 0 / 0 | 1 |
-| 2 | 2 / 0 / 0 | 1 |
-| 3 | 3 / 0 / 0 | 1 |
-| 4 | 4 / 0 / 0 | 1 |
-| 5 | 5 / 0 / 0 | 1 |
-| 6 | 6 / 0 / 0 | 1 |
-| 7 | 6 / 1 / 0 | 2 |
-| 8 | 6 / 2 / 0 | 2 |
-| 9 | 6 / 3 / 0 | 2 |
-| 10 | 6 / 4 / 0 | 2 |
-| 11 | 6 / 5 / 0 | 2 |
-| 12 | 6 / 6 / 0 | 2 |
-| 13 | 6 / 6 / 1 | 3 |
-| 14 | 6 / 6 / 2 | 3 |
-| 15 | 6 / 6 / 3 | 3 |
-| 16 | 6 / 6 / 4 | 3 |
-| 17 | 6 / 6 / 5 | 3 |
-| 18 | 6 / 6 / 6 | 3 |
-| 19 | 6 / 6 / 7 | 3 |
-| 20+ | 6 / 6 / 8+ | 3 |
+| ------------------------- | ----------------------------------- | ----------- |
+| 0                         | 0 / 0 / 0                           | 0           |
+| 1                         | 1 / 0 / 0                           | 1           |
+| 2                         | 2 / 0 / 0                           | 1           |
+| 3                         | 3 / 0 / 0                           | 1           |
+| 4                         | 4 / 0 / 0                           | 1           |
+| 5                         | 5 / 0 / 0                           | 1           |
+| 6                         | 6 / 0 / 0                           | 1           |
+| 7                         | 6 / 1 / 0                           | 2           |
+| 8                         | 6 / 2 / 0                           | 2           |
+| 9                         | 6 / 3 / 0                           | 2           |
+| 10                        | 6 / 4 / 0                           | 2           |
+| 11                        | 6 / 5 / 0                           | 2           |
+| 12                        | 6 / 6 / 0                           | 2           |
+| 13                        | 6 / 6 / 1                           | 3           |
+| 14                        | 6 / 6 / 2                           | 3           |
+| 15                        | 6 / 6 / 3                           | 3           |
+| 16                        | 6 / 6 / 4                           | 3           |
+| 17                        | 6 / 6 / 5                           | 3           |
+| 18                        | 6 / 6 / 6                           | 3           |
+| 19                        | 6 / 6 / 7                           | 3           |
+| 20+                       | 6 / 6 / 8+                          | 3           |
 
 #### Pushing the Limits
 

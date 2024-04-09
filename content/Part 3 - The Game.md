@@ -78,14 +78,14 @@ Having to make a skill test in the first place means there’s a substantial cha
 
 If a bonus or penalty applies, it’s usually +20%/−20% or rarely +40%/−40%.
 
-|   |   |   |
-|---|---|---|
-|Bonus or Penalty|Frequency|Description|
-|+40%|Rare|You _almost_ shouldn’t even bother to roll|
-|+20%|Uncommon|Circumstances are noticeably in your favor|
-|No modifier|Most circumstances|The action is difficult and unpredictable|
-|-20%|Uncommon|Circumstances are noticeably worse than usual.|
-|-40%|Rare|You _almost_ shouldn’t even bother to roll.|
+|                  |                    |                                                |
+| ---------------- | ------------------ | ---------------------------------------------- |
+| Bonus or Penalty | Frequency          | Description                                    |
+| +40%             | Rare               | You _almost_ shouldn’t even bother to roll     |
+| +20%             | Uncommon           | Circumstances are noticeably in your favor     |
+| No modifier      | Most circumstances | The action is difficult and unpredictable      |
+| -20%             | Uncommon           | Circumstances are noticeably worse than usual. |
+| -40%             | Rare               | You _almost_ shouldn’t even bother to roll.    |
 
 ### Who Rolls?
 
@@ -191,12 +191,12 @@ By nature, opposed tests are very unlikely to succeed. Not only must your roll s
 
 If two characters’ skills oppose each other but neither needs to roll, the higher rating wins.
 
-|   |   |   |
-|---|---|---|
-|**>> Opposed Tests and Pursuits**|   |   |
-|Outcome|Opponent Succeeds|Opponent Fails|
-|You Succeed|A critical success beats a success. Otherwise, whoever rolled higher succeeds and the other fails.|Your action succeeds and the opposed action fails.|
-|You Fail|You fail to stop the opposed action.|Nobody succeeds; or whoever rolled lower succeeds and the other fails (Game Moderator’s choice).|
+**Opposed Tests and Pursuits**
+
+| Outcome                           | Opponent Succeeds                                                                                  | Opponent Fails                                                                                   |
+| --------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| You Succeed                       | A critical success beats a success. Otherwise, whoever rolled higher succeeds and the other fails. | Your action succeeds and the opposed action fails.                                               |
+| You Fail                          | You fail to stop the opposed action.                                                               | Nobody succeeds; or whoever rolled lower succeeds and the other fails (Game Moderator’s choice). |
 
 ## Pursuit
 

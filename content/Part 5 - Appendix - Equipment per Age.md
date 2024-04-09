@@ -12,16 +12,18 @@ TODO
 
 Unarmed attacks, like punching, kicking, and strangling, use the **Unarmed** Combat skill. All melee weapons use the **Melee Weapons** skill.
 
-| Sample Weapons | Damage |
-| ---- | ---- |
-| Bare hands and feet | 1D4–1* |
-| Brass knuckles or steel-toe boot | 1D4* |
-| Taser | Stun |
-| Ordinary knife or hatchet | 1D4* |
-| Combat knife, garotte or nightstick | 1D6* |
-| Tomahawk, machete, or baseball bat | 1D8* |
-| Large sword, chainsaw | 2D6* |
+| Sample Weapons                      | Damage |
+| ----------------------------------- | ------ |
+| Bare hands and feet                 | 1D4–1* |
+| Brass knuckles or steel-toe boot    | 1D4*   |
+| Taser                               | Stun   |
+| Ordinary knife or hatchet           | 1D4*   |
+| Combat knife, garotte or nightstick | 1D6*   |
+| Tomahawk, machete, or baseball bat  | 1D8*   |
+| Large sword, chainsaw               | 2D6*   |
+
 \*Damage bonus is added for this weapon
+
 ## Ranged Weapons
 
 Old-fashioned ranged weapons that are aimed (e.g., crossbows, bow, and slings) use the **Firearms** skill even though they aren’t firearms. All such weapons require some kind of ammunition (arrows, bolts, bow) and are useless if the supply is exhausted. Primitive weapons that are thrown (e.g., spears) use **Athletics** skill.
@@ -35,12 +37,12 @@ Old-fashioned ranged weapons that are aimed (e.g., crossbows, bow, and slings) u
 
 ## Small Arms
 
-| Sample Weapons               | Damage                    | Base Range                                                                                            |
-| ---------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Small-caliber pistol         | 1D8                       | 10 yards                                                                                              |
-| Medium Pistol                | 1D10                      | 15 yards                                                                                              |
-| Carbine or very large pistol | 1D12                      | 100 yards for carbine<br>20 yards for heavy pistol                                                      |
-| Rifle                        | 1D12+2 [Armor Piercing 3] | 150 yards                                                                                             |
+| Sample Weapons               | Damage                    | Base Range                                                                                                    |
+| ---------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Small-caliber pistol         | 1D8                       | 10 yards                                                                                                      |
+| Medium Pistol                | 1D10                      | 15 yards                                                                                                      |
+| Carbine or very large pistol | 1D12                      | 100 yards for carbine<br>20 yards for heavy pistol                                                            |
+| Rifle                        | 1D12+2 [Armor Piercing 3] | 150 yards                                                                                                     |
 | Shotgun blast, close range   | 2D10                      | 50 yards<br><br>*full damage up to 10yds; <br>reduced to 1D10 for 10—20yds; <br>reduced to 1D6 for 20+ yards* |
   
 ## Automatic and Heavy Weapons
@@ -93,18 +95,18 @@ Many of these weapons actually fire in automatic bursts as well, which is subsum
 
 Only the lightest of Heavy Weapons will be commonly found, usually in military bases and the like. Most of the heavier ones are vehicle-mounted or specialized gear designed for military support units; these will typically be hard for the Protagonists to get their hands on, and even harder for them to transport to where they need firepower.
 
-| >> Unusual Ammunition |
-| ---- |
+| >> Unusual Ammunition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Most small-arms ammunition uses the standard, listed damage ratings. Special types are available.<br><br>**ARMOR-PIERCING:** Pistols, rifles, and submachine guns can fire bullets designed to pierce body armor. An armor piercing bullet reduces Armor by 5 (see **ARMOR PIERCING WEAPONS** on page 54; this replaces the weapon’s usual Armor Piercing rating, if any), but it does −1 damage (to a minimum of 1 point).<br><br>**HOLLOW POINT:** Pistols, rifles, and submachine guns can fire expanding bullets designed to cause greater tissue trauma at the expense of penetration. A hollow point round does +1 damage but armor is twice as effective against it. |
 
 #### Selective Fire
  
 | Type of Fire | Ammo Used | Lethality | Kill Radius |
-| ---- | ---- | ---- | ---- |
-| Short Burst | 3 | 10% | None |
-| Long Burst | 5 | 10% | 1 yd |
-| Short Spray | 10 | 10% | 2 yds |
-| Long Spray | 20 | 10% | 3 yds |
+| ------------ | --------- | --------- | ----------- |
+| Short Burst  | 3         | 10%       | None        |
+| Long Burst   | 5         | 10%       | 1 yd        |
+| Short Spray  | 10        | 10%       | 2 yds       |
+| Long Spray   | 20        | 10%       | 3 yds       |
 
 ### Weapons with Special Effects
 
@@ -139,4 +141,75 @@ Human bodies are excellent conductors of electricity. Anyone holding the target 
 
 # Future Age Weapons
 
-TODO
+## Melee Weapons
+
+| Sample Weapons                      | Damage |
+| ----------------------------------- | ------ |
+| Bare hands and feet                 | 1D4–1* |
+| Brass knuckles or steel-toe boot    | 1D4*   |
+| Taser                               | Stun   |
+| Ordinary knife or hatchet           | 1D4*   |
+| Combat knife, garotte or nightstick | 1D6*   |
+| Tomahawk, machete, or baseball bat  | 1D8*   |
+| Large sword, chainsaw               | 2D6*   |
+| Power sword                         | 2D8    |
+
+## Ranged Weapons
+
+  
+| Sample Weapons      | Skill     | Damage               | Base Range         |
+| ------------------- | --------- | -------------------- | ------------------ |
+| Crossbow            | Firearms  | 1D8+2                | 50 yards/meters    |
+| Thrown Rock         | Athletics | 1D4*                 | 20 yards/meters    |
+| Thrown Knife        | Athletics | 1D4*                 | STR×5 feet         |
+| Thrown Hand Grenade | Athletics | Lethality 12%, 4 yds | STR×3 yards/meters |
+
+\*Damage bonus is added for this weapon
+
+### Small Arms (Projectile / Beam)
+
+| Sample Weapons                       | Damage                    | Base Range                                                                                                |
+| ------------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Small-caliber pistol                 | 1D8                       | 10 yards/metres for projectile, 50 yards/metres for beam                                                  |
+| Medium Pistol                        | 1D10                      | 15 yards/metres for projectile, 100 yards/metres for beam                                                 |
+| Carbine or very large pistol         | 1D12                      | 20 yards/metres for projectile, 200 yards/metres for beam                                                 |
+| Carbine                              | 1D12                      | 100 yards/metres for projectile, 500 yards/metres for beam                                                |
+| Rifle                                | 1D12+2 [Armor Piercing 3] | 150 yards                                                                                                 |
+| Shotgun/flechette blast, close range | 2D10                      | 50 yards/meters<br><br>(full damage up to 10m; reduced to 1D10 for 10—20m; reduced to 1D6 for 20+ meters) |
+
+\*Beam weapons (e.g., lasers and blasters), while about as damaging as projectile weapons, have far longer range and no recoil. They’re also capable of automatic fire without recoil penalties. Their power pack capacity is roughly equivalent to magazines in a projectile weapon.
+
+### Automatic and Heavy Weapons
+
+| Sample Weapons                          | Skill                             | Base Range        | Lethality              | Kill Radius      |
+| --------------------------------------- | --------------------------------- | ----------------- | ---------------------- | ---------------- |
+| Submachine gun, fully auto [projectile] | Firearms                          | 50 yards/meters   | 10%                    | 1–3 yards/meters |
+| Laser carbine, fully auto               | Firearms                          | 200 yards/meters  | 10%                    | 1–3 yards/meters |
+| Battle rifle, fully auto [projectile]   | Firearms                          | 100 yards/meters  | 10% [Armor Piercing 3] | 1–3 yards/meters |
+| Battle laser, fully auto                | Firearms                          | 1000 yards/meters | 10% [Armor Piercing 3] | 1–3 yards/meters |
+| Very heavy sniper rifle [projectile]    | Firearms                          | 250 yards/meters  | 20% [Armor Piercing 5] | None             |
+| Very heavy sniper laser                 | Firearms                          | 5000 yards/meters | 20% [Armor Piercing 5] | None             |
+| Plasma rifle**                          | Firearms                          | 200 yards/meters  | 15%                    | 1–3 yards/meters |
+| Light Support Weapon [projectile]       | Military Training (Heavy Weapons) | 200 yards/meters  | 10% [Armor Piercing 3] | 3 yards/meters   |
+| Light Support Laser                     | Military Training (Heavy Weapons) | 2000 yards/meters | 10% [Armor Piercing 3] | 3 yards/meters   |
+| Heavy Support Weapon [projectile]       | Military Training (Heavy Weapons) | 400 yards/meters  | 20% [Armor Piercing 5  | 3 yards/meters   |
+| Heavy Support Laser                     | Military Training (Heavy Weapons) | 4000 yards/meters | 20% [Armor Piercing 5  | 3 yards/meters   |
+| Hand Grenade                            | Athletics                         | 20 yards/meters   | 15%                    | 10 yards/meters  |
+| Improvised Explosive Device             | Military Training (Demolitions)   | N/A               | 15%                    | 10 yards/meters  |
+| Grenade launcher                        | Military Training (Heavy Weapons) | 150 yards/meters  | 15%                    | 10 yards/meters  |
+| Rocket-propelled grenade                | Military Training (Heavy Weapons) | 200 yards/meters  | 30%                    | 10 yards/meters  |
+| Missile launcher                        | Military Training (Heavy Weapons) | 2000 yards/meters | 40%                    | 15 yards/meters  |
+
+\*Plasma rifles fire single shots, but their plasma bolts spall on impact, creating a Kill Radius.
+
+**Selective Fire**
+
+| Type of Fire | Ammo Used | Lethality | Kill Radius    |
+| ------------ | --------- | --------- | -------------- |
+| Short Burst  | 3         | 10%       | None           |
+| Long Burst   | 5         | 10%       | 1 yard/meter   |
+| Short Spray  | 10        | 10%       | 2 yards/meters |
+| Long Spray   | 20        | 10%       | 3 yards/meters |
+
+
+
